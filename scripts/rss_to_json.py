@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-RSS to JSON converter script
+RSS to JSON converter script with affiliate link processing
 Usage: python rss_to_json.py [--url RSS_URL] [--output OUTPUT_FILE]
 """
 
@@ -12,9 +12,10 @@ import time
 from pathlib import Path
 from urllib.error import URLError
 from datetime import datetime
+from affiliate_processor import AffiliateProcessor
 
-# Default RSS feed URL - using a reliable feed for testing
-DEFAULT_FEED_URL = "https://rss.cnn.com/rss/edition.rss"
+# Default RSS feed URL - SmartCanucks Canadian deals and coupons
+DEFAULT_FEED_URL = "https://smartcanucks.ca/feed/"
 
 
 def parse_rss_feed(feed_url):
@@ -79,7 +80,24 @@ def parse_rss_feed(feed_url):
             return {'error': 'No valid entries found (missing title or link)', 'entries': []}
             
         print(f"Successfully parsed {len(entries)} valid entries")
-        return {'entries': entries}
+        
+        # Process affiliate links
+        print("Processing affiliate links...")
+        processor = AffiliateProcessor()
+        processed_entries = []
+        
+        for entry in entries:
+            processed_entry = processor.process_rss_entry(entry.copy())
+            processed_entries.append(processed_entry)
+        
+        # Print affiliate processing statistics
+        stats = processor.get_stats()
+        print(f"Affiliate processing complete:")
+        print(f"  - Processed: {stats['processed']} links")
+        print(f"  - Skipped: {stats['skipped']} links")
+        print(f"  - Success rate: {stats['success_rate']:.1f}%")
+        
+        return {'entries': processed_entries}
         
     except URLError as e:
         return {'error': f'URL Error: {str(e)}'}

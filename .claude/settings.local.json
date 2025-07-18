@@ -40,7 +40,9 @@
       "Bash(npm install)",
       "Bash(npm run build:*)",
       "Bash(git push:*)",
-      "Bash(git remote:*)"
+      "Bash(git remote:*)",
+      "Bash(git commit:*)",
+      "WebFetch(domain:smartcanucks.ca)"
     ],
     "deny": []
   }
