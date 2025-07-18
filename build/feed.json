@@ -1,18 +1,70 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "updated": "2025-07-18T09:02:25.526500Z",
-  "entries": [
+  "scraped_at": "2025-07-18T09:24:00.313112Z",
+  "scraping_stats": {
+    "rss_entries": 20,
+    "posts_scraped": 3,
+    "merchant_links_found": 0,
+    "affiliate_links_processed": 0,
+    "affiliate_success_rate": 0
+  },
+  "rss_entries": [
+    {
+      "title": "Swiss Chalet Canada Promotions: Swiss Chalet Chicken & Ribfest is BACK!",
+      "link": "https://smartcanucks.ca/swiss-chalet-canada-promotions-swiss-chalet-chicken-ribfest-is-back/",
+      "published": "2025-07-18T16:02:10Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "Swiss Chalet Canada Promotions: Swiss Chalet Chicken & Ribfest is BACK!  - Canadian Freebies, Coupons, Deals, Bargains, Flyers, Contests Canada Canadian Freebies, Coupons, Deals, Bargains, Flyers, Contests Canada",
+        "content_preview": "Swiss Chalet Canadahas a great promotion available now.Swiss Chalet Chicken & Ribfest is BACK!Enjoy fall-off-the-bone BBQ Back Ribs from only $17.99, or get the best of both with our Chicken & Rib Com...",
+        "merchant_links_count": 0,
+        "deal_info": {
+          "discount_percentage": 75,
+          "original_price": 19.99,
+          "sale_price": 1.0,
+          "coupon_code": null,
+          "expiry_date": "september 21"
+        },
+        "scraped_at": 1752855835.1568708
+      }
+    },
     {
       "title": "Epic Games Freebie: Get Sid Meier’s Civilization VI Platinum Edition for FREE",
       "link": "https://smartcanucks.ca/epic-games-freebie-get-sid-meiers-civilization-vi-platinum-edition-for-free/",
       "published": "2025-07-18T15:45:53Z",
-      "affiliate_processed": false
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "Epic Games Freebie: Get Sid Meier’s Civilization VI Platinum Edition for FREE - Canadian Freebies, Coupons, Deals, Bargains, Flyers, Contests Canada Canadian Freebies, Coupons, Deals, Bargains, Flyers, Contests Canada",
+        "content_preview": "Epic Gameshas a great promotion available now, where you canget for FREESid Meier’s Civilization VI Platinum EditionThis offer is valid until July 24, 2025.Click here to view Epic Games offer....",
+        "merchant_links_count": 0,
+        "deal_info": {
+          "discount_percentage": 75,
+          "original_price": 19.99,
+          "sale_price": 3.79,
+          "coupon_code": null,
+          "expiry_date": "july 24"
+        },
+        "scraped_at": 1752855837.6395597
+      }
     },
     {
       "title": "Ever New Canada: End of Season Sale up to 50% off",
       "link": "https://smartcanucks.ca/ever-new-canada-end-of-season-sale-up-to-50-off/",
       "published": "2025-07-18T14:54:32Z",
-      "affiliate_processed": false
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "Ever New Canada: End of Season Sale up to 50% off - Canadian Freebies, Coupons, Deals, Bargains, Flyers, Contests Canada Canadian Freebies, Coupons, Deals, Bargains, Flyers, Contests Canada",
+        "content_preview": "The End of Season Sale is now at Ever New Canada, and select styles are up to 50% off. Prices are as marked with no promo code required, and shipping is free on orders of $70 or more. Here are some of...",
+        "merchant_links_count": 0,
+        "deal_info": {
+          "discount_percentage": 75,
+          "original_price": 222.99,
+          "sale_price": 3.79,
+          "coupon_code": null,
+          "expiry_date": null
+        },
+        "scraped_at": 1752855840.3130486
+      }
     },
     {
       "title": "Ela Canada: Jewelry Sale up to 50% off + Jilian Harris Collection",
@@ -59,9 +111,21 @@
       "affiliate_processed": false
     },
     {
+      "title": "Amazon Canada Deals: Save 57% on Cordless Table Lamps Rechargeable + 49% on Women’s Yoga Pants + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-57-on-cordless-table-lamps-rechargeable-49-on-womens-yoga-pants-more/",
+      "published": "2025-07-18T03:06:20Z",
+      "affiliate_processed": false
+    },
+    {
       "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings July 17th – 23rd",
       "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-july-17th-23rd/",
       "published": "2025-07-18T00:51:36Z",
+      "affiliate_processed": false
+    },
+    {
+      "title": "Amazon Canada Deals: Save 56% on Robot Vacuum Cleaner Using Promo Code + 43% on Women’s Summer Casual + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-56-on-robot-vacuum-cleaner-using-promo-code-43-on-women-summer-casual-more/",
+      "published": "2025-07-18T00:25:22Z",
       "affiliate_processed": false
     },
     {
@@ -105,24 +169,13 @@
       "link": "https://smartcanucks.ca/bench-canada-buy-one-get-one-free-multipacks-and-t-shirts-outlet-up-to-65-off/",
       "published": "2025-07-17T12:21:29Z",
       "affiliate_processed": false
-    },
-    {
-      "title": "No Frills Ontario Flyer Deals: 10lb Bag Russet Potatoes $1.49 Member Price July 17th – 20th + More",
-      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-10lb-bag-russet-potatoes-1-49-member-price-july-17th-20th-more/",
-      "published": "2025-07-17T01:00:44Z",
-      "affiliate_processed": false
-    },
-    {
-      "title": "New Mondelez Printable Coupons: Save on Crispers, Cadbury, Ritz, and More",
-      "link": "https://smartcanucks.ca/new-mondelez-printable-coupons-save-on-crispers-cadbury-ritz-and-more/",
-      "published": "2025-07-16T23:04:33Z",
-      "affiliate_processed": false
-    },
-    {
-      "title": "Walmart Canada Flyer Deals July 17th – 23rd",
-      "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-july-17th-23rd/",
-      "published": "2025-07-16T21:12:53Z",
-      "affiliate_processed": false
     }
-  ]
+  ],
+  "merchant_links": [],
+  "processing_summary": {
+    "total_rss_entries": 20,
+    "total_merchant_links": 0,
+    "affiliate_processed": 0,
+    "unique_merchants": 0
+  }
 }

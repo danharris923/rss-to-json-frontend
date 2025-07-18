@@ -44,7 +44,11 @@
       "Bash(git commit:*)",
       "WebFetch(domain:smartcanucks.ca)",
       "mcp__playwright__browser_navigate",
-      "Bash(npm run serve:*)"
+      "Bash(npm run serve:*)",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_evaluate",
+      "mcp__playwright__browser_close"
     ],
     "deny": []
   }

@@ -29,9 +29,9 @@ class PostScraper:
         self.delay_range = delay_range
         self.timeout = timeout
         
-        # Merchant domains to look for
+        # Merchant domains to look for (including shortlinks)
         self.merchant_domains = {
-            'amazon.ca', 'amazon.com',
+            'amazon.ca', 'amazon.com', 'amzn.to',  # Amazon shortlinks
             'walmart.ca', 'walmart.com',
             'bestbuy.ca', 'bestbuy.com',
             'canadiantire.ca',
@@ -125,8 +125,14 @@ class PostScraper:
     
     def _extract_content(self, soup: BeautifulSoup) -> str:
         """Extract main post content."""
-        # Try multiple selectors for WordPress content
-        content_selectors = [
+        # Try SmartCanucks-specific selectors first
+        smartcanucks_selectors = [
+            '.blog-content',
+            '.col-md-6.col-sm-7',
+        ]
+        
+        # Then try standard WordPress selectors
+        wordpress_selectors = [
             '.entry-content',
             '.post-content',
             '.content',
@@ -139,9 +145,15 @@ class PostScraper:
             '.single-post-content',
         ]
         
-        for selector in content_selectors:
+        all_selectors = smartcanucks_selectors + wordpress_selectors
+        
+        for selector in all_selectors:
             element = soup.select_one(selector)
             if element:
+                # Remove ad blocks from content
+                for ad in element.select('.adthrive-ad'):
+                    ad.decompose()
+                
                 content = element.get_text(strip=True)
                 if len(content) > 50:  # Only return if we found substantial content
                     return content[:1000]  # Limit content length
@@ -159,12 +171,21 @@ class PostScraper:
         """Extract all merchant links from the post."""
         merchant_links = []
         
-        # Focus on content areas first
-        content_areas = soup.select('.entry-content, .post-content, .content, article, main, .post')
+        # Focus on SmartCanucks content areas first
+        smartcanucks_areas = soup.select('.blog-content, .col-md-6.col-sm-7')
+        
+        # Then try standard WordPress content areas
+        wordpress_areas = soup.select('.entry-content, .post-content, .content, article, main, .post')
+        
+        content_areas = smartcanucks_areas + wordpress_areas
         if not content_areas:
             content_areas = [soup]  # Fallback to entire page
         
         for content_area in content_areas:
+            # Remove ad blocks first
+            for ad in content_area.select('.adthrive-ad'):
+                ad.decompose()
+            
             # Find all links in the content area
             all_links = content_area.find_all('a', href=True)
             
@@ -174,13 +195,17 @@ class PostScraper:
                     continue
                 
                 # Skip internal SmartCanucks links, footer links, etc.
-                if any(skip in href.lower() for skip in ['smartcanucks.ca', 'facebook.com', 'twitter.com', 'instagram.com', '#', 'mailto:']):
+                skip_patterns = [
+                    'smartcanucks.ca', 'facebook.com', 'twitter.com', 'instagram.com', 
+                    'pinterest.com', 'youtube.com', '#', 'mailto:', 'tel:', 'javascript:'
+                ]
+                if any(skip in href.lower() for skip in skip_patterns):
                     continue
                 
                 # Convert relative URLs to absolute
                 full_url = urljoin(base_url, href)
                 
-                # Check if this is a merchant link
+                # Check if this is a merchant link (including amzn.to shortlinks)
                 if self._is_merchant_link(full_url):
                     link_text = link.get_text(strip=True)
                     
@@ -218,6 +243,10 @@ class PostScraper:
         try:
             domain = urlparse(url).netloc.lower().replace('www.', '')
             
+            # Special handling for Amazon shortlinks
+            if 'amzn.to' in domain:
+                return 'amazon'
+            
             # Direct domain matches
             for merchant_domain in self.merchant_domains:
                 if merchant_domain in domain:
@@ -231,8 +260,12 @@ class PostScraper:
         """Classify the type of merchant link."""
         url_lower = url.lower()
         
+        # Amazon shortlinks
+        if 'amzn.to' in url_lower:
+            return 'amazon_product'
+        
         # Amazon product patterns
-        if 'amazon' in url_lower:
+        elif 'amazon' in url_lower:
             if '/dp/' in url_lower or '/gp/product/' in url_lower:
                 return 'amazon_product'
             elif '/deal/' in url_lower or '/gp/deal/' in url_lower:
@@ -329,17 +362,20 @@ class PostScraper:
 
 # Example usage and testing
 if __name__ == "__main__":
-    # Test with a SmartCanucks post
+    # Test with a SmartCanucks Amazon deals post
     scraper = PostScraper()
     
-    # Example SmartCanucks post URL
-    test_url = "https://smartcanucks.ca/adidas-canada-back-to-school-clothes-and-shoes-outlet-deals-save-25-off-everything-with-promo-code/"
+    # Amazon deals post URL
+    test_url = "https://smartcanucks.ca/amazon-canada-deals-save-57-on-cordless-table-lamps-rechargeable-49-on-womens-yoga-pants-more/"
     
     result = scraper.scrape_post(test_url)
     
     print(f"\nPost Title: {result.get('title', 'N/A')}")
+    print(f"Content Preview: {result.get('content', 'N/A')[:200]}...")
     print(f"Merchant Links Found: {len(result.get('merchant_links', []))}")
     
     for link in result.get('merchant_links', []):
         print(f"  - {link['merchant']}: {link['text'][:50]}...")
         print(f"    URL: {link['url']}")
+        print(f"    Type: {link['link_type']}")
+        print("    ---")

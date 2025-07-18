@@ -20,10 +20,10 @@ const FeedDisplay = () => {
         const data = await response.json();
         
         if (!ignore) {
-          // Handle the new data structure from RSS script
-          const entries = data.entries || [];
+          // Handle multi-blade scraper data structure
+          const entries = data.merchant_links || data.entries || [];
           setFeedData(entries);
-          setLastUpdated(data.updated);
+          setLastUpdated(data.scraped_at || data.updated);
           setError(null);
           setLoading(false);
         }
@@ -83,10 +83,10 @@ const FeedDisplay = () => {
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">
-          Latest RSS Feed
+          SmartCanucks Affiliate Deals
         </h1>
         <p className="text-gray-600">
-          Stay updated with the latest posts
+          Latest Canadian deals with affiliate links
         </p>
         {lastUpdated && (
           <p className="text-sm text-gray-500 mt-2">

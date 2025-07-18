@@ -33,15 +33,22 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install feedparser
+        pip install feedparser beautifulsoup4 requests
         
-    - name: Run RSS fetcher
+    - name: Run Multi-Blade Scraper
       env:
         DEBUG: ${{ github.event.inputs.debug_enabled }}
+        # Add affiliate tags as environment variables
+        AMAZON_CA_TAG: ${{ secrets.AMAZON_CA_TAG }}
+        AMAZON_COM_TAG: ${{ secrets.AMAZON_COM_TAG }}
+        WALMART_CA_TAG: ${{ secrets.WALMART_CA_TAG }}
+        BESTBUY_CA_TAG: ${{ secrets.BESTBUY_CA_TAG }}
+        ADIDAS_CA_TAG: ${{ secrets.ADIDAS_CA_TAG }}
+        STAPLES_CA_TAG: ${{ secrets.STAPLES_CA_TAG }}
       run: |
-        echo "Starting RSS feed update at $(date)"
-        python scripts/rss_to_json.py
-        echo "RSS feed update completed at $(date)"
+        echo "Starting multi-blade RSS scraping at $(date)"
+        python scripts/multi_blade_scraper.py --output public/feed.json --max-posts 20
+        echo "Multi-blade scraping completed at $(date)"
         
     - name: Verify output
       run: |
@@ -69,10 +76,11 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions Bot"
         git add public/feed.json
-        git commit -m "Update RSS feed data [skip ci]
+        git commit -m "Update RSS feed with affiliate links [skip ci]
         
         - Updated at: $(date -u)
-        - Entries: $(cat public/feed.json | jq '.entries | length' 2>/dev/null || echo 'unknown')
+        - RSS Entries: $(cat public/feed.json | jq '.rss_entries | length' 2>/dev/null || echo 'unknown')
+        - Merchant Links: $(cat public/feed.json | jq '.merchant_links | length' 2>/dev/null || echo 'unknown')
         - Source: $(cat public/feed.json | jq -r '.feed_url' 2>/dev/null || echo 'unknown')"
         
     - name: Push changes
