@@ -57,6 +57,33 @@ class PostScraper:
             'canadianfreestuff.com',
             'rakuten.ca',
             'groupon.ca',
+            # Gaming platforms
+            'epicgames.com',
+            'store.epicgames.com',
+            'steam.com',
+            'store.steampowered.com',
+            'gog.com',
+            'playstation.com',
+            'xbox.com',
+            'nintendo.com',
+            'ubisoft.com',
+            'ea.com',
+            'origin.com',
+            'battle.net',
+            'blizzard.com',
+            # Restaurant/food chains
+            'swisschalet.com',
+            'harveys.ca',
+            'kfc.ca',
+            'mcdonalds.ca',
+            'timhortons.ca',
+            'starbucks.ca',
+            'subway.ca',
+            'pizzahut.ca',
+            'dominos.ca',
+            'ubereats.com',
+            'doordash.com',
+            'skipthedishes.com',
         }
     
     def scrape_post(self, post_url: str) -> Dict:
@@ -84,10 +111,13 @@ class PostScraper:
             soup = BeautifulSoup(response.content, 'html.parser')
             
             # Extract post metadata
+            full_content = self._extract_content(soup)
             post_data = {
                 'url': post_url,
                 'title': self._extract_title(soup),
-                'content': self._extract_content(soup),
+                'content': full_content,
+                'content_summary': self._summarize_content(full_content),
+                'og_image': self._extract_og_image(soup),
                 'merchant_links': self._extract_merchant_links(soup, post_url),
                 'deal_info': self._extract_deal_info(soup),
                 'scraped_at': time.time(),
@@ -150,22 +180,126 @@ class PostScraper:
         for selector in all_selectors:
             element = soup.select_one(selector)
             if element:
-                # Remove ad blocks from content
-                for ad in element.select('.adthrive-ad'):
+                # Remove ad blocks and other clutter from content
+                for ad in element.select('.adthrive-ad, .ad, .advertisement, .ad-banner, .promo-box'):
                     ad.decompose()
+                
+                # Remove social media buttons, share buttons, etc.
+                for clutter in element.select('.social-share, .share-buttons, .related-posts, .tags, .categories'):
+                    clutter.decompose()
                 
                 content = element.get_text(strip=True)
                 if len(content) > 50:  # Only return if we found substantial content
-                    return content[:1000]  # Limit content length
+                    return content  # Return full content now
         
         # Fallback: try to find the main content area
         main_content = soup.find('main') or soup.find('div', {'id': 'main'})
         if main_content:
             content = main_content.get_text(strip=True)
             if len(content) > 50:
-                return content[:1000]
+                return content
         
         return "No content found"
+    
+    def _summarize_content(self, content: str) -> str:
+        """
+        Summarize content by extracting key deal information and removing fluff.
+        
+        Args:
+            content (str): Full post content
+            
+        Returns:
+            str: Summarized content focusing on deal details
+        """
+        if not content or content == "No content found":
+            return "No content to summarize"
+        
+        # Remove common fluff words and phrases
+        fluff_patterns = [
+            r'\b(the|and|or|but|if|then|also|very|really|quite|just|only|even|still|now|today|here|there|this|that|these|those|some|any|all|each|every|no|not|can|could|will|would|should|may|might|must|shall|do|does|did|have|has|had|be|is|are|was|were|been|being|get|got|getting|make|made|making|take|took|taking|give|gave|giving|go|goes|went|going|come|came|coming|see|saw|seeing|know|knew|known|knowing|think|thought|thinking|say|said|saying|tell|told|telling|use|used|using|find|found|finding|work|worked|working|call|called|calling|try|tried|trying|ask|asked|asking|need|needed|needing|want|wanted|wanting|turn|turned|turning|put|putting|seem|seemed|seeming|look|looked|looking|feel|felt|feeling|leave|left|leaving|move|moved|moving|live|lived|living|believe|believed|believing|hold|held|holding|bring|brought|bringing|happen|happened|happening|write|wrote|written|writing|provide|provided|providing|sit|sat|sitting|stand|stood|standing|lose|lost|losing|pay|paid|paying|meet|met|meeting|include|included|including|continue|continued|continuing|set|setting|learn|learned|learning|change|changed|changing|lead|led|leading|understand|understood|understanding|watch|watched|watching|follow|followed|following|stop|stopped|stopping|create|created|creating|speak|spoke|spoken|speaking|read|reading|allow|allowed|allowing|add|added|adding|spend|spent|spending|grow|grew|grown|growing|open|opened|opening|walk|walked|walking|win|won|winning|offer|offered|offering|remember|remembered|remembering|love|loved|loving|consider|considered|considering|appear|appeared|appearing|buy|bought|buying|wait|waited|waiting|serve|served|serving|die|died|dying|send|sent|sending|expect|expected|expecting|build|built|building|stay|stayed|staying|fall|fell|fallen|falling|cut|cutting|reach|reached|reaching|kill|killed|killing|remain|remained|remaining|suggest|suggested|suggesting|raise|raised|raising|pass|passed|passing|sell|sold|selling|require|required|requiring|report|reported|reporting|decide|decided|deciding|pull|pulled|pulling)\b',
+            r'\b(um|uh|hmm|well|like|you know|i mean|basically|literally|actually|honestly|obviously|clearly|definitely|certainly|probably|maybe|perhaps|anyway|however|therefore|furthermore|moreover|nevertheless|meanwhile|otherwise|instead|besides|although|though|unless|until|while|since|because|if|when|where|what|why|how|who|which|whom|whose)\b',
+            r'\b(amazing|awesome|incredible|fantastic|great|good|nice|cool|sweet|wow|omg|lol|haha|yes|no|ok|okay|sure|right|exactly|absolutely|totally|completely|perfectly|simply|easily|quickly|slowly|carefully|gently|softly|loudly|clearly|obviously|definitely|certainly|probably|maybe|perhaps|possibly|likely|unlikely|hopefully|unfortunately|luckily|surprisingly|interestingly|importantly|basically|essentially|generally|specifically|particularly|especially|mainly|mostly|usually|normally|typically|often|sometimes|rarely|never|always|already|still|yet|again|once|twice|three times|first|second|third|last|next|previous|final|initial|original|new|old|young|small|large|big|little|long|short|high|low|fast|slow|hot|cold|warm|cool|wet|dry|clean|dirty|easy|hard|difficult|simple|complex|light|dark|bright|heavy|empty|full|open|closed|free|busy|quiet|loud|safe|dangerous|happy|sad|angry|excited|tired|hungry|thirsty|sick|healthy|rich|poor|strong|weak|smart|stupid|funny|serious|beautiful|ugly|interesting|boring|important|useful|useless|necessary|unnecessary|possible|impossible|correct|wrong|true|false|real|fake|public|private|local|global|national|international|popular|common|rare|special|normal|strange|different|same|similar|equal|better|worse|best|worst|more|less|most|least|enough|too much|too little|too many|too few)\b',
+        ]
+        
+        # Split content into sentences
+        sentences = re.split(r'[.!?]+', content)
+        
+        # Find sentences that contain deal-related keywords
+        deal_keywords = [
+            'deal', 'discount', 'sale', 'offer', 'promo', 'coupon', 'code', 'save', 'free', 'off',
+            'price', 'cost', 'buy', 'get', 'click', 'link', 'here', 'view', 'shop', 'store',
+            'amazon', 'walmart', 'bestbuy', 'canadian tire', 'epic games', 'steam', 'playstation',
+            'xbox', 'nintendo', 'apple', 'microsoft', 'google', 'samsung', 'sony', 'lg',
+            'percent', '%', '$', 'dollar', 'cad', 'usd', 'shipping', 'delivery', 'order',
+            'limited time', 'expires', 'until', 'while supplies last', 'today only'
+        ]
+        
+        important_sentences = []
+        for sentence in sentences:
+            sentence = sentence.strip()
+            if len(sentence) < 10:  # Skip very short sentences
+                continue
+                
+            # Check if sentence contains deal keywords
+            sentence_lower = sentence.lower()
+            if any(keyword in sentence_lower for keyword in deal_keywords):
+                # Clean the sentence of fluff
+                cleaned_sentence = sentence
+                for pattern in fluff_patterns:
+                    cleaned_sentence = re.sub(pattern, '', cleaned_sentence, flags=re.IGNORECASE)
+                
+                # Remove extra spaces
+                cleaned_sentence = re.sub(r'\s+', ' ', cleaned_sentence).strip()
+                
+                if len(cleaned_sentence) > 20:  # Only keep substantial sentences
+                    important_sentences.append(cleaned_sentence)
+        
+        # If no important sentences found, take first few sentences
+        if not important_sentences:
+            important_sentences = [s.strip() for s in sentences[:3] if len(s.strip()) > 20]
+        
+        # Combine important sentences
+        summary = '. '.join(important_sentences[:5])  # Max 5 sentences
+        
+        # Final cleanup
+        summary = re.sub(r'\s+', ' ', summary).strip()
+        
+        # Limit length
+        if len(summary) > 500:
+            summary = summary[:500] + '...'
+        
+        return summary if summary else "Unable to summarize content"
+    
+    def _extract_og_image(self, soup: BeautifulSoup) -> Optional[str]:
+        """Extract OpenGraph image URL from the post."""
+        # Try OpenGraph meta tag first
+        og_image = soup.find('meta', property='og:image')
+        if og_image and og_image.get('content'):
+            return og_image['content']
+        
+        # Try Twitter card image
+        twitter_image = soup.find('meta', attrs={'name': 'twitter:image'})
+        if twitter_image and twitter_image.get('content'):
+            return twitter_image['content']
+        
+        # Try generic meta image
+        meta_image = soup.find('meta', attrs={'name': 'image'})
+        if meta_image and meta_image.get('content'):
+            return meta_image['content']
+        
+        # Try to find featured image in content
+        content_areas = soup.select('.entry-content, .post-content, .blog-content')
+        for area in content_areas:
+            img = area.find('img')
+            if img and img.get('src'):
+                return img['src']
+        
+        # Fallback to any img tag
+        img = soup.find('img')
+        if img and img.get('src'):
+            return img['src']
+        
+        return None
     
     def _extract_merchant_links(self, soup: BeautifulSoup, base_url: str) -> List[Dict]:
         """Extract all merchant links from the post."""
@@ -205,8 +339,8 @@ class PostScraper:
                 # Convert relative URLs to absolute
                 full_url = urljoin(base_url, href)
                 
-                # Check if this is a merchant link (including amzn.to shortlinks)
-                if self._is_merchant_link(full_url):
+                # Check if this is a deal link using intelligent detection
+                if self._is_deal_link(full_url, link):
                     link_text = link.get_text(strip=True)
                     
                     # Skip if link text is too generic or empty
@@ -226,16 +360,72 @@ class PostScraper:
         
         return merchant_links
     
-    def _is_merchant_link(self, url: str) -> bool:
-        """Check if URL is a merchant link we want to process."""
+    def _is_deal_link(self, url: str, link_element) -> bool:
+        """Intelligent detection of deal links based on context and content."""
         try:
-            domain = urlparse(url).netloc.lower()
-            # Remove www. prefix
-            domain = domain.replace('www.', '')
+            # Get link text and surrounding context
+            link_text = link_element.get_text(strip=True).lower()
             
-            # Check if domain matches any merchant domain
-            return any(merchant in domain for merchant in self.merchant_domains)
-        except:
+            # Check if link has deal-related text patterns
+            deal_text_patterns = [
+                'click here', 'view offer', 'get deal', 'shop now', 'buy now',
+                'order now', 'purchase', 'download', 'get it', 'grab it',
+                'check it out', 'see deal', 'view deal', 'get this',
+                'epic games', 'steam', 'amazon', 'walmart', 'best buy',
+                'get free', 'download free', 'claim', 'redeem',
+                'visit', 'go to', 'check out', 'see more', 'learn more',
+                'promo code', 'coupon', 'discount', 'save', 'sale'
+            ]
+            
+            # Check link text
+            if any(pattern in link_text for pattern in deal_text_patterns):
+                return True
+            
+            # Check if link is in a deal context (look at parent elements)
+            parent = link_element.parent
+            if parent:
+                parent_text = parent.get_text(strip=True).lower()
+                
+                # Look for deal context in parent text
+                deal_context_patterns = [
+                    'deal', 'offer', 'promo', 'sale', 'discount', 'free',
+                    'save', 'coupon', 'code', 'epic games', 'steam',
+                    'amazon', 'walmart', 'click here', 'view'
+                ]
+                
+                if any(pattern in parent_text for pattern in deal_context_patterns):
+                    return True
+            
+            # Check URL for deal patterns
+            url_lower = url.lower()
+            deal_url_patterns = [
+                'deal', 'offer', 'promo', 'sale', 'discount', 'coupon',
+                'free', 'epicgames.com', 'steam', 'amazon', 'walmart',
+                'product', 'item', 'buy', 'shop', 'store'
+            ]
+            
+            if any(pattern in url_lower for pattern in deal_url_patterns):
+                return True
+            
+            # Check if URL is from known merchant domains
+            domain = urlparse(url).netloc.lower().replace('www.', '')
+            if any(merchant in domain for merchant in self.merchant_domains):
+                return True
+            
+            # Check if link has special attributes that indicate it's a deal link
+            link_attrs = link_element.attrs
+            if 'data-deal' in link_attrs or 'data-offer' in link_attrs:
+                return True
+                
+            # Check for external links that might be deals
+            if domain != 'smartcanucks.ca' and len(link_text) > 5:
+                # If it's an external link with substantial text, it might be a deal
+                return True
+            
+            return False
+            
+        except Exception as e:
+            # If there's any error, be conservative and return False
             return False
     
     def _identify_merchant(self, url: str) -> str:

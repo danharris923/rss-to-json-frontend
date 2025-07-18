@@ -99,6 +99,8 @@ class MultiBladeScrap:
                 enhanced_entry['scraped_content'] = {
                     'title': post_data.get('title', ''),
                     'content_preview': post_data.get('content', '')[:200] + '...' if post_data.get('content') else '',
+                    'content_summary': post_data.get('content_summary', ''),
+                    'og_image': post_data.get('og_image'),
                     'merchant_links_count': len(post_data.get('merchant_links', [])),
                     'deal_info': post_data.get('deal_info', {}),
                     'scraped_at': post_data.get('scraped_at'),
