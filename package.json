@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A serverless RSS-to-JSON frontend deployment system with React and GitHub Actions",
   "private": true,
-  "homepage": "https://your-username.github.io/clickandsave",
+  "homepage": "https://danharris923.github.io/rss-to-json-frontend",
   "keywords": [
     "rss",
     "json",
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/clickandsave.git"
+    "url": "https://github.com/danharris923/rss-to-json-frontend.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/clickandsave/issues"
+    "url": "https://github.com/danharris923/rss-to-json-frontend/issues"
   },
   "dependencies": {
     "react": "^18.2.0",

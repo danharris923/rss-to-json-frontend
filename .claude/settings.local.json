@@ -38,7 +38,9 @@
       "WebFetch(domain:react.dev)",
       "Bash(pip install:*)",
       "Bash(npm install)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)"
     ],
     "deny": []
   }

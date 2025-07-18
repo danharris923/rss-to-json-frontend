@@ -1,27 +1,13 @@
 {
   "name": "rss-to-json-frontend",
-  "version": 2,
-  "builds": [
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "installCommand": "npm install",
+  "devCommand": "npm start",
+  "rewrites": [
     {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "build"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/static/(.*)",
-      "dest": "/static/$1"
-    },
-    {
-      "src": "/feed.json",
-      "dest": "/feed.json"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ],
   "headers": [
@@ -48,14 +34,6 @@
       ]
     }
   ],
-  "env": {
-    "REACT_APP_BUILD_TIME": "@now"
-  },
-  "functions": {
-    "src/api/**/*.js": {
-      "runtime": "@vercel/node@3"
-    }
-  },
   "redirects": [
     {
       "source": "/rss",
@@ -64,9 +42,5 @@
     }
   ],
   "trailingSlash": false,
-  "cleanUrls": true,
-  "public": true,
-  "github": {
-    "enabled": false
-  }
+  "cleanUrls": true
 }
