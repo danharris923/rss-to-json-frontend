@@ -42,7 +42,9 @@
       "Bash(git push:*)",
       "Bash(git remote:*)",
       "Bash(git commit:*)",
-      "WebFetch(domain:smartcanucks.ca)"
+      "WebFetch(domain:smartcanucks.ca)",
+      "mcp__playwright__browser_navigate",
+      "Bash(npm run serve:*)"
     ],
     "deny": []
   }

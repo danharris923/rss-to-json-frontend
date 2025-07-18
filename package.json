@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A serverless RSS-to-JSON frontend deployment system with React and GitHub Actions",
   "private": true,
-  "homepage": "https://danharris923.github.io/rss-to-json-frontend",
   "keywords": [
     "rss",
     "json",
