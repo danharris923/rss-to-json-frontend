@@ -1,0 +1,72 @@
+{
+  "name": "rss-to-json-frontend",
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1"
+    },
+    {
+      "src": "/feed.json",
+      "dest": "/feed.json"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/feed.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=300, stale-while-revalidate=60"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    },
+    {
+      "source": "/static/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ],
+  "env": {
+    "REACT_APP_BUILD_TIME": "@now"
+  },
+  "functions": {
+    "src/api/**/*.js": {
+      "runtime": "@vercel/node@3"
+    }
+  },
+  "redirects": [
+    {
+      "source": "/rss",
+      "destination": "/feed.json",
+      "statusCode": 301
+    }
+  ],
+  "trailingSlash": false,
+  "cleanUrls": true,
+  "public": true,
+  "github": {
+    "enabled": false
+  }
+}

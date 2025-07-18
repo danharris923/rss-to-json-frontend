@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Malformed RSS Feed</title>
+    <link>https://example.com</link>
+    <description>A malformed RSS feed for testing error handling</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jan 2024 10:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Post with Missing Closing Tag</title>
+      <link>https://example.com/posts/missing-closing-tag</link>
+      <description>This post has a missing closing tag which should cause XML parsing issues.
+      <pubDate>Wed, 17 Jan 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">malformed-post-1</guid>
+    </item>
+    
+    <item>
+      <title>Post with Unescaped Characters</title>
+      <link>https://example.com/posts/unescaped-characters</link>
+      <description>This post contains unescaped characters like < and > and & which should cause XML parsing issues.</description>
+      <pubDate>Wed, 17 Jan 2024 09:30:00 GMT</pubDate>
+      <guid isPermaLink="false">malformed-post-2</guid>
+    </item>
+    
+    <!-- This comment is not properly closed
+    
+    <item>
+      <title>Post with Malformed XML Structure</title>
+      <link>https://example.com/posts/malformed-structure</link>
+      <description>This post has malformed XML structure</description>
+      <pubDate>Wed, 17 Jan 2024 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">malformed-post-3</guid>
+    </item>
+    
+    <item>
+      <title>Post with Invalid Date Format</title>
+      <link>https://example.com/posts/invalid-date</link>
+      <description>This post has an invalid date format</description>
+      <pubDate>This is not a valid date</pubDate>
+      <guid isPermaLink="false">malformed-post-4</guid>
+    </item>
+    
+    <item>
+      <title>Post with Missing Required Fields
+      <link>https://example.com/posts/missing-fields</link>
+      <description>This post has missing required fields like the closing title tag</description>
+      <pubDate>Wed, 17 Jan 2024 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">malformed-post-5</guid>
+    </item>
+    
+  </channel>
+<!-- Missing closing rss tag -->

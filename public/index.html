@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="RSS to JSON Feed Reader - Stay updated with the latest posts from your favorite RSS feeds" />
+  <meta name="keywords" content="RSS, feed, reader, JSON, news, blog" />
+  <meta name="author" content="RSS Feed Reader" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://your-username.github.io/your-repo/" />
+  <meta property="og:title" content="RSS Feed Reader" />
+  <meta property="og:description" content="Stay updated with the latest posts from your favorite RSS feeds" />
+  <meta property="og:image" content="%PUBLIC_URL%/favicon.ico" />
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://your-username.github.io/your-repo/" />
+  <meta property="twitter:title" content="RSS Feed Reader" />
+  <meta property="twitter:description" content="Stay updated with the latest posts from your favorite RSS feeds" />
+  <meta property="twitter:image" content="%PUBLIC_URL%/favicon.ico" />
+  
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/favicon.ico" />
+  
+  <!-- Tailwind CSS CDN for development -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#3b82f6',
+            secondary: '#1f2937',
+          }
+        }
+      }
+    }
+  </script>
+  
+  <!-- Preconnect to external domains for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <title>RSS Feed Reader</title>
+  
+  <!-- Inline critical CSS for better performance -->
+  <style>
+    .min-h-screen {
+      min-height: 100vh;
+    }
+    
+    .bg-gray-50 {
+      background-color: #f9fafb;
+    }
+    
+    /* Loading screen styles */
+    .loading-screen {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #f9fafb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+    }
+    
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid #e5e7eb;
+      border-top: 4px solid #3b82f6;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    
+    /* Hide loading screen when React loads */
+    #root:not(:empty) + .loading-screen {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  
+  <div id="root"></div>
+  
+  <!-- Loading screen shown while React loads -->
+  <div class="loading-screen">
+    <div class="text-center">
+      <div class="loading-spinner"></div>
+      <p class="mt-4 text-gray-600">Loading RSS Feed Reader...</p>
+    </div>
+  </div>
+  
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/service-worker.js')
+          .then(function(registration) {
+            console.log('SW registered: ', registration);
+          })
+          .catch(function(registrationError) {
+            console.log('SW registration failed: ', registrationError);
+          });
+      });
+    }
+  </script>
+</body>
+</html>

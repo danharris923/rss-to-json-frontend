@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Partial RSS Feed</title>
+    <link>https://example.com</link>
+    <description>An RSS feed with partial/missing fields for testing validation</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jan 2024 10:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Valid Post with All Fields</title>
+      <link>https://example.com/posts/valid-post</link>
+      <description>This post has all required fields and should be included in the output.</description>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">valid-post</guid>
+    </item>
+    
+    <item>
+      <title>Post Missing Link</title>
+      <!-- Missing link field -->
+      <description>This post is missing the link field and should be skipped during processing.</description>
+      <pubDate>Wed, 17 Jan 2024 09:30:00 GMT</pubDate>
+      <guid isPermaLink="false">missing-link</guid>
+    </item>
+    
+    <item>
+      <!-- Missing title field -->
+      <link>https://example.com/posts/missing-title</link>
+      <description>This post is missing the title field and should be skipped during processing.</description>
+      <pubDate>Wed, 17 Jan 2024 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">missing-title</guid>
+    </item>
+    
+    <item>
+      <title>Post with Empty Title</title>
+      <link>https://example.com/posts/empty-title</link>
+      <description>This post has an empty title field.</description>
+      <pubDate>Wed, 17 Jan 2024 08:30:00 GMT</pubDate>
+      <guid isPermaLink="false">empty-title</guid>
+    </item>
+    
+    <item>
+      <title>Post with No Publication Date</title>
+      <link>https://example.com/posts/no-pubdate</link>
+      <description>This post has no publication date but should still be included since date is optional.</description>
+      <guid isPermaLink="false">no-pubdate</guid>
+    </item>
+    
+    <item>
+      <title>Another Valid Post</title>
+      <link>https://example.com/posts/another-valid</link>
+      <description>This is another valid post that should be included in the output.</description>
+      <pubDate>Wed, 17 Jan 2024 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">another-valid</guid>
+    </item>
+    
+  </channel>
+</rss>

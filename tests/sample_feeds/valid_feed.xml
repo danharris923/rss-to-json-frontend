@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample RSS Feed</title>
+    <link>https://example.com</link>
+    <description>A sample RSS feed for testing purposes</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jan 2024 10:00:00 GMT</lastBuildDate>
+    <generator>Test RSS Generator</generator>
+    
+    <item>
+      <title>First Sample Post</title>
+      <link>https://example.com/posts/first-sample-post</link>
+      <description>This is the first sample post for testing the RSS feed parser. It contains all the required fields and should be processed successfully.</description>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">post-1</guid>
+      <author>test@example.com (Test Author)</author>
+      <category>Technology</category>
+    </item>
+    
+    <item>
+      <title>Second Sample Post</title>
+      <link>https://example.com/posts/second-sample-post</link>
+      <description>This is the second sample post. It demonstrates how multiple items are handled in the RSS feed.</description>
+      <pubDate>Wed, 17 Jan 2024 09:30:00 GMT</pubDate>
+      <guid isPermaLink="false">post-2</guid>
+      <author>test@example.com (Test Author)</author>
+      <category>Web Development</category>
+    </item>
+    
+    <item>
+      <title>Third Sample Post with Special Characters</title>
+      <link>https://example.com/posts/third-sample-post</link>
+      <description>This post contains special characters: &lt;b&gt;HTML&lt;/b&gt;, &quot;quotes&quot;, &amp; ampersands. It tests XML entity handling.</description>
+      <pubDate>Wed, 17 Jan 2024 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">post-3</guid>
+      <author>test@example.com (Test Author)</author>
+      <category>Testing</category>
+    </item>
+    
+    <item>
+      <title>Fourth Sample Post</title>
+      <link>https://example.com/posts/fourth-sample-post</link>
+      <description>This post demonstrates a longer description with multiple sentences. It should be processed correctly by the RSS parser and displayed properly in the frontend.</description>
+      <pubDate>Wed, 17 Jan 2024 08:30:00 GMT</pubDate>
+      <guid isPermaLink="false">post-4</guid>
+      <author>test@example.com (Test Author)</author>
+      <category>Sample</category>
+    </item>
+    
+    <item>
+      <title>Fifth Sample Post</title>
+      <link>https://example.com/posts/fifth-sample-post</link>
+      <description>This is the final sample post in our test feed. It ensures we have enough content to test pagination and display layouts.</description>
+      <pubDate>Wed, 17 Jan 2024 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">post-5</guid>
+      <author>test@example.com (Test Author)</author>
+      <category>Final</category>
+    </item>
+    
+  </channel>
+</rss>

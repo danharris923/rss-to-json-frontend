@@ -1,0 +1,90 @@
+name: RSS Feed Update
+
+on:
+  schedule:
+    # Run every hour at 5 minutes past to avoid peak loads
+    - cron: '5 * * * *'
+  workflow_dispatch:  # Allow manual trigger for testing
+    inputs:
+      debug_enabled:
+        description: 'Enable debug logging'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+        
+    - name: Run RSS fetcher
+      env:
+        DEBUG: ${{ github.event.inputs.debug_enabled }}
+      run: |
+        echo "Starting RSS feed update at $(date)"
+        python scripts/rss_to_json.py
+        echo "RSS feed update completed at $(date)"
+        
+    - name: Verify output
+      run: |
+        if [ ! -f public/feed.json ]; then
+          echo "Error: feed.json not created"
+          exit 1
+        fi
+        echo "Feed file created successfully"
+        echo "File size: $(stat -c%s public/feed.json 2>/dev/null || stat -f%z public/feed.json 2>/dev/null || echo 'unknown') bytes"
+        
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if [[ -n $(git status --porcelain public/feed.json) ]]; then
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "RSS feed has changes"
+        else
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "No changes to RSS feed"
+        fi
+        
+    - name: Commit changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions Bot"
+        git add public/feed.json
+        git commit -m "Update RSS feed data [skip ci]
+        
+        - Updated at: $(date -u)
+        - Entries: $(cat public/feed.json | jq '.entries | length' 2>/dev/null || echo 'unknown')
+        - Source: $(cat public/feed.json | jq -r '.feed_url' 2>/dev/null || echo 'unknown')"
+        
+    - name: Push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git push origin main
+        echo "Changes pushed to repository"
+        
+    - name: Log completion
+      run: |
+        echo "RSS feed update workflow completed successfully"
+        if [ -f public/feed.json ]; then
+          echo "Feed entries: $(cat public/feed.json | jq '.entries | length' 2>/dev/null || echo 'unknown')"
+          echo "Last updated: $(cat public/feed.json | jq -r '.updated' 2>/dev/null || echo 'unknown')"
+        fi

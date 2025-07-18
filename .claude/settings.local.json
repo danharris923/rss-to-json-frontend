@@ -30,7 +30,15 @@
       "Bash(git restore:*)",
       "Bash(./quick-setup.sh:*)",
       "Bash(docker-compose up:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "WebFetch(domain:feedparser.readthedocs.io)",
+      "WebFetch(domain:pythonhosted.org)",
+      "WebFetch(domain:pypi.org)",
+      "WebFetch(domain:docs.github.com)",
+      "WebFetch(domain:react.dev)",
+      "Bash(pip install:*)",
+      "Bash(npm install)",
+      "Bash(npm run build:*)"
     ],
     "deny": []
   }

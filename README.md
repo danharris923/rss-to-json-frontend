@@ -1,364 +1,351 @@
-# Context Engineering Template
+# RSS-to-JSON Frontend Deployment System
 
-A comprehensive template for getting started with Context Engineering - the discipline of engineering context for AI coding assistants so they have the information necessary to get the job done end to end.
+A modern, serverless RSS-to-JSON frontend deployment system that automatically fetches RSS feeds hourly, converts them to JSON, and displays them in a React-based frontend. The system is self-contained, GitHub-hosted, and requires zero backend infrastructure.
 
-> **Context Engineering is 10x better than prompt engineering and 100x better than vibe coding.**
+## 🚀 Features
 
-## 🔗 Links & Resources
+- **Serverless Architecture**: No ongoing server costs or maintenance
+- **Automation**: Hourly RSS feed updates via GitHub Actions
+- **Modern Frontend**: React 18 with mobile-first responsive design
+- **Static Hosting**: Deploy to GitHub Pages or Vercel
+- **Error Handling**: Graceful degradation at all levels
+- **Zero Configuration**: Works out of the box with minimal setup
 
-- **📺 YouTube Channel**: [Income Stream Surfers](https://www.youtube.com/c/incomestreamsurfers) - Learn advanced AI automation techniques
-- **🏫 AI Automation School**: [Skool Community](https://www.skool.com/iss-ai-automation-school-6342/about) - Join our AI automation community
-- **🌐 SEO Grove**: [Live Website](https://seogrove.ai/) - See advanced AI automation in action (built with different methods)
+## 🏗️ Architecture
+
+```
+RSS Feed → Python Script → JSON File → React Frontend → Static Hosting
+    ↓            ↓             ↓           ↓             ↓
+  Hourly     feedparser    GitHub      Tailwind    GitHub Pages
+  Cron       Error         Actions       CSS         or Vercel
+            Handling      Automation   Components
+```
+
+## 📁 Project Structure
+
+```
+clickandsave/
+├── public/
+│   ├── index.html          # React app entry point
+│   ├── favicon.ico         # Site favicon
+│   └── feed.json           # RSS feed data (auto-generated)
+├── src/
+│   ├── components/
+│   │   ├── FeedDisplay.js   # Main feed display component
+│   │   ├── FeedItem.js      # Individual feed item component
+│   │   └── LoadingSpinner.js # Loading state component
+│   ├── App.js               # Main React app
+│   ├── App.css              # App styling
+│   └── index.js             # React entry point
+├── scripts/
+│   └── rss_to_json.py       # RSS fetcher script
+├── .github/workflows/
+│   ├── rss-update.yml       # RSS feed update automation
+│   └── deploy-pages.yml     # GitHub Pages deployment
+├── tests/
+│   ├── test_rss_fetcher.py  # Unit tests for RSS fetcher
+│   ├── test_plan.md         # Manual testing checklist
+│   └── sample_feeds/        # Test RSS feed samples
+├── package.json             # Node.js dependencies
+├── requirements.txt         # Python dependencies
+├── vercel.json             # Vercel deployment config
+└── README.md               # This file
+```
 
 ## 🚀 Quick Start
 
-**For full setup with automatic documentation hooks:** See [SETUP.md](SETUP.md)
+### Prerequisites
 
-**For basic template usage:**
+- Node.js 14+ and npm
+- Python 3.11+
+- Git
 
-```bash
-# 1. Clone this template
-git clone https://github.com/IncomeStreamSurfer/context-engineering-intro.git
-cd context-engineering-intro
+### Installation
 
-# 2. Set up your project rules (optional - template provided)
-# Edit CLAUDE.md to add your project-specific guidelines
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/clickandsave.git
+   cd clickandsave
+   ```
 
-# 3. Add examples (highly recommended)
-# Place relevant code examples in the examples/ folder
+2. **Install dependencies**
+   ```bash
+   # Install Python dependencies
+   pip install -r requirements.txt
+   
+   # Install Node.js dependencies
+   npm install
+   ```
 
-# 4. Create your initial feature request
-# Edit INITIAL.md with your feature requirements
+3. **Configure RSS feed URL**
+   ```bash
+   # Edit the RSS feed URL in scripts/rss_to_json.py
+   # Change DEFAULT_FEED_URL to your desired RSS feed
+   ```
 
-# 5. Generate a comprehensive PRP (Product Requirements Prompt)
-# In Claude Code, run:
-/generate-prp INITIAL.md
+4. **Test the RSS fetcher**
+   ```bash
+   python scripts/rss_to_json.py
+   ```
 
-# 6. Execute the PRP to implement your feature
-# In Claude Code, run:
-/execute-prp PRPs/your-feature-name.md
-```
+5. **Start the development server**
+   ```bash
+   npm start
+   ```
 
-## 📚 Table of Contents
+The application will be available at `http://localhost:3000`.
 
-- [What is Context Engineering?](#what-is-context-engineering)
-- [Template Structure](#template-structure)
-- [Step-by-Step Guide](#step-by-step-guide)
-- [Writing Effective INITIAL.md Files](#writing-effective-initialmd-files)
-- [The PRP Workflow](#the-prp-workflow)
-- [Using Examples Effectively](#using-examples-effectively)
-- [Best Practices](#best-practices)
+## 📊 Usage
 
-## What is Context Engineering?
+### RSS Feed Updates
 
-Context Engineering represents a paradigm shift from traditional prompt engineering:
-
-### Prompt Engineering vs Context Engineering
-
-**Prompt Engineering:**
-- Focuses on clever wording and specific phrasing
-- Limited to how you phrase a task
-- Like giving someone a sticky note
-
-**Context Engineering:**
-- A complete system for providing comprehensive context
-- Includes documentation, examples, rules, patterns, and validation
-- Like writing a full screenplay with all the details
-
-### Why Context Engineering Matters
-
-1. **Reduces AI Failures**: Most agent failures aren't model failures - they're context failures
-2. **Ensures Consistency**: AI follows your project patterns and conventions
-3. **Enables Complex Features**: AI can handle multi-step implementations with proper context
-4. **Self-Correcting**: Validation loops allow AI to fix its own mistakes
-
-## Template Structure
-
-```
-context-engineering-intro/
-├── .claude/
-│   ├── commands/
-│   │   ├── generate-prp.md    # Generates comprehensive PRPs
-│   │   └── execute-prp.md     # Executes PRPs to implement features
-│   └── settings.local.json    # Claude Code permissions
-├── PRPs/
-│   ├── templates/
-│   │   └── prp_base.md       # Base template for PRPs
-│   └── EXAMPLE_multi_agent_prp.md  # Example of a complete PRP
-├── examples/                  # Your code examples (critical!)
-├── CLAUDE.md                 # Global rules for AI assistant
-├── INITIAL.md               # Template for feature requests
-├── INITIAL_EXAMPLE.md       # Example feature request
-└── README.md                # This file
-```
-
-This template doesn't focus on RAG and tools with context engineering because I have a LOT more in store for that soon. ;)
-
-## Step-by-Step Guide
-
-### 1. Set Up Global Rules (CLAUDE.md)
-
-The `CLAUDE.md` file contains project-wide rules that the AI assistant will follow in every conversation. The template includes:
-
-- **Project awareness**: Reading planning docs, checking tasks
-- **Code structure**: File size limits, module organization
-- **Testing requirements**: Unit test patterns, coverage expectations
-- **Style conventions**: Language preferences, formatting rules
-- **Documentation standards**: Docstring formats, commenting practices
-
-**You can use the provided template as-is or customize it for your project.**
-
-### 2. Create Your Initial Feature Request
-
-Edit `INITIAL.md` to describe what you want to build:
-
-```markdown
-## FEATURE:
-[Describe what you want to build - be specific about functionality and requirements]
-
-## EXAMPLES:
-[List any example files in the examples/ folder and explain how they should be used]
-
-## DOCUMENTATION:
-[Include links to relevant documentation, APIs, or MCP server resources]
-
-## OTHER CONSIDERATIONS:
-[Mention any gotchas, specific requirements, or things AI assistants commonly miss]
-```
-
-**See `INITIAL_EXAMPLE.md` for a complete example.**
-
-### 3. Generate the PRP
-
-PRPs (Product Requirements Prompts) are comprehensive implementation blueprints that include:
-
-- Complete context and documentation
-- Implementation steps with validation
-- Error handling patterns
-- Test requirements
-
-They are similar to PRDs (Product Requirements Documents) but are crafted more specifically to instruct an AI coding assistant.
-
-Run in Claude Code:
-```bash
-/generate-prp INITIAL.md
-```
-
-**Note:** The slash commands are custom commands defined in `.claude/commands/`. You can view their implementation:
-- `.claude/commands/generate-prp.md` - See how it researches and creates PRPs
-- `.claude/commands/execute-prp.md` - See how it implements features from PRPs
-
-The `$ARGUMENTS` variable in these commands receives whatever you pass after the command name (e.g., `INITIAL.md` or `PRPs/your-feature.md`).
-
-This command will:
-1. Read your feature request
-2. Research the codebase for patterns
-3. Search for relevant documentation
-4. Create a comprehensive PRP in `PRPs/your-feature-name.md`
-
-### 4. Execute the PRP
-
-Once generated, execute the PRP to implement your feature:
+The system automatically fetches RSS feeds every hour via GitHub Actions. To manually update:
 
 ```bash
-/execute-prp PRPs/your-feature-name.md
+# Manually run the RSS fetcher
+python scripts/rss_to_json.py --url https://your-rss-feed.com/feed.xml
+
+# Or use a custom output location
+python scripts/rss_to_json.py --url https://feed.com/rss --output custom/path/feed.json
 ```
 
-The AI coding assistant will:
-1. Read all context from the PRP
-2. Create a detailed implementation plan
-3. Execute each step with validation
-4. Run tests and fix any issues
-5. Ensure all success criteria are met
+### React Development
 
-## Writing Effective INITIAL.md Files
+```bash
+# Start development server
+npm start
 
-### Key Sections Explained
+# Build for production
+npm run build
 
-**FEATURE**: Be specific and comprehensive
-- ❌ "Build a web scraper"
-- ✅ "Build an async web scraper using BeautifulSoup that extracts product data from e-commerce sites, handles rate limiting, and stores results in PostgreSQL"
+# Run tests
+npm test
 
-**EXAMPLES**: Leverage the examples/ folder
-- Place relevant code patterns in `examples/`
-- Reference specific files and patterns to follow
-- Explain what aspects should be mimicked
-
-**DOCUMENTATION**: Include all relevant resources
-- API documentation URLs
-- Library guides
-- MCP server documentation
-- Database schemas
-
-**OTHER CONSIDERATIONS**: Capture important details
-- Authentication requirements
-- Rate limits or quotas
-- Common pitfalls
-- Performance requirements
-
-## The PRP Workflow
-
-### How /generate-prp Works
-
-The command follows this process:
-
-1. **Research Phase**
-   - Analyzes your codebase for patterns
-   - Searches for similar implementations
-   - Identifies conventions to follow
-
-2. **Documentation Gathering**
-   - Fetches relevant API docs
-   - Includes library documentation
-   - Adds gotchas and quirks
-
-3. **Blueprint Creation**
-   - Creates step-by-step implementation plan
-   - Includes validation gates
-   - Adds test requirements
-
-4. **Quality Check**
-   - Scores confidence level (1-10)
-   - Ensures all context is included
-
-### How /execute-prp Works
-
-1. **Load Context**: Reads the entire PRP
-2. **Plan**: Creates detailed task list using TodoWrite
-3. **Execute**: Implements each component
-4. **Validate**: Runs tests and linting
-5. **Iterate**: Fixes any issues found
-6. **Complete**: Ensures all requirements met
-
-See `PRPs/EXAMPLE_multi_agent_prp.md` for a complete example of what gets generated.
-
-## Using Examples Effectively
-
-The `examples/` folder is **critical** for success. AI coding assistants perform much better when they can see patterns to follow.
-
-### What to Include in Examples
-
-1. **Code Structure Patterns**
-   - How you organize modules
-   - Import conventions
-   - Class/function patterns
-
-2. **Testing Patterns**
-   - Test file structure
-   - Mocking approaches
-   - Assertion styles
-
-3. **Integration Patterns**
-   - API client implementations
-   - Database connections
-   - Authentication flows
-
-4. **CLI Patterns**
-   - Argument parsing
-   - Output formatting
-   - Error handling
-
-### Example Structure
-
-```
-examples/
-├── README.md           # Explains what each example demonstrates
-├── cli.py             # CLI implementation pattern
-├── agent/             # Agent architecture patterns
-│   ├── agent.py      # Agent creation pattern
-│   ├── tools.py      # Tool implementation pattern
-│   └── providers.py  # Multi-provider pattern
-└── tests/            # Testing patterns
-    ├── test_agent.py # Unit test patterns
-    └── conftest.py   # Pytest configuration
+# Analyze bundle size
+npm run analyze
 ```
 
-## Best Practices
+## 🚀 Deployment
 
-### 1. Be Explicit in INITIAL.md
-- Don't assume the AI knows your preferences
-- Include specific requirements and constraints
-- Reference examples liberally
+### GitHub Pages
 
-### 2. Provide Comprehensive Examples
-- More examples = better implementations
-- Show both what to do AND what not to do
-- Include error handling patterns
+1. **Configure repository settings**
+   - Enable GitHub Actions in your repository
+   - Set up GitHub Pages to use Actions for deployment
 
-### 3. Use Validation Gates
-- PRPs include test commands that must pass
-- AI will iterate until all validations succeed
-- This ensures working code on first try
+2. **Update package.json**
+   ```json
+   {
+     "homepage": "https://your-username.github.io/clickandsave"
+   }
+   ```
 
-### 4. Leverage Documentation
-- Include official API docs
-- Add MCP server resources
-- Reference specific documentation sections
+3. **Deploy**
+   ```bash
+   npm run deploy
+   ```
 
-### 5. Customize CLAUDE.md
-- Add your conventions
-- Include project-specific rules
-- Define coding standards
+### Vercel
 
-## 🎯 Advanced PRP Method - Multi-Agent Research Approach
+1. **Install Vercel CLI**
+   ```bash
+   npm install -g vercel
+   ```
 
-This template demonstrates an advanced PRP creation method using multiple parallel research agents for comprehensive documentation gathering.
+2. **Deploy**
+   ```bash
+   vercel --prod
+   ```
 
-### See Advanced AI Automation Examples
-- **SEO Grove**: https://seogrove.ai/ - Example of advanced AI automation (built with different methods)
-- **YouTube Channel**: https://www.youtube.com/c/incomestreamsurfers - Learn more about AI automation methodologies
-- **AI Automation School**: https://www.skool.com/iss-ai-automation-school-6342/about - Join our community
+### Automatic Deployment
 
-### Advanced PRP Creation Process
+The system includes GitHub Actions workflows for automatic deployment:
 
-#### Prompt 1: Initialize Research Framework
-```
-read my incredibly specific instructions about how to create a prp document then summarise them, also store how to do a jina scrapein order to create a llm.txt in your memory
+- **RSS Updates**: `.github/workflows/rss-update.yml` - Updates feed data hourly
+- **Site Deployment**: `.github/workflows/deploy-pages.yml` - Deploys to GitHub Pages on push
 
-If a page 404s or does not scrape properly, scrape it again
+## 🔧 Configuration
 
-Do not use Jina to scrape CSS of the design site.
+### RSS Feed Configuration
 
-All SEPARATE pages must be stored in /research/[technology]/ directories with individual .md files.
+Edit `scripts/rss_to_json.py` to customize:
 
-curl
-  "https://r.jina.ai/https://platform.openai.com/docs/" \
-    -H "Authorization: Bearer jina_033257e7cdf14fd3b948578e2d34986bNtfCCkjHt7_j1Bkp5Kx521rDs2Eb"
-```
+```python
+# Change the default RSS feed URL
+DEFAULT_FEED_URL = "https://your-feed.com/rss"
 
-#### Prompt 2: Generate PRP with Parallel Research
-```
-/generate-prp initial.md
+# Customize the output format
+def parse_rss_feed(feed_url):
+    # Add custom parsing logic here
+    pass
 ```
 
-**Wait until it gets to the research phase, then press escape and say:**
+### React Configuration
 
-```
-can you spin up multiple research agents and do this all at the same time
-```
+Edit `src/components/FeedDisplay.js` to customize:
 
-This approach enables:
-- **Parallel Documentation Scraping**: 6+ agents simultaneously research different technologies
-- **Comprehensive Coverage**: 30-100+ pages of official documentation scraped and organized
-- **Technology-Specific Organization**: Each technology gets its own `/research/[tech]/` directory
-- **Production-Ready PRPs**: Complete implementation blueprints with real-world examples
-
-### Research Directory Structure
-```
-research/
-├── pydantic-ai/      # 22+ documentation pages
-├── openai/           # 20+ API documentation pages  
-├── anthropic/        # 18+ Claude documentation pages
-├── jina/             # 12+ scraping API pages
-├── shopify/          # 18+ GraphQL/REST API pages
-└── seo-apis/         # 24+ Search Console/Ahrefs pages
+```javascript
+// Customize the feed display
+const FeedDisplay = () => {
+  // Add custom display logic here
+};
 ```
 
-This multi-agent research approach results in PRPs with 9/10 confidence scores for one-pass implementation success.
+### GitHub Actions Configuration
 
-## Resources
+Edit `.github/workflows/rss-update.yml` to customize:
 
-- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code)
-- [Context Engineering Best Practices](https://www.philschmid.de/context-engineering)
-- [SEO Grove - Live Implementation](https://seogrove.ai/)
-- [Income Stream Surfers - YouTube Channel](https://www.youtube.com/c/incomestreamsurfers)
+```yaml
+on:
+  schedule:
+    # Change the cron schedule (currently every hour)
+    - cron: '5 * * * *'
+```
+
+## 🧪 Testing
+
+### Unit Tests
+
+```bash
+# Run Python unit tests
+python -m pytest tests/test_rss_fetcher.py -v
+
+# Run React tests
+npm test
+```
+
+### Manual Testing
+
+Follow the manual testing checklist in `tests/test_plan.md`:
+
+1. **RSS Fetcher Tests**
+   - Valid RSS feeds
+   - Malformed feeds
+   - Network errors
+   - Empty feeds
+
+2. **Frontend Tests**
+   - Component rendering
+   - Mobile responsiveness
+   - Error states
+   - Loading states
+
+3. **Integration Tests**
+   - End-to-end workflow
+   - Deployment testing
+   - Performance testing
+
+### Test Data
+
+Sample RSS feeds for testing are available in `tests/sample_feeds/`:
+
+- `valid_feed.xml` - Well-formed RSS feed
+- `malformed_feed.xml` - Malformed XML for error testing
+- `empty_feed.xml` - Empty feed for edge case testing
+- `partial_feed.xml` - Feed with missing fields
+
+## 🔍 Troubleshooting
+
+### Common Issues
+
+1. **RSS fetcher fails**
+   ```bash
+   # Check if the feed URL is accessible
+   curl -I https://your-feed.com/rss
+   
+   # Test with a known working feed
+   python scripts/rss_to_json.py --url https://rss.cnn.com/rss/edition.rss
+   ```
+
+2. **React app won't load feed data**
+   - Ensure `public/feed.json` exists
+   - Check browser console for errors
+   - Verify the feed JSON structure
+
+3. **GitHub Actions workflow fails**
+   - Check the Actions tab in your repository
+   - Verify Python and Node.js versions
+   - Ensure repository permissions allow Actions to write
+
+4. **Deployment issues**
+   - For GitHub Pages: Check repository settings
+   - For Vercel: Verify build output directory
+   - Ensure all dependencies are listed in package.json
+
+### Debug Mode
+
+Enable debug logging:
+
+```bash
+# For RSS fetcher
+python scripts/rss_to_json.py --url https://feed.com/rss --debug
+
+# For GitHub Actions
+# Use the workflow_dispatch trigger with debug enabled
+```
+
+## 📈 Performance
+
+### Optimization Features
+
+- **Caching**: Feed data cached for 5 minutes
+- **Lazy Loading**: Components load efficiently
+- **Bundle Size**: Optimized React build
+- **Mobile First**: Responsive design for all devices
+- **Static Assets**: Served from CDN
+
+### Performance Metrics
+
+Target metrics:
+- First Contentful Paint: < 2s
+- Largest Contentful Paint: < 3s
+- Time to Interactive: < 3s
+- Cumulative Layout Shift: < 0.1
+
+## 🛡️ Security
+
+### Security Features
+
+- **HTTPS Only**: All requests over secure connections
+- **CSP Headers**: Content Security Policy implemented
+- **XSS Protection**: Safe handling of external content
+- **No Secrets**: No sensitive data in client-side code
+
+### Best Practices
+
+- External links open in new tabs with `noopener noreferrer`
+- HTML content is sanitized before display
+- No user input processing on the frontend
+- Regular dependency updates
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/amazing-feature`
+3. Make your changes
+4. Run tests: `npm test` and `python -m pytest tests/`
+5. Commit your changes: `git commit -m 'Add amazing feature'`
+6. Push to the branch: `git push origin feature/amazing-feature`
+7. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Built with [React](https://reactjs.org/)
+- Styled with [Tailwind CSS](https://tailwindcss.com/)
+- RSS parsing with [feedparser](https://pythonhosted.org/feedparser/)
+- Automated with [GitHub Actions](https://github.com/features/actions)
+- Hosted on [GitHub Pages](https://pages.github.com/) / [Vercel](https://vercel.com/)
+
+## 📞 Support
+
+- Create an issue for bug reports
+- Start a discussion for feature requests
+- Check the [troubleshooting section](#troubleshooting) for common issues
+
+---
+
+**Made with ❤️ for the RSS community**

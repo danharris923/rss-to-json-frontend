@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Empty RSS Feed</title>
+    <link>https://example.com</link>
+    <description>An empty RSS feed for testing empty feed handling</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jan 2024 10:00:00 GMT</lastBuildDate>
+    <generator>Test RSS Generator</generator>
+    
+    <!-- No items in this feed -->
+    
+  </channel>
+</rss>
