@@ -20,8 +20,21 @@ const FeedDisplay = () => {
         const data = await response.json();
         
         if (!ignore) {
-          // Handle multi-blade scraper data structure
-          const entries = data.merchant_links || data.entries || [];
+          // Always show SmartCanucks blog posts 
+          let entries = [];
+          
+          if (data.blog_posts && data.blog_posts.length > 0) {
+            entries = data.blog_posts;
+          }
+          // Legacy fallback to RSS entries
+          else if (data.rss_entries && data.rss_entries.length > 0) {
+            entries = data.rss_entries;
+          }
+          // Legacy fallback
+          else if (data.entries && data.entries.length > 0) {
+            entries = data.entries;
+          }
+          
           setFeedData(entries);
           setLastUpdated(data.scraped_at || data.updated);
           setError(null);

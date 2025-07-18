@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-18T09:24:00.313112Z",
+  "scraped_at": "2025-07-18T09:43:40.607134Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 3,
@@ -8,7 +8,7 @@
     "affiliate_links_processed": 0,
     "affiliate_success_rate": 0
   },
-  "rss_entries": [
+  "blog_posts": [
     {
       "title": "Swiss Chalet Canada Promotions: Swiss Chalet Chicken & Ribfest is BACK!",
       "link": "https://smartcanucks.ca/swiss-chalet-canada-promotions-swiss-chalet-chicken-ribfest-is-back/",
@@ -25,7 +25,7 @@
           "coupon_code": null,
           "expiry_date": "september 21"
         },
-        "scraped_at": 1752855835.1568708
+        "scraped_at": 1752857015.1940913
       }
     },
     {
@@ -44,7 +44,7 @@
           "coupon_code": null,
           "expiry_date": "july 24"
         },
-        "scraped_at": 1752855837.6395597
+        "scraped_at": 1752857017.5431654
       }
     },
     {
@@ -63,7 +63,7 @@
           "coupon_code": null,
           "expiry_date": null
         },
-        "scraped_at": 1752855840.3130486
+        "scraped_at": 1752857020.607064
       }
     },
     {
@@ -171,10 +171,10 @@
       "affiliate_processed": false
     }
   ],
-  "merchant_links": [],
+  "product_links": [],
   "processing_summary": {
-    "total_rss_entries": 20,
-    "total_merchant_links": 0,
+    "total_blog_posts": 20,
+    "total_product_links": 0,
     "affiliate_processed": 0,
     "unique_merchants": 0
   }

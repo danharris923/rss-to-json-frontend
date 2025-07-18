@@ -117,11 +117,11 @@ class MultiBladeScrap:
                 'affiliate_links_processed': affiliate_stats['processed'],
                 'affiliate_success_rate': affiliate_stats['success_rate'],
             },
-            'rss_entries': enhanced_entries,
-            'merchant_links': processed_links,
+            'blog_posts': enhanced_entries,  # SmartCanucks blog posts
+            'product_links': processed_links,  # Extracted clean/affiliate product links
             'processing_summary': {
-                'total_rss_entries': len(rss_entries),
-                'total_merchant_links': len(processed_links),
+                'total_blog_posts': len(enhanced_entries),
+                'total_product_links': len(processed_links),
                 'affiliate_processed': affiliate_stats['processed'],
                 'unique_merchants': len(set(link.get('merchant', 'unknown') for link in processed_links)),
             }
