@@ -48,7 +48,8 @@
       "mcp__playwright__browser_take_screenshot",
       "mcp__playwright__browser_snapshot",
       "mcp__playwright__browser_evaluate",
-      "mcp__playwright__browser_close"
+      "mcp__playwright__browser_close",
+      "Bash(AMAZON_CA_TAG=myrealtag-20 python -c \"\nfrom affiliate_processor import AffiliateProcessor\nfrom link_resolver import LinkResolver\n\n# Test with real environment variable\nprocessor = AffiliateProcessor()\nresolver = LinkResolver()\n\n# Test Amazon shortlink\ntest_url = ''https://amzn.to/4lV4khq''\nprint(f''Original: {test_url}'')\nresolved = resolver.resolve_url(test_url)\nprint(f''Resolved (clean): {resolved}'')\nprocessed = processor.process_link(test_url)\nprint(f''Processed (with tag): {processed}'')\nprint(f''Has affiliate tag: {\"\"myrealtag-20\"\" in processed}'')\n\")"
     ],
     "deny": []
   }

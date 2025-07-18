@@ -82,7 +82,14 @@ def get_affiliate_tag(domain):
     """Get affiliate tag for a specific domain."""
     for affiliate_domain, tag in AFFILIATE_TAGS.items():
         if affiliate_domain in domain.lower():
-            return tag
+            # Only return tag if it's not a placeholder
+            placeholder_patterns = [
+                'your-', 'yourtag-', 'example-', 'test-', 'placeholder-',
+                'your_', 'yourtag_', 'example_', 'test_', 'placeholder_',
+                'REPLACE', 'CHANGE', 'TODO'
+            ]
+            if tag and not any(pattern in tag for pattern in placeholder_patterns):
+                return tag
     return None
 
 def should_affiliate_link(url):

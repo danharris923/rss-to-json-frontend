@@ -51,26 +51,31 @@ class AffiliateProcessor:
         return entry
     
     def process_link(self, url):
-        """Process a single URL and add affiliate tags if applicable."""
+        """Process a single URL: resolve → clean → add affiliate tags if available."""
         if not url or not self.config.get('enabled', True):
             return url
         
         try:
-            # Parse the URL
-            parsed = urlparse(url)
+            # Step 1: Resolve the URL to get the final destination
+            resolved_url = self.resolver.resolve_url(url)
+            
+            # Step 2: Parse the resolved URL
+            parsed = urlparse(resolved_url)
             domain = parsed.netloc.lower()
             
-            # Check if this domain should be processed
-            if not should_affiliate_link(url):
-                return url
+            # Step 3: Check if this domain should be processed
+            if not should_affiliate_link(resolved_url):
+                return resolved_url  # Return clean resolved URL
             
-            # Try specific affiliate URL patterns first
-            processed_url = self._apply_affiliate_patterns(url, domain)
-            if processed_url != url:
-                return processed_url
+            # Step 4: Get affiliate tag for this domain
+            affiliate_tag = get_affiliate_tag(domain)
             
-            # Fall back to generic affiliate processing
-            return self._apply_generic_affiliate(url, domain)
+            # Step 5: If no affiliate tag available, return clean URL
+            if not affiliate_tag:
+                return resolved_url  # Clean URL, no affiliate tag
+            
+            # Step 6: Add affiliate tag to clean URL
+            return self._add_affiliate_tag(resolved_url, domain, affiliate_tag)
             
         except Exception as e:
             print(f"Error processing affiliate link {url}: {e}")
@@ -92,33 +97,38 @@ class AffiliateProcessor:
         
         return url
     
-    def _apply_generic_affiliate(self, url, domain):
-        """Apply generic affiliate processing."""
-        affiliate_tag = get_affiliate_tag(domain)
-        if not affiliate_tag:
+    def _add_affiliate_tag(self, url, domain, affiliate_tag):
+        """Add affiliate tag to clean URL based on merchant."""
+        try:
+            # Parse URL components
+            parsed = urlparse(url)
+            query_params = parse_qs(parsed.query)
+            
+            # Add affiliate tag based on domain
+            if 'amazon' in domain:
+                query_params['tag'] = [affiliate_tag]
+            elif 'walmart' in domain:
+                query_params['affiliate'] = [affiliate_tag]
+            elif 'bestbuy' in domain:
+                query_params['ref'] = [affiliate_tag]
+            elif 'staples' in domain:
+                query_params['aff'] = [affiliate_tag]
+            elif 'adidas' in domain:
+                query_params['aff'] = [affiliate_tag]
+            else:
+                # Generic affiliate parameter
+                query_params['aff'] = [affiliate_tag]
+            
+            # Rebuild URL with affiliate parameters
+            new_query = urlencode(query_params, doseq=True)
+            new_parsed = parsed._replace(query=new_query)
+            new_url = urlunparse(new_parsed)
+            
+            return self._add_utm_params(new_url)
+            
+        except Exception as e:
+            print(f"Error adding affiliate tag to {url}: {e}")
             return url
-        
-        # Parse URL components
-        parsed = urlparse(url)
-        query_params = parse_qs(parsed.query)
-        
-        # Add affiliate tag based on domain
-        if 'amazon' in domain:
-            query_params['tag'] = [affiliate_tag]
-        elif 'walmart' in domain:
-            query_params['affiliate'] = [affiliate_tag]
-        elif 'bestbuy' in domain:
-            query_params['ref'] = [affiliate_tag]
-        else:
-            # Generic affiliate parameter
-            query_params['aff'] = [affiliate_tag]
-        
-        # Rebuild URL with affiliate parameters
-        new_query = urlencode(query_params, doseq=True)
-        new_parsed = parsed._replace(query=new_query)
-        new_url = urlunparse(new_parsed)
-        
-        return self._add_utm_params(new_url)
     
     def _add_utm_params(self, url):
         """Add UTM tracking parameters to URL."""
