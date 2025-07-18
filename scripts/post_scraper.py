@@ -305,15 +305,35 @@ class PostScraper:
         """Extract all merchant links from the post."""
         merchant_links = []
         
-        # Focus on SmartCanucks content areas first
-        smartcanucks_areas = soup.select('.blog-content, .col-md-6.col-sm-7')
+        # Focus ONLY on the main blog post content, not navigation or sidebars
+        content_areas = []
         
-        # Then try standard WordPress content areas
-        wordpress_areas = soup.select('.entry-content, .post-content, .content, article, main, .post')
+        # Try SmartCanucks-specific content selectors first
+        smartcanucks_selectors = [
+            '.blog-content',
+            '.col-md-6.col-sm-7',
+            '.entry-content',
+            '.post-content',
+            '.content',
+            'article .content',
+            'main article',
+            '.single-post-content',
+            '.post-body'
+        ]
         
-        content_areas = smartcanucks_areas + wordpress_areas
+        for selector in smartcanucks_selectors:
+            elements = soup.select(selector)
+            if elements:
+                content_areas.extend(elements)
+                break  # Use the first successful match to avoid duplicates
+        
+        # If no content areas found, fallback but be more selective
         if not content_areas:
-            content_areas = [soup]  # Fallback to entire page
+            # Try to find the main content by looking for text content
+            for element in soup.find_all(['article', 'main', 'div']):
+                if element.get_text(strip=True) and len(element.get_text(strip=True)) > 100:
+                    content_areas = [element]
+                    break
         
         for content_area in content_areas:
             # Remove ad blocks first
@@ -328,12 +348,29 @@ class PostScraper:
                 if not href:
                     continue
                 
-                # Skip internal SmartCanucks links, footer links, etc.
+                # Skip internal SmartCanucks links, navigation, and social media
                 skip_patterns = [
                     'smartcanucks.ca', 'facebook.com', 'twitter.com', 'instagram.com', 
-                    'pinterest.com', 'youtube.com', '#', 'mailto:', 'tel:', 'javascript:'
+                    'pinterest.com', 'youtube.com', 'tiktok.com', 'linkedin.com',
+                    '#', 'mailto:', 'tel:', 'javascript:', 'void(0)',
+                    '/deals/', '/coupons/', '/flyers/', '/forum/', '/stores/',
+                    'amazon.smartcanucks.ca', 'deals.smartcanucks.ca', 
+                    'coupons.smartcanucks.ca', 'flyers.smartcanucks.ca',
+                    'forum.smartcanucks.ca', 'hotcanadadeals.ca'
                 ]
                 if any(skip in href.lower() for skip in skip_patterns):
+                    continue
+                
+                # Get link text early for filtering
+                link_text = link.get_text(strip=True)
+                
+                # Also skip if the link text suggests it's navigation
+                navigation_text = [
+                    'home', 'blog', 'deals', 'coupons', 'flyers', 'forum', 'stores',
+                    'contact', 'about', 'privacy', 'terms', 'subscribe', 'newsletter',
+                    'follow us', 'share', 'comment', 'reply', 'more posts'
+                ]
+                if any(nav in link_text.lower() for nav in navigation_text):
                     continue
                 
                 # Convert relative URLs to absolute
@@ -341,8 +378,6 @@ class PostScraper:
                 
                 # Check if this is a deal link using intelligent detection
                 if self._is_deal_link(full_url, link):
-                    link_text = link.get_text(strip=True)
-                    
                     # Skip if link text is too generic or empty
                     if not link_text or len(link_text) < 2:
                         continue
@@ -417,9 +452,9 @@ class PostScraper:
             if 'data-deal' in link_attrs or 'data-offer' in link_attrs:
                 return True
                 
-            # Check for external links that might be deals
-            if domain != 'smartcanucks.ca' and len(link_text) > 5:
-                # If it's an external link with substantial text, it might be a deal
+            # Prioritize external links that might be deals
+            if domain != 'smartcanucks.ca' and domain != 'hotcanadadeals.ca' and len(link_text) > 5:
+                # If it's an external link with substantial text, it's likely a deal
                 return True
             
             return False

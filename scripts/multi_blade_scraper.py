@@ -71,6 +71,9 @@ class MultiBladeScrap:
                     'link_type': link['link_type'],
                     'source_post': post['url'],
                     'published': '',  # Will be filled from RSS if available
+                    'content_summary': post.get('content_summary', ''),
+                    'og_image': post.get('og_image', ''),
+                    'deal_info': post.get('deal_info', {}),
                 })
         
         # Process merchant links through affiliate system
