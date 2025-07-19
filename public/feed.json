@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-19T02:19:33.903957Z",
+  "scraped_at": "2025-07-19T03:57:20.453890Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
+      "published": "2025-07-19T02:18:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1752897392.900865
+      }
+    },
     {
       "title": "Shoppers Drug Mart Canada: Mystery Offer + 2 Day Sale",
       "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-mystery-offer-2-day-sale-2/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891525.5633886
+        "scraped_at": 1752897395.2093205
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891528.2099466
+        "scraped_at": 1752897398.0965736
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891530.9860053
+        "scraped_at": 1752897400.5400376
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891533.0611284
+        "scraped_at": 1752897403.3177228
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891535.280566
+        "scraped_at": 1752897405.9684508
       }
     },
     {
@@ -98,7 +113,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891537.5748188
+        "scraped_at": 1752897408.7987905
       }
     },
     {
@@ -113,7 +128,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891540.3572204
+        "scraped_at": 1752897411.6707184
       }
     },
     {
@@ -128,7 +143,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891542.7497394
+        "scraped_at": 1752897414.0401516
       }
     },
     {
@@ -143,7 +158,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891545.140641
+        "scraped_at": 1752897416.7190783
       }
     },
     {
@@ -158,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891547.9150221
+        "scraped_at": 1752897419.1200492
       }
     },
     {
@@ -173,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891550.6920002
+        "scraped_at": 1752897421.200381
       }
     },
     {
@@ -188,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891553.6990535
+        "scraped_at": 1752897424.0564792
       }
     },
     {
@@ -203,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891556.4111543
+        "scraped_at": 1752897426.1585848
       }
     },
     {
@@ -218,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891558.605125
+        "scraped_at": 1752897428.398765
       }
     },
     {
@@ -233,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891560.7791915
+        "scraped_at": 1752897430.8570306
       }
     },
     {
@@ -248,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891563.795393
+        "scraped_at": 1752897433.3311994
       }
     },
     {
@@ -263,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891566.2397816
+        "scraped_at": 1752897435.7462344
       }
     },
     {
@@ -278,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891568.8585882
+        "scraped_at": 1752897438.40116
       }
     },
     {
@@ -293,22 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752891571.7354634
-      }
-    },
-    {
-      "title": "Fossil + Outlet Canada: Sale up to 30% off + Outlet up to 50% off",
-      "link": "https://smartcanucks.ca/fossil-outlet-canada-sale-up-to-30-off-outlet-up-to-50-off/",
-      "published": "2025-07-17T12:43:33Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1752891573.903873
+        "scraped_at": 1752897440.4538236
       }
     }
   ],
