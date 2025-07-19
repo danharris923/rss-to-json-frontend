@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-18T23:28:09.749198Z",
+  "scraped_at": "2025-07-19T02:19:33.903957Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Shoppers Drug Mart Canada: Mystery Offer + 2 Day Sale",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-mystery-offer-2-day-sale-2/",
+      "published": "2025-07-19T01:35:32Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1752891525.5633886
+      }
+    },
     {
       "title": "Swiss Chalet Canada Promotions: Swiss Chalet Chicken & Ribfest is BACK!",
       "link": "https://smartcanucks.ca/swiss-chalet-canada-promotions-swiss-chalet-chicken-ribfest-is-back/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881241.264352
+        "scraped_at": 1752891528.2099466
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881243.6709807
+        "scraped_at": 1752891530.9860053
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881246.2151713
+        "scraped_at": 1752891533.0611284
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881248.7338855
+        "scraped_at": 1752891535.280566
       }
     },
     {
@@ -83,7 +98,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881251.5122557
+        "scraped_at": 1752891537.5748188
       }
     },
     {
@@ -98,7 +113,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881254.2107856
+        "scraped_at": 1752891540.3572204
       }
     },
     {
@@ -113,7 +128,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881257.167125
+        "scraped_at": 1752891542.7497394
       }
     },
     {
@@ -128,7 +143,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881260.1028996
+        "scraped_at": 1752891545.140641
       }
     },
     {
@@ -143,7 +158,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881262.284779
+        "scraped_at": 1752891547.9150221
       }
     },
     {
@@ -158,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881264.5837655
+        "scraped_at": 1752891550.6920002
       }
     },
     {
@@ -173,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881266.7484767
+        "scraped_at": 1752891553.6990535
       }
     },
     {
@@ -188,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881269.1459057
+        "scraped_at": 1752891556.4111543
       }
     },
     {
@@ -203,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881272.0842044
+        "scraped_at": 1752891558.605125
       }
     },
     {
@@ -218,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881274.9243603
+        "scraped_at": 1752891560.7791915
       }
     },
     {
@@ -233,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881277.909547
+        "scraped_at": 1752891563.795393
       }
     },
     {
@@ -248,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881280.5917277
+        "scraped_at": 1752891566.2397816
       }
     },
     {
@@ -263,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881283.0201755
+        "scraped_at": 1752891568.8585882
       }
     },
     {
@@ -278,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881285.1047778
+        "scraped_at": 1752891571.7354634
       }
     },
     {
@@ -293,22 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752881287.6276379
-      }
-    },
-    {
-      "title": "Bench Canada: Buy One Get One Free Multipacks and T-Shirts + Outlet up to 65% Off",
-      "link": "https://smartcanucks.ca/bench-canada-buy-one-get-one-free-multipacks-and-t-shirts-outlet-up-to-65-off/",
-      "published": "2025-07-17T12:21:29Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1752881289.7491271
+        "scraped_at": 1752891573.903873
       }
     }
   ],
