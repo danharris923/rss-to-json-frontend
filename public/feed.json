@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-19T13:36:11.263782Z",
+  "scraped_at": "2025-07-19T14:26:21.050499Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
+      "published": "2025-07-19T14:10:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1752935133.5691545
+      }
+    },
+    {
+      "title": "Swiss Chalet Canada Promotions: Swiss Chalet Chicken & Ribfest is BACK!",
+      "link": "https://smartcanucks.ca/swiss-chalet-canada-promotions-swiss-chalet-chicken-ribfest-is-back/",
+      "published": "2025-07-19T14:02:10Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1752935136.3730109
+      }
+    },
+    {
+      "title": "Carter’s OshKosh B’gosh Canada: Summer Clearance up to 60% off",
+      "link": "https://smartcanucks.ca/carters-oshkosh-bgosh-canada-summer-clearance-up-to-60-off/",
+      "published": "2025-07-19T13:45:15Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1752935139.0942497
+      }
+    },
     {
       "title": "Michaels Canada: 40% off One Regular Priced Item + 20% off for Teachers + More",
       "link": "https://smartcanucks.ca/michaels-canada-40-off-one-regular-priced-item-20-off-for-teachers-more/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932124.064666
+        "scraped_at": 1752935141.9561355
       }
     },
     {
@@ -36,22 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932126.2777805
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
-      "published": "2025-07-19T02:18:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1752932128.4254675
+        "scraped_at": 1752935144.296693
       }
     },
     {
@@ -66,22 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932131.3834882
-      }
-    },
-    {
-      "title": "Swiss Chalet Canada Promotions: Swiss Chalet Chicken & Ribfest is BACK!",
-      "link": "https://smartcanucks.ca/swiss-chalet-canada-promotions-swiss-chalet-chicken-ribfest-is-back/",
-      "published": "2025-07-18T16:02:10Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1752932134.205259
+        "scraped_at": 1752935146.6152506
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932136.6018095
+        "scraped_at": 1752935148.700174
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932139.5287251
+        "scraped_at": 1752935150.826679
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932142.4002562
+        "scraped_at": 1752935153.043859
       }
     },
     {
@@ -143,7 +158,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932144.7619333
+        "scraped_at": 1752935156.0582228
       }
     },
     {
@@ -158,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932147.4020565
+        "scraped_at": 1752935158.2045603
       }
     },
     {
@@ -173,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932150.0021524
+        "scraped_at": 1752935160.6261237
       }
     },
     {
@@ -188,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932152.3191078
+        "scraped_at": 1752935163.5508888
       }
     },
     {
@@ -203,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932154.6463087
+        "scraped_at": 1752935165.8688931
       }
     },
     {
@@ -218,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932156.7377658
+        "scraped_at": 1752935168.6340764
       }
     },
     {
@@ -233,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932159.4649084
+        "scraped_at": 1752935171.1679323
       }
     },
     {
@@ -248,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932162.1707308
+        "scraped_at": 1752935173.5801983
       }
     },
     {
@@ -263,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932164.2270882
+        "scraped_at": 1752935175.6473086
       }
     },
     {
@@ -278,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932166.8571553
+        "scraped_at": 1752935178.5000083
       }
     },
     {
@@ -293,22 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752932169.0806968
-      }
-    },
-    {
-      "title": "Prime Cables, Shopper+ And 123Ink Canada: Free Shipping on Select Products + Clearance + More",
-      "link": "https://smartcanucks.ca/prime-cables-shopper-and-123ink-canada-free-shipping-on-select-products-clearance-more/",
-      "published": "2025-07-17T14:40:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1752932171.2636962
+        "scraped_at": 1752935181.050419
       }
     }
   ],
