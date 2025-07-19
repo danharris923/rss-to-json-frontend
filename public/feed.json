@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-19T12:54:33.738522Z",
+  "scraped_at": "2025-07-19T13:36:11.263782Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Michaels Canada: 40% off One Regular Priced Item + 20% off for Teachers + More",
+      "link": "https://smartcanucks.ca/michaels-canada-40-off-one-regular-priced-item-20-off-for-teachers-more/",
+      "published": "2025-07-19T13:30:10Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1752932124.064666
+      }
+    },
+    {
+      "title": "Best Buy Canada: Save up to $500 on Big Screen TVs + Top Deals + More",
+      "link": "https://smartcanucks.ca/best-buy-canada-save-up-to-500-on-big-screen-tvs-top-deals-more/",
+      "published": "2025-07-19T13:15:47Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1752932126.2777805
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929626.1911616
+        "scraped_at": 1752932128.4254675
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929629.0539522
+        "scraped_at": 1752932131.3834882
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929631.592004
+        "scraped_at": 1752932134.205259
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929634.071706
+        "scraped_at": 1752932136.6018095
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929636.5624223
+        "scraped_at": 1752932139.5287251
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929639.1327527
+        "scraped_at": 1752932142.4002562
       }
     },
     {
@@ -113,7 +143,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929641.4558082
+        "scraped_at": 1752932144.7619333
       }
     },
     {
@@ -128,7 +158,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929643.7608364
+        "scraped_at": 1752932147.4020565
       }
     },
     {
@@ -143,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929646.1882946
+        "scraped_at": 1752932150.0021524
       }
     },
     {
@@ -158,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929648.458519
+        "scraped_at": 1752932152.3191078
       }
     },
     {
@@ -173,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929650.9855475
+        "scraped_at": 1752932154.6463087
       }
     },
     {
@@ -188,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929653.0360708
+        "scraped_at": 1752932156.7377658
       }
     },
     {
@@ -203,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929655.1613255
+        "scraped_at": 1752932159.4649084
       }
     },
     {
@@ -218,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929657.795927
+        "scraped_at": 1752932162.1707308
       }
     },
     {
@@ -233,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929660.184657
+        "scraped_at": 1752932164.2270882
       }
     },
     {
@@ -248,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929663.2060223
+        "scraped_at": 1752932166.8571553
       }
     },
     {
@@ -263,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929665.6854422
+        "scraped_at": 1752932169.0806968
       }
     },
     {
@@ -278,37 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1752929667.9766157
-      }
-    },
-    {
-      "title": "Pottery Barn End of Season Sale: Extra 20% off Select Sale and Clearance",
-      "link": "https://smartcanucks.ca/pottery-barn-end-of-season-sale-extra-20-off-select-sale-and-clearance/",
-      "published": "2025-07-17T14:17:48Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1752929670.9465804
-      }
-    },
-    {
-      "title": "The Children’s Place & Gymboree Canada: up to 60% of Almost Everything + 70% off Clearance",
-      "link": "https://smartcanucks.ca/the-childrens-place-gymboree-canada-up-to-60-of-almost-everything-70-off-clearance/",
-      "published": "2025-07-17T13:35:18Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1752929673.7384415
+        "scraped_at": 1752932171.2636962
       }
     }
   ],
