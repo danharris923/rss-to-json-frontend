@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-20T13:37:21.981051Z",
+  "scraped_at": "2025-07-20T14:26:33.402121Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Kit + Ace Canada: Sale up to 50% off",
+      "link": "https://smartcanucks.ca/kit-ace-canada-sale-up-to-50-off/",
+      "published": "2025-07-20T14:00:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753021546.3455803
+      }
+    },
+    {
+      "title": "SAXX Underwear Canada: Summer Sale up to 40% off",
+      "link": "https://smartcanucks.ca/saxx-underwear-canada-summer-sale-up-to-40-off-2/",
+      "published": "2025-07-20T13:45:05Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753021548.4420304
+      }
+    },
     {
       "title": "IT Cosmetics Canada: up to 50% off Select Products + Free Gift with Purchase",
       "link": "https://smartcanucks.ca/it-cosmetics-canada-up-to-50-off-select-products-free-gift-with-purchase/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018596.1227236
+        "scraped_at": 1753021550.7662528
       }
     },
     {
@@ -38,7 +68,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018598.5144513
+        "scraped_at": 1753021553.52575
       }
     },
     {
@@ -53,7 +83,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018601.4609542
+        "scraped_at": 1753021555.851038
       }
     },
     {
@@ -68,7 +98,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018603.90378
+        "scraped_at": 1753021558.803868
       }
     },
     {
@@ -83,7 +113,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018606.2487407
+        "scraped_at": 1753021560.941813
       }
     },
     {
@@ -98,7 +128,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018609.0509508
+        "scraped_at": 1753021563.642396
       }
     },
     {
@@ -113,7 +143,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018611.1391141
+        "scraped_at": 1753021566.3512132
       }
     },
     {
@@ -128,7 +158,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018613.6698296
+        "scraped_at": 1753021568.8388188
       }
     },
     {
@@ -143,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018615.7040803
+        "scraped_at": 1753021571.0931983
       }
     },
     {
@@ -158,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018618.333254
+        "scraped_at": 1753021573.479833
       }
     },
     {
@@ -173,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018620.7052763
+        "scraped_at": 1753021576.0244954
       }
     },
     {
@@ -188,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018623.34813
+        "scraped_at": 1753021578.8719723
       }
     },
     {
@@ -205,7 +235,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018625.5775049
+        "scraped_at": 1753021581.010152
       }
     },
     {
@@ -220,7 +250,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018628.0478792
+        "scraped_at": 1753021583.8731813
       }
     },
     {
@@ -235,7 +265,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018630.2952576
+        "scraped_at": 1753021586.1578665
       }
     },
     {
@@ -250,7 +280,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018632.9744542
+        "scraped_at": 1753021588.556955
       }
     },
     {
@@ -265,7 +295,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018635.305415
+        "scraped_at": 1753021591.2054095
       }
     },
     {
@@ -280,37 +310,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753018637.357655
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 57% on Cordless Table Lamps Rechargeable + 49% on Women’s Yoga Pants + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-57-on-cordless-table-lamps-rechargeable-49-on-womens-yoga-pants-more/",
-      "published": "2025-07-18T03:06:20Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753018639.5624428
-      }
-    },
-    {
-      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings July 17th – 23rd",
-      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-july-17th-23rd/",
-      "published": "2025-07-18T00:51:36Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753018641.9809723
+        "scraped_at": 1753021593.4020007
       }
     }
   ],
