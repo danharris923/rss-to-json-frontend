@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-20T20:30:46.451012Z",
+  "scraped_at": "2025-07-20T21:26:31.503319Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
+      "published": "2025-07-20T15:15:20Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753046742.764215
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
+      "published": "2025-07-20T14:10:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753046745.3285785
+      }
+    },
     {
       "title": "Kit + Ace Canada: Sale up to 50% off",
       "link": "https://smartcanucks.ca/kit-ace-canada-sale-up-to-50-off/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043396.682792
+        "scraped_at": 1753046748.2234879
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043399.2738032
+        "scraped_at": 1753046750.6224995
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043401.3525245
+        "scraped_at": 1753046752.7696404
       }
     },
     {
@@ -68,37 +98,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043403.8450634
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
-      "published": "2025-07-20T05:15:20Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753043406.2039967
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
-      "published": "2025-07-19T14:10:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753043408.851234
+        "scraped_at": 1753046755.6427767
       }
     },
     {
@@ -113,7 +113,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043411.014037
+        "scraped_at": 1753046758.018398
       }
     },
     {
@@ -128,7 +128,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043413.3055012
+        "scraped_at": 1753046760.23917
       }
     },
     {
@@ -143,7 +143,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043416.035696
+        "scraped_at": 1753046762.7236826
       }
     },
     {
@@ -158,7 +158,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043418.9824667
+        "scraped_at": 1753046765.6106458
       }
     },
     {
@@ -173,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043421.6598592
+        "scraped_at": 1753046768.2142777
       }
     },
     {
@@ -188,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043424.5418494
+        "scraped_at": 1753046770.7924283
       }
     },
     {
@@ -203,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043427.548835
+        "scraped_at": 1753046773.54254
       }
     },
     {
@@ -218,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043430.168244
+        "scraped_at": 1753046775.9347284
       }
     },
     {
@@ -235,7 +235,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043432.43802
+        "scraped_at": 1753046778.7155871
       }
     },
     {
@@ -250,7 +250,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043435.3537178
+        "scraped_at": 1753046781.5158305
       }
     },
     {
@@ -265,7 +265,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043437.4434423
+        "scraped_at": 1753046783.544003
       }
     },
     {
@@ -280,7 +280,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043440.4873526
+        "scraped_at": 1753046786.4396377
       }
     },
     {
@@ -295,7 +295,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043443.458043
+        "scraped_at": 1753046789.3793902
       }
     },
     {
@@ -310,7 +310,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753043446.4508977
+        "scraped_at": 1753046791.5032117
       }
     }
   ],
