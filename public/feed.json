@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-21T11:26:20.646029Z",
+  "scraped_at": "2025-07-21T13:01:19.297437Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Mark’s Canada: Buy One Get One 50% off Jeans, Footwear, Kids’ Clothing and Jackets + More",
+      "link": "https://smartcanucks.ca/marks-canada-buy-one-get-one-50-off-jeans-footwear-kids-clothing-and-jackets-more/",
+      "published": "2025-07-21T12:50:22Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753102830.8549783
+      }
+    },
+    {
+      "title": "Acer Canada: Save up to 63% on Chromebooks + More",
+      "link": "https://smartcanucks.ca/acer-canada-save-up-to-63-on-chromebooks-more/",
+      "published": "2025-07-21T12:21:03Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753102832.9175754
+      }
+    },
     {
       "title": "Sobeys Ontario: Cavendish Quick Crisp Fries 88 Cents With Printable Coupon",
       "link": "https://smartcanucks.ca/sobeys-ontario-cavendish-quick-crisp-fries-88-cents-with-printable-coupon/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097133.4658027
+        "scraped_at": 1753102835.0514235
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097136.1295974
+        "scraped_at": 1753102837.2257001
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097138.332537
+        "scraped_at": 1753102840.1101747
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097141.335262
+        "scraped_at": 1753102842.7692373
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097143.4327993
+        "scraped_at": 1753102845.7453969
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097145.505616
+        "scraped_at": 1753102847.820625
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097148.1522603
+        "scraped_at": 1753102850.8330877
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097150.7257197
+        "scraped_at": 1753102853.2963896
       }
     },
     {
@@ -143,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097153.5413098
+        "scraped_at": 1753102855.5059018
       }
     },
     {
@@ -158,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097155.6717007
+        "scraped_at": 1753102857.9552417
       }
     },
     {
@@ -173,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097157.8138764
+        "scraped_at": 1753102860.7775311
       }
     },
     {
@@ -188,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097159.94815
+        "scraped_at": 1753102863.729119
       }
     },
     {
@@ -203,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097162.4731221
+        "scraped_at": 1753102866.1061044
       }
     },
     {
@@ -218,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097164.804907
+        "scraped_at": 1753102868.9542527
       }
     },
     {
@@ -233,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097167.3074875
+        "scraped_at": 1753102871.8779154
       }
     },
     {
@@ -248,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097169.6542916
+        "scraped_at": 1753102874.325943
       }
     },
     {
@@ -263,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097172.5697021
+        "scraped_at": 1753102877.0776012
       }
     },
     {
@@ -280,37 +310,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753097174.940606
-      }
-    },
-    {
-      "title": "Club Monaco Canada: 30% off Sale Styles + Extra 40% off",
-      "link": "https://smartcanucks.ca/club-monaco-canada-30-off-sale-styles-extra-40-off/",
-      "published": "2025-07-18T13:45:59Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753097177.9701023
-      }
-    },
-    {
-      "title": "Staples Canada Flyer Deals Of The Week + BOGO FREE on Select Coffee + More Offers",
-      "link": "https://smartcanucks.ca/staples-canada-flyer-deals-of-the-week-bogo-free-on-select-coffee-more-offers/",
-      "published": "2025-07-18T13:11:36Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753097180.6459165
+        "scraped_at": 1753102879.2972856
       }
     }
   ],
