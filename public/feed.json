@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-20T23:28:30.401470Z",
+  "scraped_at": "2025-07-21T02:31:22.852607Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Sobeys Ontario: Cavendish Quick Crisp Fries 88 Cents With Printable Coupon",
+      "link": "https://smartcanucks.ca/sobeys-ontario-cavendish-quick-crisp-fries-88-cents-with-printable-coupon/",
+      "published": "2025-07-21T00:56:07Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753065033.8148646
+      }
+    },
+    {
+      "title": "Shoppers Drug Mart Canada PC Optimum Offers: 15,000 Points When You Spend $150 on IKEA Gift Cards",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-pc-optimum-offers-15000-points-when-you-spend-150-on-ikea-gift-cards/",
+      "published": "2025-07-20T23:58:54Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753065035.8858325
+      }
+    },
+    {
+      "title": "Baby Deals and Offers in Flyers Until July  22nd",
+      "link": "https://smartcanucks.ca/baby-deals-and-offers-in-flyers-until-july-22nd-2/",
+      "published": "2025-07-20T23:30:01Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753065038.46275
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054061.072748
+        "scraped_at": 1753065041.1499474
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054063.6269524
+        "scraped_at": 1753065044.1650245
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054066.3026125
+        "scraped_at": 1753065046.6715875
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054068.8213344
+        "scraped_at": 1753065049.3887053
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054071.1995509
+        "scraped_at": 1753065052.1777723
       }
     },
     {
@@ -98,7 +143,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054074.2275984
+        "scraped_at": 1753065055.1785145
       }
     },
     {
@@ -113,7 +158,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054076.854473
+        "scraped_at": 1753065057.5994904
       }
     },
     {
@@ -128,7 +173,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054079.1373775
+        "scraped_at": 1753065060.2253208
       }
     },
     {
@@ -143,7 +188,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054081.7961354
+        "scraped_at": 1753065062.4244208
       }
     },
     {
@@ -158,7 +203,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054084.60288
+        "scraped_at": 1753065065.0657313
       }
     },
     {
@@ -173,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054086.9450645
+        "scraped_at": 1753065068.0341792
       }
     },
     {
@@ -188,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054089.6473677
+        "scraped_at": 1753065070.3646982
       }
     },
     {
@@ -203,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054092.641271
+        "scraped_at": 1753065072.8989217
       }
     },
     {
@@ -218,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054094.9038296
+        "scraped_at": 1753065075.0850883
       }
     },
     {
@@ -235,7 +280,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054097.8982728
+        "scraped_at": 1753065077.9148495
       }
     },
     {
@@ -250,7 +295,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054100.115087
+        "scraped_at": 1753065080.5091658
       }
     },
     {
@@ -265,52 +310,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753054102.3797295
-      }
-    },
-    {
-      "title": "ECCO Shoes Canada: Sale up to 40% off + Extra 10% of $250+",
-      "link": "https://smartcanucks.ca/ecco-shoes-canada-sale-up-to-40-off-extra-10-of-250/",
-      "published": "2025-07-18T12:14:08Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753054105.1665072
-      }
-    },
-    {
-      "title": "Adidas Canada Back-To-School Clothes and Shoes + Outlet Deals: Save 25% off Everything with Promo Code",
-      "link": "https://smartcanucks.ca/adidas-canada-back-to-school-clothes-and-shoes-outlet-deals-save-25-off-everything-with-promo-code/",
-      "published": "2025-07-18T11:59:41Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753054108.1483104
-      }
-    },
-    {
-      "title": "Krispy Kreme Doughnut Canada 88th Birthday Today Friday (7/18) Only",
-      "link": "https://smartcanucks.ca/krispy-kreme-doughnut-canada-88th-birthday-today-friday-7-18-only/",
-      "published": "2025-07-18T11:36:03Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753054110.401365
+        "scraped_at": 1753065082.852487
       }
     }
   ],
