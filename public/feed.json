@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-21T15:32:07.987673Z",
+  "scraped_at": "2025-07-21T16:37:06.758480Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Costco Canada Coupons/Flyers Deals at All Costco Wholesale Warehouses in Canada, Until August 3",
+      "link": "https://smartcanucks.ca/costco-canada-coupons-flyers-deals-at-all-costco-wholesale-warehouses-in-canada-until-august-3/",
+      "published": "2025-07-21T15:33:58Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753115779.6558156
+      }
+    },
     {
       "title": "Crocs Canada: Sale up to 50% off",
       "link": "https://smartcanucks.ca/crocs-canada-sale-up-to-50-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111877.3632004
+        "scraped_at": 1753115781.8627489
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111880.1452675
+        "scraped_at": 1753115784.2600405
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111882.5370798
+        "scraped_at": 1753115786.5410972
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111885.2823188
+        "scraped_at": 1753115788.8349185
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111887.822163
+        "scraped_at": 1753115791.6447747
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111890.58825
+        "scraped_at": 1753115794.308237
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111893.0566237
+        "scraped_at": 1753115796.4544885
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111895.786098
+        "scraped_at": 1753115799.3157659
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111898.657918
+        "scraped_at": 1753115802.08969
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111901.4081783
+        "scraped_at": 1753115804.739108
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111903.5753546
+        "scraped_at": 1753115807.1826808
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111906.4742665
+        "scraped_at": 1753115809.3425505
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111909.4583158
+        "scraped_at": 1753115811.461653
       }
     },
     {
@@ -218,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111911.5845041
+        "scraped_at": 1753115814.0132341
       }
     },
     {
@@ -233,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111914.3564587
+        "scraped_at": 1753115816.6237075
       }
     },
     {
@@ -248,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111917.1955695
+        "scraped_at": 1753115819.4546928
       }
     },
     {
@@ -263,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111919.9830184
+        "scraped_at": 1753115821.7141054
       }
     },
     {
@@ -278,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111922.887393
+        "scraped_at": 1753115824.1051967
       }
     },
     {
@@ -293,22 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753111925.8728192
-      }
-    },
-    {
-      "title": "Epic Games Freebie: Get Sid Meier’s Civilization VI Platinum Edition for FREE",
-      "link": "https://smartcanucks.ca/epic-games-freebie-get-sid-meiers-civilization-vi-platinum-edition-for-free/",
-      "published": "2025-07-18T15:45:53Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753111927.9875925
+        "scraped_at": 1753115826.7583995
       }
     }
   ],
