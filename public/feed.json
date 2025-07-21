@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-21T13:45:13.594602Z",
+  "scraped_at": "2025-07-21T14:31:46.085885Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Crocs Canada: Sale up to 50% off",
+      "link": "https://smartcanucks.ca/crocs-canada-sale-up-to-50-off/",
+      "published": "2025-07-21T14:11:28Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753108256.520969
+      }
+    },
+    {
+      "title": "TOMS Canada Surprise Sale Deals: Save up to 70% Off",
+      "link": "https://smartcanucks.ca/toms-canada-surprise-sale-deals-save-up-to-70-off/",
+      "published": "2025-07-21T13:49:26Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753108258.9671602
+      }
+    },
     {
       "title": "Hallmark Canada Christmas in July",
       "link": "https://smartcanucks.ca/hallmark-canada-christmas-in-july/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105464.459745
+        "scraped_at": 1753108261.3899243
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105467.1632204
+        "scraped_at": 1753108264.0840526
       }
     },
     {
@@ -51,7 +81,37 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105469.9121695
+        "scraped_at": 1753108266.5742812
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
+      "published": "2025-07-21T01:40:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753108269.3333437
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
+      "published": "2025-07-21T01:15:20Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753108272.2548423
       }
     },
     {
@@ -66,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105472.7417426
+        "scraped_at": 1753108274.4592586
       }
     },
     {
@@ -81,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105475.039547
+        "scraped_at": 1753108276.7747753
       }
     },
     {
@@ -96,37 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105477.421739
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
-      "published": "2025-07-20T15:15:20Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753105479.8344276
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
-      "published": "2025-07-20T14:10:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753105482.4966047
+        "scraped_at": 1753108278.9344165
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105485.395114
+        "scraped_at": 1753108281.8720164
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105488.137213
+        "scraped_at": 1753108284.860684
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105490.375054
+        "scraped_at": 1753108287.8879113
       }
     },
     {
@@ -188,7 +218,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105493.1759899
+        "scraped_at": 1753108290.6705902
       }
     },
     {
@@ -203,7 +233,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105496.170684
+        "scraped_at": 1753108292.8593903
       }
     },
     {
@@ -218,7 +248,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105498.5114338
+        "scraped_at": 1753108295.6815543
       }
     },
     {
@@ -233,7 +263,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105501.1895313
+        "scraped_at": 1753108298.34284
       }
     },
     {
@@ -248,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105503.5087156
+        "scraped_at": 1753108300.5005686
       }
     },
     {
@@ -263,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105505.8882256
+        "scraped_at": 1753108303.2093363
       }
     },
     {
@@ -278,37 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753105508.5298965
-      }
-    },
-    {
-      "title": "Ever New Canada: End of Season Sale up to 50% off",
-      "link": "https://smartcanucks.ca/ever-new-canada-end-of-season-sale-up-to-50-off/",
-      "published": "2025-07-18T14:54:32Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753105511.3121426
-      }
-    },
-    {
-      "title": "Ela Canada: Jewelry Sale up to 50% off + Jilian Harris Collection",
-      "link": "https://smartcanucks.ca/ela-canada-jewelry-sale-up-to-50-off-jilian-harris-collection/",
-      "published": "2025-07-18T14:34:07Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753105513.594505
+        "scraped_at": 1753108306.0857973
       }
     }
   ],
