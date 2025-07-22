@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-22T13:01:12.979142Z",
+  "scraped_at": "2025-07-22T13:44:02.241601Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Well.ca Canada Top Deals Of The Week: Save up to 40% Baby & Kids Apparel & Accessories Hot Summer Deals + More Deals",
+      "link": "https://smartcanucks.ca/well-ca-canada-top-deals-of-the-week-save-up-to-40-baby-kids-apparel-accessories-hot-summer-deals-more-deals/",
+      "published": "2025-07-22T13:30:40Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753191794.3902674
+      }
+    },
+    {
+      "title": "Nintendo Canada Sales & Deals: Save up to 90% on Select Games",
+      "link": "https://smartcanucks.ca/nintendo-canada-sales-deals-save-up-to-90-on-select-games/",
+      "published": "2025-07-22T13:28:43Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753191796.6483583
+      }
+    },
+    {
+      "title": "Tim Hortons Canada New $8.99 Dinner Deals, 5 – 11 PM Daily!",
+      "link": "https://smartcanucks.ca/tim-hortons-canada-new-8-99-dinner-deals-5-11-pm-daily/",
+      "published": "2025-07-22T13:15:43Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753191798.9122486
+      }
+    },
     {
       "title": "Champs Sports Canada Back to School Sale Event: Save up to 40% Off",
       "link": "https://smartcanucks.ca/champs-sports-canada-back-to-school-sale-event-save-up-to-40-off/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189223.683413
+        "scraped_at": 1753191801.3980663
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189226.5452948
+        "scraped_at": 1753191803.7558224
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189229.0833688
+        "scraped_at": 1753191806.0484805
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189231.6708028
+        "scraped_at": 1753191808.4916813
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189234.224813
+        "scraped_at": 1753191811.2021482
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189236.39551
+        "scraped_at": 1753191813.8642812
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189238.6798322
+        "scraped_at": 1753191815.9556804
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189241.4902856
+        "scraped_at": 1753191818.916024
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189244.3321176
+        "scraped_at": 1753191821.9043412
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189247.012662
+        "scraped_at": 1753191824.734018
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189249.5510101
+        "scraped_at": 1753191827.2796776
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189252.2736416
+        "scraped_at": 1753191829.5436826
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189254.9826753
+        "scraped_at": 1753191832.385509
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189257.284032
+        "scraped_at": 1753191835.1137545
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189259.3254762
+        "scraped_at": 1753191837.203073
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189262.3331985
+        "scraped_at": 1753191840.1530218
       }
     },
     {
@@ -261,54 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753189265.0457954
-      }
-    },
-    {
-      "title": "SAXX Underwear Canada: Summer Sale up to 40% off",
-      "link": "https://smartcanucks.ca/saxx-underwear-canada-summer-sale-up-to-40-off-2/",
-      "published": "2025-07-20T13:45:05Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753189267.8506465
-      }
-    },
-    {
-      "title": "IT Cosmetics Canada: up to 50% off Select Products + Free Gift with Purchase",
-      "link": "https://smartcanucks.ca/it-cosmetics-canada-up-to-50-off-select-products-free-gift-with-purchase/",
-      "published": "2025-07-20T13:30:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753189270.8086846
-      }
-    },
-    {
-      "title": "Dairy Queen Canada National Ice Cream Day 2025 Promotion: DQ Rewards Members Get a Small Vanilla Cone for 85¢ with a DQ App on July 20.",
-      "link": "https://smartcanucks.ca/dairy-queen-canada-national-ice-cream-day-2025-promotion-dq-rewards-members-get-a-small-vanilla-cone-for-85%C2%A2-with-a-dq-app-on-july-20-2/",
-      "published": "2025-07-20T13:15:57Z",
-      "affiliate_processed": true,
-      "original_link": "https://smartcanucks.ca/dairy-queen-canada-national-ice-cream-day-2025-promotion-dq-rewards-members-get-a-small-vanilla-cone-for-85%c2%a2-with-a-dq-app-on-july-20-2/",
-      "resolved_link": "https://smartcanucks.ca/dairy-queen-canada-national-ice-cream-day-2025-promotion-dq-rewards-members-get-a-small-vanilla-cone-for-85%C2%A2-with-a-dq-app-on-july-20-2/",
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753189272.979024
+        "scraped_at": 1753191842.241478
       }
     }
   ],
