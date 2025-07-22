@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-22T11:25:52.326994Z",
+  "scraped_at": "2025-07-22T13:01:12.979142Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Champs Sports Canada Back to School Sale Event: Save up to 40% Off",
+      "link": "https://smartcanucks.ca/champs-sports-canada-back-to-school-sale-event-save-up-to-40-off/",
+      "published": "2025-07-22T12:58:16Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753189223.683413
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 85% on Wireless Earbuds + 30% on LG 77″ B5 OLED 4K Smart TV + 23% on Smart WiFi Front Door Keyless Entry + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-30-on-lg-77-b5-oled-4k-smart-tv-23-on-smart-wifi-front-door-keyless-entry-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183504.2738245
+        "scraped_at": 1753189226.5452948
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183507.0863583
+        "scraped_at": 1753189229.0833688
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183509.9545856
+        "scraped_at": 1753189231.6708028
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183512.8465626
+        "scraped_at": 1753189234.224813
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183515.1390712
+        "scraped_at": 1753189236.39551
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183517.5731146
+        "scraped_at": 1753189238.6798322
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183520.057811
+        "scraped_at": 1753189241.4902856
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183522.3600414
+        "scraped_at": 1753189244.3321176
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183524.5108042
+        "scraped_at": 1753189247.012662
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183526.7203078
+        "scraped_at": 1753189249.5510101
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183529.6749194
+        "scraped_at": 1753189252.2736416
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183531.9771202
+        "scraped_at": 1753189254.9826753
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183534.8769221
+        "scraped_at": 1753189257.284032
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183537.738444
+        "scraped_at": 1753189259.3254762
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183539.9623814
+        "scraped_at": 1753189262.3331985
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183542.3030345
+        "scraped_at": 1753189265.0457954
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183544.5633178
+        "scraped_at": 1753189267.8506465
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183547.0825667
+        "scraped_at": 1753189270.8086846
       }
     },
     {
@@ -293,22 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753183549.9070284
-      }
-    },
-    {
-      "title": "Swiss Chalet Canada Promotions: Swiss Chalet Chicken & Ribfest is BACK!",
-      "link": "https://smartcanucks.ca/swiss-chalet-canada-promotions-swiss-chalet-chicken-ribfest-is-back/",
-      "published": "2025-07-19T14:02:10Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753183552.326851
+        "scraped_at": 1753189272.979024
       }
     }
   ],
