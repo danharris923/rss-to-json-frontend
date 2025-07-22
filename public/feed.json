@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-22T13:44:02.241601Z",
+  "scraped_at": "2025-07-22T14:29:47.940971Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Under Armour Canada Back to School Deals: Save 25% of Select Styles",
+      "link": "https://smartcanucks.ca/under-armour-canada-back-to-school-deals-save-25-of-select-styles/",
+      "published": "2025-07-22T14:08:32Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753194542.551411
+      }
+    },
+    {
+      "title": "Kitchen Stuff Plus Canada Red Hot Deals: Save 66% on 3 Pc Patio Set + More Offers",
+      "link": "https://smartcanucks.ca/kitchen-stuff-plus-canada-red-hot-deals-save-66-on-3-pc-patio-set-more-offers/",
+      "published": "2025-07-22T13:45:41Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753194544.75379
+      }
+    },
     {
       "title": "Well.ca Canada Top Deals Of The Week: Save up to 40% Baby & Kids Apparel & Accessories Hot Summer Deals + More Deals",
       "link": "https://smartcanucks.ca/well-ca-canada-top-deals-of-the-week-save-up-to-40-baby-kids-apparel-accessories-hot-summer-deals-more-deals/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191794.3902674
+        "scraped_at": 1753194546.8829618
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191796.6483583
+        "scraped_at": 1753194549.307817
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191798.9122486
+        "scraped_at": 1753194551.4251971
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191801.3980663
+        "scraped_at": 1753194554.3392584
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191803.7558224
+        "scraped_at": 1753194556.6980565
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191806.0484805
+        "scraped_at": 1753194558.745989
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191808.4916813
+        "scraped_at": 1753194560.8107052
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191811.2021482
+        "scraped_at": 1753194563.6723328
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191813.8642812
+        "scraped_at": 1753194565.8793468
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191815.9556804
+        "scraped_at": 1753194568.7378082
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191818.916024
+        "scraped_at": 1753194571.754128
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191821.9043412
+        "scraped_at": 1753194574.1631854
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191824.734018
+        "scraped_at": 1753194576.3275871
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191827.2796776
+        "scraped_at": 1753194578.4408731
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191829.5436826
+        "scraped_at": 1753194580.8948917
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191832.385509
+        "scraped_at": 1753194583.7470295
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191835.1137545
+        "scraped_at": 1753194585.91547
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753191837.203073
-      }
-    },
-    {
-      "title": "Baby Deals and Offers in Flyers Until July  22nd",
-      "link": "https://smartcanucks.ca/baby-deals-and-offers-in-flyers-until-july-22nd-2/",
-      "published": "2025-07-20T23:30:01Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753191840.1530218
-      }
-    },
-    {
-      "title": "Kit + Ace Canada: Sale up to 50% off",
-      "link": "https://smartcanucks.ca/kit-ace-canada-sale-up-to-50-off/",
-      "published": "2025-07-20T14:00:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753191842.241478
+        "scraped_at": 1753194587.9408529
       }
     }
   ],
