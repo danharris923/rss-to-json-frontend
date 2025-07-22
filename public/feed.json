@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-22T02:25:15.440964Z",
+  "scraped_at": "2025-07-22T04:04:19.538158Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 85% on Wireless Earbuds + 30% on LG 77″ B5 OLED 4K Smart TV + 23% on Smart WiFi Front Door Keyless Entry + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-30-on-lg-77-b5-oled-4k-smart-tv-23-on-smart-wifi-front-door-keyless-entry-more/",
+      "published": "2025-07-22T02:40:51Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753157012.5985136
+      }
+    },
     {
       "title": "WebSaver Canada Coupons: Save $1.50 on Dove Men+Care Body Wash or Bar Soap",
       "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-50-on-dove-mencare-body-wash-or-bar-soap/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151066.9742403
+        "scraped_at": 1753157014.7695184
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151069.5389965
+        "scraped_at": 1753157017.7283657
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151071.697357
+        "scraped_at": 1753157020.0997396
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151074.323213
+        "scraped_at": 1753157023.0695426
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151076.9961202
+        "scraped_at": 1753157025.730421
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151079.1662369
+        "scraped_at": 1753157028.1415262
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151082.0547945
+        "scraped_at": 1753157030.695492
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151084.8123083
+        "scraped_at": 1753157032.8505251
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151087.761066
+        "scraped_at": 1753157035.1947143
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151090.5789456
+        "scraped_at": 1753157037.2275827
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151092.7504616
+        "scraped_at": 1753157039.8032305
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151095.5065377
+        "scraped_at": 1753157042.4034953
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151098.4882684
+        "scraped_at": 1753157044.6208293
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151100.962012
+        "scraped_at": 1753157046.6832776
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151103.212256
+        "scraped_at": 1753157048.885918
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151106.010851
+        "scraped_at": 1753157051.122735
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151108.5973523
+        "scraped_at": 1753157053.7854266
       }
     },
     {
@@ -278,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151110.8554535
+        "scraped_at": 1753157056.7587023
       }
     },
     {
@@ -293,22 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753151113.0407581
-      }
-    },
-    {
-      "title": "Carter’s OshKosh B’gosh Canada: Summer Clearance up to 60% off",
-      "link": "https://smartcanucks.ca/carters-oshkosh-bgosh-canada-summer-clearance-up-to-60-off/",
-      "published": "2025-07-19T13:45:15Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753151115.440877
+        "scraped_at": 1753157059.5380108
       }
     }
   ],
