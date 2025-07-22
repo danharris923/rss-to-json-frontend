@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-22T22:28:31.433841Z",
+  "scraped_at": "2025-07-22T23:28:35.859975Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Giant Tiger Canada Flyer Deals July 23rd – 29th",
+      "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-july-23rd-29th/",
+      "published": "2025-07-22T23:08:19Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753226866.7033882
+      }
+    },
     {
       "title": "La Vie En Rose Canada: Summer Sale up To 50% Off + 20% Off Panty Packs + More",
       "link": "https://smartcanucks.ca/la-vie-en-rose-canada-summer-sale-up-to-50-off-20-off-panty-packs-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223263.326602
+        "scraped_at": 1753226869.4896138
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223265.6588569
+        "scraped_at": 1753226871.611316
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223268.2148423
+        "scraped_at": 1753226874.0532296
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223271.1822934
+        "scraped_at": 1753226877.054903
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223273.6467388
+        "scraped_at": 1753226879.8210843
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223275.6729448
+        "scraped_at": 1753226882.3555162
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223278.6878078
+        "scraped_at": 1753226885.2090352
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223281.1230888
+        "scraped_at": 1753226887.7048109
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223283.849568
+        "scraped_at": 1753226890.3261888
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223286.8263466
+        "scraped_at": 1753226892.9814615
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223289.023041
+        "scraped_at": 1753226895.5414162
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223291.511334
+        "scraped_at": 1753226897.8177922
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223293.8398664
+        "scraped_at": 1753226900.5884182
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223296.4598143
+        "scraped_at": 1753226902.7964785
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223298.8791022
+        "scraped_at": 1753226905.239914
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223301.8108659
+        "scraped_at": 1753226907.7848537
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223304.1633215
+        "scraped_at": 1753226909.9165432
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223306.446001
+        "scraped_at": 1753226912.8866277
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753223308.7129056
-      }
-    },
-    {
-      "title": "Acer Canada: Save up to 63% on Chromebooks + More",
-      "link": "https://smartcanucks.ca/acer-canada-save-up-to-63-on-chromebooks-more/",
-      "published": "2025-07-21T12:21:03Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753223311.4337451
+        "scraped_at": 1753226915.859875
       }
     }
   ],
