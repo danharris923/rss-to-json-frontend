@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-22T14:29:47.940971Z",
+  "scraped_at": "2025-07-22T15:32:50.905540Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "La Vie En Rose Canada: Summer Sale up To 50% Off + 20% Off Panty Packs + More",
+      "link": "https://smartcanucks.ca/la-vie-en-rose-canada-summer-sale-up-to-50-off-20-off-panty-packs-more/",
+      "published": "2025-07-22T15:15:27Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753198320.77131
+      }
+    },
+    {
+      "title": "LEGO Canada Offers and Sales",
+      "link": "https://smartcanucks.ca/lego-canada-offers-and-sales/",
+      "published": "2025-07-22T14:49:40Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753198323.1287742
+      }
+    },
     {
       "title": "Under Armour Canada Back to School Deals: Save 25% of Select Styles",
       "link": "https://smartcanucks.ca/under-armour-canada-back-to-school-deals-save-25-of-select-styles/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194542.551411
+        "scraped_at": 1753198325.6289878
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194544.75379
+        "scraped_at": 1753198328.2717538
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194546.8829618
+        "scraped_at": 1753198330.6223004
       }
     },
     {
@@ -66,7 +96,22 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194549.307817
+        "scraped_at": 1753198333.473239
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 85% on Wireless Earbuds + 30% on LG 77″ B5 OLED 4K Smart TV + 23% on Smart WiFi Front Door Keyless Entry + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-30-on-lg-77-b5-oled-4k-smart-tv-23-on-smart-wifi-front-door-keyless-entry-more/",
+      "published": "2025-07-22T13:18:51Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753198336.2809088
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194551.4251971
+        "scraped_at": 1753198338.7829385
       }
     },
     {
@@ -96,13 +141,13 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194554.3392584
+        "scraped_at": 1753198341.2274687
       }
     },
     {
-      "title": "Amazon Canada Deals: Save 85% on Wireless Earbuds + 30% on LG 77″ B5 OLED 4K Smart TV + 23% on Smart WiFi Front Door Keyless Entry + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-30-on-lg-77-b5-oled-4k-smart-tv-23-on-smart-wifi-front-door-keyless-entry-more/",
-      "published": "2025-07-22T02:40:51Z",
+      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
+      "published": "2025-07-22T01:40:50Z",
       "affiliate_processed": false,
       "scraped_content": {
         "title": "",
@@ -111,7 +156,22 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194556.6980565
+        "scraped_at": 1753198343.880115
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
+      "published": "2025-07-22T01:15:20Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753198346.68464
       }
     },
     {
@@ -126,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194558.745989
+        "scraped_at": 1753198348.9766667
       }
     },
     {
@@ -141,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194560.8107052
+        "scraped_at": 1753198351.2072773
       }
     },
     {
@@ -156,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194563.6723328
+        "scraped_at": 1753198353.8996544
       }
     },
     {
@@ -171,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194565.8793468
+        "scraped_at": 1753198356.921149
       }
     },
     {
@@ -186,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194568.7378082
+        "scraped_at": 1753198359.9548419
       }
     },
     {
@@ -201,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194571.754128
+        "scraped_at": 1753198362.9735832
       }
     },
     {
@@ -216,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194574.1631854
+        "scraped_at": 1753198365.6397355
       }
     },
     {
@@ -231,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194576.3275871
+        "scraped_at": 1753198368.5237763
       }
     },
     {
@@ -246,67 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753194578.4408731
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
-      "published": "2025-07-21T01:40:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753194580.8948917
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
-      "published": "2025-07-21T01:15:20Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753194583.7470295
-      }
-    },
-    {
-      "title": "Sobeys Ontario: Cavendish Quick Crisp Fries 88 Cents With Printable Coupon",
-      "link": "https://smartcanucks.ca/sobeys-ontario-cavendish-quick-crisp-fries-88-cents-with-printable-coupon/",
-      "published": "2025-07-21T00:56:07Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753194585.91547
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada PC Optimum Offers: 15,000 Points When You Spend $150 on IKEA Gift Cards",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-pc-optimum-offers-15000-points-when-you-spend-150-on-ikea-gift-cards/",
-      "published": "2025-07-20T23:58:54Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753194587.9408529
+        "scraped_at": 1753198370.905427
       }
     }
   ],
