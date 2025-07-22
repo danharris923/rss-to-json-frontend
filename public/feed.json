@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-21T23:28:46.315457Z",
+  "scraped_at": "2025-07-22T02:25:15.440964Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "WebSaver Canada Coupons: Save $1.50 on Dove Men+Care Body Wash or Bar Soap",
+      "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-50-on-dove-mencare-body-wash-or-bar-soap/",
+      "published": "2025-07-22T01:03:11Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753151066.9742403
+      }
+    },
+    {
+      "title": "General Mills Canada Free Snacks Promotion",
+      "link": "https://smartcanucks.ca/general-mills-canada-free-snacks-promotion/",
+      "published": "2025-07-22T00:14:25Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753151069.5389965
+      }
+    },
+    {
+      "title": "Shoppers Drug Mart Canada Text Offer: Get 10,000 PC Optimum Points When You Spend $40 July 22nd & 23rd",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-text-offer-get-10000-pc-optimum-points-when-you-spend-40-july-22nd-23rd/",
+      "published": "2025-07-21T23:51:27Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753151071.697357
+      }
+    },
     {
       "title": "Costco Canada Coupons/Flyers Deals at All Costco Wholesale Warehouses in Canada, Until August 3",
       "link": "https://smartcanucks.ca/costco-canada-coupons-flyers-deals-at-all-costco-wholesale-warehouses-in-canada-until-august-3/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140477.6552467
+        "scraped_at": 1753151074.323213
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140480.6749182
+        "scraped_at": 1753151076.9961202
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140482.8655038
+        "scraped_at": 1753151079.1662369
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140485.4428198
+        "scraped_at": 1753151082.0547945
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140487.5273905
+        "scraped_at": 1753151084.8123083
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140490.321173
+        "scraped_at": 1753151087.761066
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140492.570648
+        "scraped_at": 1753151090.5789456
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140495.042785
+        "scraped_at": 1753151092.7504616
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140497.9182644
+        "scraped_at": 1753151095.5065377
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140500.2334507
+        "scraped_at": 1753151098.4882684
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140502.5415711
+        "scraped_at": 1753151100.962012
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140505.2889194
+        "scraped_at": 1753151103.212256
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140508.0425057
+        "scraped_at": 1753151106.010851
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140510.3277712
+        "scraped_at": 1753151108.5973523
       }
     },
     {
@@ -233,7 +278,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140513.2825513
+        "scraped_at": 1753151110.8554535
       }
     },
     {
@@ -248,7 +293,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140515.322742
+        "scraped_at": 1753151113.0407581
       }
     },
     {
@@ -263,52 +308,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753140518.0271378
-      }
-    },
-    {
-      "title": "Michaels Canada: 40% off One Regular Priced Item + 20% off for Teachers + More",
-      "link": "https://smartcanucks.ca/michaels-canada-40-off-one-regular-priced-item-20-off-for-teachers-more/",
-      "published": "2025-07-19T13:30:10Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753140520.6715343
-      }
-    },
-    {
-      "title": "Best Buy Canada: Save up to $500 on Big Screen TVs + Top Deals + More",
-      "link": "https://smartcanucks.ca/best-buy-canada-save-up-to-500-on-big-screen-tvs-top-deals-more/",
-      "published": "2025-07-19T13:15:47Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753140523.5779014
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada: Mystery Offer + 2 Day Sale",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-mystery-offer-2-day-sale-2/",
-      "published": "2025-07-19T01:35:32Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753140526.3153658
+        "scraped_at": 1753151115.440877
       }
     }
   ],
