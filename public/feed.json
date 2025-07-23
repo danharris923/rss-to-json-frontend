@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-23T11:26:33.535564Z",
+  "scraped_at": "2025-07-23T13:01:27.703816Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Keurig Canada: Save up to $28 on K-Cups with Promo Code + More",
+      "link": "https://smartcanucks.ca/keurig-canada-save-up-to-28-on-k-cups-with-promo-code-more/",
+      "published": "2025-07-23T12:34:28Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753275639.769267
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 70% on Active Noise Cancelling Headphones + 85% on Wireless Earbuds + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-70-on-active-noise-cancelling-headphones-85-on-wireless-earbuds-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269944.411215
+        "scraped_at": 1753275642.6335325
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269946.7683372
+        "scraped_at": 1753275645.2679806
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269949.1026382
+        "scraped_at": 1753275648.0480196
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269951.5488904
+        "scraped_at": 1753275650.549056
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269953.9021468
+        "scraped_at": 1753275653.3043764
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269955.9296575
+        "scraped_at": 1753275655.341696
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269958.886525
+        "scraped_at": 1753275657.5929365
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269961.7606483
+        "scraped_at": 1753275660.0458934
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269964.714319
+        "scraped_at": 1753275662.479668
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269966.8163865
+        "scraped_at": 1753275664.621688
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269969.4304183
+        "scraped_at": 1753275666.9068818
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269972.4323125
+        "scraped_at": 1753275669.7398674
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269975.3922107
+        "scraped_at": 1753275672.6177669
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269978.002394
+        "scraped_at": 1753275675.3061426
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269980.9258668
+        "scraped_at": 1753275677.7668972
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269983.6477337
+        "scraped_at": 1753275680.7138305
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269986.082494
+        "scraped_at": 1753275682.9649613
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269988.40611
+        "scraped_at": 1753275685.289198
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753269990.6987503
-      }
-    },
-    {
-      "title": "Crocs Canada: Sale up to 50% off",
-      "link": "https://smartcanucks.ca/crocs-canada-sale-up-to-50-off/",
-      "published": "2025-07-21T14:11:28Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753269993.5354438
+        "scraped_at": 1753275687.70372
       }
     }
   ],
