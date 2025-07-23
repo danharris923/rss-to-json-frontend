@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-22T23:28:35.859975Z",
+  "scraped_at": "2025-07-23T02:26:12.912704Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "WebSaver Canada Coupons: Save $1.50 on Dove Body Wash 547ml",
+      "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-50-on-dove-body-wash-547ml/",
+      "published": "2025-07-23T00:49:27Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753237525.0481858
+      }
+    },
+    {
+      "title": "Air Miles Canada Shop The Block: Earn up to 550 Bonus Air Miles July 25th – August 8th",
+      "link": "https://smartcanucks.ca/air-miles-canada-shop-the-block-earn-up-to-550-bonus-air-miles-july-25th-august-8th/",
+      "published": "2025-07-22T23:40:23Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753237527.4581654
+      }
+    },
     {
       "title": "Giant Tiger Canada Flyer Deals July 23rd – 29th",
       "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-july-23rd-29th/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226866.7033882
+        "scraped_at": 1753237530.3633082
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226869.4896138
+        "scraped_at": 1753237532.5719202
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226871.611316
+        "scraped_at": 1753237535.5414424
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226874.0532296
+        "scraped_at": 1753237538.108371
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226877.054903
+        "scraped_at": 1753237540.9220693
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226879.8210843
+        "scraped_at": 1753237543.1041856
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226882.3555162
+        "scraped_at": 1753237545.5794494
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226885.2090352
+        "scraped_at": 1753237548.0942554
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226887.7048109
+        "scraped_at": 1753237550.961484
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226890.3261888
+        "scraped_at": 1753237553.342835
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226892.9814615
+        "scraped_at": 1753237556.213637
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226895.5414162
+        "scraped_at": 1753237558.2917173
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226897.8177922
+        "scraped_at": 1753237561.1409497
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226900.5884182
+        "scraped_at": 1753237563.2148821
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226902.7964785
+        "scraped_at": 1753237566.101966
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226905.239914
+        "scraped_at": 1753237568.2295651
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226907.7848537
+        "scraped_at": 1753237570.7004204
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753226909.9165432
-      }
-    },
-    {
-      "title": "Hallmark Canada Christmas in July",
-      "link": "https://smartcanucks.ca/hallmark-canada-christmas-in-july/",
-      "published": "2025-07-21T13:17:32Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753226912.8866277
-      }
-    },
-    {
-      "title": "Mark’s Canada: Buy One Get One 50% off Jeans, Footwear, Kids’ Clothing and Jackets + More",
-      "link": "https://smartcanucks.ca/marks-canada-buy-one-get-one-50-off-jeans-footwear-kids-clothing-and-jackets-more/",
-      "published": "2025-07-21T12:50:22Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753226915.859875
+        "scraped_at": 1753237572.9125562
       }
     }
   ],
