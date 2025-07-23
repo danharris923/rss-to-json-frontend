@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-23T22:29:27.828763Z",
+  "scraped_at": "2025-07-23T23:28:50.360937Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Food Basics Ontario Flyer Deals July 24th – 30th: Combination Pork Chops $1.98/lb + More",
+      "link": "https://smartcanucks.ca/food-basics-ontario-flyer-deals-july-24th-30th-combination-pork-chops-1-98-lb-more/",
+      "published": "2025-07-23T22:58:39Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753313283.5851812
+      }
+    },
+    {
+      "title": "Walmart Canada Flyer Deals July 24th – 30th: Kraft BBQ Sauce 97 Cents + More",
+      "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-july-24th-30th-kraft-bbq-sauce-97-cents-more/",
+      "published": "2025-07-23T22:41:42Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753313286.0068326
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309720.348038
+        "scraped_at": 1753313288.9426112
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309722.763558
+        "scraped_at": 1753313291.6041226
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309725.2132766
+        "scraped_at": 1753313293.9248743
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309727.58179
+        "scraped_at": 1753313296.3164256
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309730.5639663
+        "scraped_at": 1753313299.294192
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309732.6402304
+        "scraped_at": 1753313301.4198804
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309735.198557
+        "scraped_at": 1753313303.6992443
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309737.6642725
+        "scraped_at": 1753313306.183372
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309740.4519994
+        "scraped_at": 1753313308.5600643
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309743.1264021
+        "scraped_at": 1753313311.1785486
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309746.0047703
+        "scraped_at": 1753313313.3189347
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309748.2513225
+        "scraped_at": 1753313315.705296
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309750.7466214
+        "scraped_at": 1753313317.744556
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309753.4686885
+        "scraped_at": 1753313320.1732311
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309755.677886
+        "scraped_at": 1753313322.9945025
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309758.3077812
+        "scraped_at": 1753313325.3368835
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309761.315581
+        "scraped_at": 1753313328.2813575
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753309763.6760724
-      }
-    },
-    {
-      "title": "Champs Sports Canada Back to School Sale Event: Save up to 40% Off",
-      "link": "https://smartcanucks.ca/champs-sports-canada-back-to-school-sale-event-save-up-to-40-off/",
-      "published": "2025-07-22T12:58:16Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753309765.7582483
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 37% on Women’s Skechers + 35% on Women’s Sports Bra + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-37-on-womens-skechers-35-on-womens-sports-bra-more/",
-      "published": "2025-07-22T01:15:20Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753309767.8286011
+        "scraped_at": 1753313330.3608131
       }
     }
   ],
