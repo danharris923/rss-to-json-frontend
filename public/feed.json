@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-23T14:31:34.275931Z",
+  "scraped_at": "2025-07-23T15:33:32.659806Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Foot Locker Canada: up to 40% off Nike and Jordan",
+      "link": "https://smartcanucks.ca/foot-locker-canada-up-to-40-off-nike-and-jordan/",
+      "published": "2025-07-23T14:39:14Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753284762.75766
+      }
+    },
     {
       "title": "Sport Chek Canada: Up to $70 off Men’s and Women’s Running Shoes + Clearance + More",
       "link": "https://smartcanucks.ca/sport-chek-canada-up-to-70-off-mens-and-womens-running-shoes-clearance-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281045.644963
+        "scraped_at": 1753284765.559589
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281048.0128276
+        "scraped_at": 1753284768.4157481
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281050.7183738
+        "scraped_at": 1753284770.9422495
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281052.998714
+        "scraped_at": 1753284773.2715633
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281055.1125793
+        "scraped_at": 1753284775.3811543
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281057.2265837
+        "scraped_at": 1753284777.7193127
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281059.558712
+        "scraped_at": 1753284780.2392097
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281061.9788783
+        "scraped_at": 1753284782.933096
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281064.6622221
+        "scraped_at": 1753284785.9074388
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281067.5408044
+        "scraped_at": 1753284788.5062222
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281070.4317584
+        "scraped_at": 1753284791.223237
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281073.2099645
+        "scraped_at": 1753284793.73147
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281075.6218777
+        "scraped_at": 1753284796.265021
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281078.6154761
+        "scraped_at": 1753284799.1230814
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281081.070865
+        "scraped_at": 1753284802.0604963
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281083.6612396
+        "scraped_at": 1753284804.3267884
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281086.2410362
+        "scraped_at": 1753284807.064852
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281089.07048
+        "scraped_at": 1753284810.0005972
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753281091.4724083
-      }
-    },
-    {
-      "title": "WebSaver Canada Coupons: Save $1.50 on Dove Men+Care Body Wash or Bar Soap",
-      "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-50-on-dove-mencare-body-wash-or-bar-soap/",
-      "published": "2025-07-22T01:03:11Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753281094.275852
+        "scraped_at": 1753284812.6596813
       }
     }
   ],
