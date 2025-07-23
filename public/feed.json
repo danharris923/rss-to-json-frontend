@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-23T04:05:46.784085Z",
+  "scraped_at": "2025-07-23T04:50:33.867671Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 70% on Active Noise Cancelling Headphones + 85% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-70-on-active-noise-cancelling-headphones-85-on-wireless-earbuds-more/",
+      "published": "2025-07-23T04:19:00Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753246186.6601033
+      }
+    },
     {
       "title": "WebSaver Canada Coupons: Save $1.50 on Dove Body Wash 547ml",
       "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-50-on-dove-body-wash-547ml/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243497.8410861
+        "scraped_at": 1753246189.6521897
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243500.5704618
+        "scraped_at": 1753246191.7522101
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243503.3222098
+        "scraped_at": 1753246193.824483
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243506.2553852
+        "scraped_at": 1753246196.4043453
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243509.1887484
+        "scraped_at": 1753246199.051982
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243511.4101787
+        "scraped_at": 1753246201.2742345
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243513.6503813
+        "scraped_at": 1753246203.5464945
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243516.206427
+        "scraped_at": 1753246205.5804133
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243518.4109137
+        "scraped_at": 1753246207.879673
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243520.6191397
+        "scraped_at": 1753246210.4840312
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243523.507095
+        "scraped_at": 1753246212.93116
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243526.334782
+        "scraped_at": 1753246215.8213143
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243529.026709
+        "scraped_at": 1753246218.593534
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243531.781911
+        "scraped_at": 1753246221.1406875
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243534.4260774
+        "scraped_at": 1753246223.3829818
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243536.5126016
+        "scraped_at": 1753246226.2426517
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243539.0127025
+        "scraped_at": 1753246228.8028293
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243541.58288
+        "scraped_at": 1753246231.0773492
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753243544.327097
-      }
-    },
-    {
-      "title": "TOMS Canada Surprise Sale Deals: Save up to 70% Off",
-      "link": "https://smartcanucks.ca/toms-canada-surprise-sale-deals-save-up-to-70-off/",
-      "published": "2025-07-21T13:49:26Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753243546.7839706
+        "scraped_at": 1753246233.8675585
       }
     }
   ],
