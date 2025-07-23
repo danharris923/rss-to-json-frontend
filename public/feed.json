@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-23T16:38:08.225303Z",
+  "scraped_at": "2025-07-23T17:29:22.278978Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
+      "published": "2025-07-23T15:40:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753291716.775989
+      }
+    },
     {
       "title": "Foot Locker Canada: up to 40% off Nike and Jordan",
       "link": "https://smartcanucks.ca/foot-locker-canada-up-to-40-off-nike-and-jordan/",
@@ -21,7 +36,22 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288639.967446
+        "scraped_at": 1753291719.5364146
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 85% on Wireless Earbuds + 30% on LG 77″ B5 OLED 4K Smart TV + 23% on Smart WiFi Front Door Keyless Entry + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-30-on-lg-77-b5-oled-4k-smart-tv-23-on-smart-wifi-front-door-keyless-entry-more/",
+      "published": "2025-07-23T14:28:51Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753291722.2904606
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288642.511508
+        "scraped_at": 1753291724.339942
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288645.2803006
+        "scraped_at": 1753291726.4319046
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288647.3917263
+        "scraped_at": 1753291729.3621879
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288649.9375577
+        "scraped_at": 1753291731.5894163
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288652.7274852
+        "scraped_at": 1753291733.744314
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288655.563468
+        "scraped_at": 1753291736.3646274
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288658.635288
+        "scraped_at": 1753291738.6956754
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288661.6295645
+        "scraped_at": 1753291741.2100985
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288663.72791
+        "scraped_at": 1753291743.261033
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288666.377422
+        "scraped_at": 1753291745.6111329
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288668.5821917
+        "scraped_at": 1753291748.3074622
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288671.5735617
+        "scraped_at": 1753291750.3725572
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288674.0353417
+        "scraped_at": 1753291752.6117988
       }
     },
     {
@@ -231,22 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288676.2944028
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 85% on Wireless Earbuds + 30% on LG 77″ B5 OLED 4K Smart TV + 23% on Smart WiFi Front Door Keyless Entry + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-30-on-lg-77-b5-oled-4k-smart-tv-23-on-smart-wifi-front-door-keyless-entry-more/",
-      "published": "2025-07-22T13:18:51Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753288678.71028
+        "scraped_at": 1753291755.133782
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288681.3231163
+        "scraped_at": 1753291757.555707
       }
     },
     {
@@ -276,22 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288683.8346105
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
-      "published": "2025-07-22T01:40:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753288686.0955598
+        "scraped_at": 1753291760.0745635
       }
     },
     {
@@ -306,7 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753288688.2251825
+        "scraped_at": 1753291762.2788103
       }
     }
   ],
