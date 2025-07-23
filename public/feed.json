@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-23T13:43:28.488084Z",
+  "scraped_at": "2025-07-23T14:31:34.275931Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Sport Chek Canada: Up to $70 off Men’s and Women’s Running Shoes + Clearance + More",
+      "link": "https://smartcanucks.ca/sport-chek-canada-up-to-70-off-mens-and-womens-running-shoes-clearance-more/",
+      "published": "2025-07-23T14:25:37Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753281045.644963
+      }
+    },
     {
       "title": "Famous Footwear Canada: Buy One Get One 50% off + up to 50% off Women’s and Kids’ Sandals + More",
       "link": "https://smartcanucks.ca/famous-footwear-canada-buy-one-get-one-50-off-up-to-50-off-womens-and-kids-sandals-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278160.5024185
+        "scraped_at": 1753281048.0128276
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278163.4537861
+        "scraped_at": 1753281050.7183738
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278165.9603782
+        "scraped_at": 1753281052.998714
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278168.831297
+        "scraped_at": 1753281055.1125793
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278171.1995585
+        "scraped_at": 1753281057.2265837
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278173.53501
+        "scraped_at": 1753281059.558712
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278175.9069364
+        "scraped_at": 1753281061.9788783
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278178.024811
+        "scraped_at": 1753281064.6622221
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278180.6175256
+        "scraped_at": 1753281067.5408044
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278183.618122
+        "scraped_at": 1753281070.4317584
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278186.4414582
+        "scraped_at": 1753281073.2099645
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278189.0466452
+        "scraped_at": 1753281075.6218777
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278191.5051422
+        "scraped_at": 1753281078.6154761
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278194.5045028
+        "scraped_at": 1753281081.070865
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278197.236239
+        "scraped_at": 1753281083.6612396
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278199.3116233
+        "scraped_at": 1753281086.2410362
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278202.043014
+        "scraped_at": 1753281089.07048
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278204.3118775
+        "scraped_at": 1753281091.4724083
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753278206.3474863
-      }
-    },
-    {
-      "title": "General Mills Canada Free Snacks Promotion",
-      "link": "https://smartcanucks.ca/general-mills-canada-free-snacks-promotion/",
-      "published": "2025-07-22T00:14:25Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753278208.4879773
+        "scraped_at": 1753281094.275852
       }
     }
   ],
