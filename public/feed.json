@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-23T23:28:50.360937Z",
+  "scraped_at": "2025-07-24T02:25:42.509910Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "No Frills Ontario Flyer Deals July 24th – 30th: Green Zucchini .88/lb + More",
+      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-july-24th-30th-green-zucchini-88-lb-more/",
+      "published": "2025-07-24T00:27:58Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753323894.9348288
+      }
+    },
     {
       "title": "Food Basics Ontario Flyer Deals July 24th – 30th: Combination Pork Chops $1.98/lb + More",
       "link": "https://smartcanucks.ca/food-basics-ontario-flyer-deals-july-24th-30th-combination-pork-chops-1-98-lb-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313283.5851812
+        "scraped_at": 1753323897.577051
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313286.0068326
+        "scraped_at": 1753323899.650691
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313288.9426112
+        "scraped_at": 1753323901.9760828
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313291.6041226
+        "scraped_at": 1753323904.758643
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313293.9248743
+        "scraped_at": 1753323907.4891274
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313296.3164256
+        "scraped_at": 1753323910.3970144
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313299.294192
+        "scraped_at": 1753323912.5872161
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313301.4198804
+        "scraped_at": 1753323914.9484174
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313303.6992443
+        "scraped_at": 1753323917.4387372
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313306.183372
+        "scraped_at": 1753323919.7498634
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313308.5600643
+        "scraped_at": 1753323922.561605
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313311.1785486
+        "scraped_at": 1753323925.5706885
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313313.3189347
+        "scraped_at": 1753323927.8175063
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313315.705296
+        "scraped_at": 1753323929.8441446
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313317.744556
+        "scraped_at": 1753323932.3048391
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313320.1732311
+        "scraped_at": 1753323934.9407904
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313322.9945025
+        "scraped_at": 1753323937.7317793
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313325.3368835
+        "scraped_at": 1753323940.4006236
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753313328.2813575
-      }
-    },
-    {
-      "title": "Tim Hortons Canada New $8.99 Dinner Deals, 5 – 11 PM Daily!",
-      "link": "https://smartcanucks.ca/tim-hortons-canada-new-8-99-dinner-deals-5-11-pm-daily/",
-      "published": "2025-07-22T13:15:43Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753313330.3608131
+        "scraped_at": 1753323942.509787
       }
     }
   ],
