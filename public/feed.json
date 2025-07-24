@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-24T13:00:50.154411Z",
+  "scraped_at": "2025-07-24T13:44:04.783450Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Walmart Canada Offers: Save 64% on GOOLOO Car Jump Starter & Tire Inflator + More",
+      "link": "https://smartcanucks.ca/walmart-canada-offers-save-64-on-gooloo-car-jump-starter-tire-inflator-more/",
+      "published": "2025-07-24T13:30:37Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753364598.1334736
+      }
+    },
+    {
+      "title": "Lululemon Canada Promotions: Summer Scores Sale up to 40% off + We Made Too Much Sales",
+      "link": "https://smartcanucks.ca/lululemon-canada-promotions-summer-scores-sale-up-to-40-off-we-made-too-much-sales/",
+      "published": "2025-07-24T13:15:01Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753364600.2930539
+      }
+    },
+    {
+      "title": "Home Hardware Canada Celebrate Summer Sale: Save up to 60% on Select Patio Furniture + More",
+      "link": "https://smartcanucks.ca/home-hardware-canada-celebrate-summer-sale-save-up-to-60-on-select-patio-furniture-more/",
+      "published": "2025-07-24T13:04:39Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753364602.899547
+      }
+    },
     {
       "title": "Apple Canada Back to School Offers: Education Savings Deal",
       "link": "https://smartcanucks.ca/apple-canada-back-to-school-offers-education-savings-deal/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362002.9013815
+        "scraped_at": 1753364605.0466533
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362005.2870011
+        "scraped_at": 1753364607.6891234
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362007.414143
+        "scraped_at": 1753364610.0360672
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362009.790693
+        "scraped_at": 1753364612.2943025
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362012.2874808
+        "scraped_at": 1753364614.8494267
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362014.6985996
+        "scraped_at": 1753364617.640313
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362016.8196275
+        "scraped_at": 1753364619.8685067
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362019.1774018
+        "scraped_at": 1753364622.1604757
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362021.920697
+        "scraped_at": 1753364624.9115689
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362024.4969382
+        "scraped_at": 1753364627.0160015
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362027.3841448
+        "scraped_at": 1753364629.3609948
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362030.2781644
+        "scraped_at": 1753364632.1150086
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362032.52101
+        "scraped_at": 1753364634.402956
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362034.542875
+        "scraped_at": 1753364637.2040834
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362037.2783234
+        "scraped_at": 1753364639.990881
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362039.7726204
+        "scraped_at": 1753364642.6662173
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753362042.3449814
-      }
-    },
-    {
-      "title": "La Vie En Rose Canada: Summer Sale up To 50% Off + 20% Off Panty Packs + More",
-      "link": "https://smartcanucks.ca/la-vie-en-rose-canada-summer-sale-up-to-50-off-20-off-panty-packs-more/",
-      "published": "2025-07-22T15:15:27Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753362045.3288863
-      }
-    },
-    {
-      "title": "LEGO Canada Offers and Sales",
-      "link": "https://smartcanucks.ca/lego-canada-offers-and-sales/",
-      "published": "2025-07-22T14:49:40Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753362047.8835127
-      }
-    },
-    {
-      "title": "Under Armour Canada Back to School Deals: Save 25% of Select Styles",
-      "link": "https://smartcanucks.ca/under-armour-canada-back-to-school-deals-save-25-of-select-styles/",
-      "published": "2025-07-22T14:08:32Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753362050.1543279
+        "scraped_at": 1753364644.7832954
       }
     }
   ],
