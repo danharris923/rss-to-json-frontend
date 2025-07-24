@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-24T11:26:27.043007Z",
+  "scraped_at": "2025-07-24T13:00:50.154411Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Apple Canada Back to School Offers: Education Savings Deal",
+      "link": "https://smartcanucks.ca/apple-canada-back-to-school-offers-education-savings-deal/",
+      "published": "2025-07-24T12:34:44Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753362002.9013815
+      }
+    },
+    {
+      "title": "Reitmans Canada: up to 70% off Sale Styles + an Extra 25% off",
+      "link": "https://smartcanucks.ca/reitmans-canada-up-to-70-off-sale-styles-an-extra-25-off/",
+      "published": "2025-07-24T12:06:56Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753362005.2870011
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 47% on Mini Portable Projecteur Using Coupon + 40% on Artificial Tree, 5ft + More",
       "link": "https://smartcanucks.ca/520961-2/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356338.9823756
+        "scraped_at": 1753362007.414143
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356341.1706614
+        "scraped_at": 1753362009.790693
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356344.1804128
+        "scraped_at": 1753362012.2874808
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356346.3143833
+        "scraped_at": 1753362014.6985996
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356349.232628
+        "scraped_at": 1753362016.8196275
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356351.5628743
+        "scraped_at": 1753362019.1774018
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356353.9362826
+        "scraped_at": 1753362021.920697
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356356.9143262
+        "scraped_at": 1753362024.4969382
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356359.5531347
+        "scraped_at": 1753362027.3841448
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356361.9973018
+        "scraped_at": 1753362030.2781644
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356364.3637347
+        "scraped_at": 1753362032.52101
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356367.2409916
+        "scraped_at": 1753362034.542875
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356369.6070044
+        "scraped_at": 1753362037.2783234
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356371.9413798
+        "scraped_at": 1753362039.7726204
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356374.1774209
+        "scraped_at": 1753362042.3449814
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356376.4565115
+        "scraped_at": 1753362045.3288863
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356379.4072912
+        "scraped_at": 1753362047.8835127
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753356381.720026
-      }
-    },
-    {
-      "title": "Kitchen Stuff Plus Canada Red Hot Deals: Save 66% on 3 Pc Patio Set + More Offers",
-      "link": "https://smartcanucks.ca/kitchen-stuff-plus-canada-red-hot-deals-save-66-on-3-pc-patio-set-more-offers/",
-      "published": "2025-07-22T13:45:41Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753356384.3280008
-      }
-    },
-    {
-      "title": "Well.ca Canada Top Deals Of The Week: Save up to 40% Baby & Kids Apparel & Accessories Hot Summer Deals + More Deals",
-      "link": "https://smartcanucks.ca/well-ca-canada-top-deals-of-the-week-save-up-to-40-baby-kids-apparel-accessories-hot-summer-deals-more-deals/",
-      "published": "2025-07-22T13:30:40Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753356387.0428638
+        "scraped_at": 1753362050.1543279
       }
     }
   ],
