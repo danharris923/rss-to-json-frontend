@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-24T02:25:42.509910Z",
+  "scraped_at": "2025-07-24T04:04:37.279686Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 47% on Mini Portable Projecteur Using Coupon + 40% on Artificial Tree, 5ft + More",
+      "link": "https://smartcanucks.ca/520961-2/",
+      "published": "2025-07-24T02:42:16Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753329826.023057
+      }
+    },
     {
       "title": "No Frills Ontario Flyer Deals July 24th – 30th: Green Zucchini .88/lb + More",
       "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-july-24th-30th-green-zucchini-88-lb-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323894.9348288
+        "scraped_at": 1753329828.5602746
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323897.577051
+        "scraped_at": 1753329831.4166734
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323899.650691
+        "scraped_at": 1753329834.4028785
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323901.9760828
+        "scraped_at": 1753329836.992325
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323904.758643
+        "scraped_at": 1753329839.822675
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323907.4891274
+        "scraped_at": 1753329842.8008094
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323910.3970144
+        "scraped_at": 1753329845.3282382
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323912.5872161
+        "scraped_at": 1753329848.030187
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323914.9484174
+        "scraped_at": 1753329850.8417423
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323917.4387372
+        "scraped_at": 1753329853.7310407
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323919.7498634
+        "scraped_at": 1753329856.1418126
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323922.561605
+        "scraped_at": 1753329858.6712654
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323925.5706885
+        "scraped_at": 1753329861.205053
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323927.8175063
+        "scraped_at": 1753329863.9748888
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323929.8441446
+        "scraped_at": 1753329866.831936
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323932.3048391
+        "scraped_at": 1753329869.565894
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323934.9407904
+        "scraped_at": 1753329871.752969
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323937.7317793
+        "scraped_at": 1753329874.6236234
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753323940.4006236
-      }
-    },
-    {
-      "title": "Nintendo Canada Sales & Deals: Save up to 90% on Select Games",
-      "link": "https://smartcanucks.ca/nintendo-canada-sales-deals-save-up-to-90-on-select-games/",
-      "published": "2025-07-22T13:28:43Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753323942.509787
+        "scraped_at": 1753329877.2795768
       }
     }
   ],
