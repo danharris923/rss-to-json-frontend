@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-24T14:31:19.258629Z",
+  "scraped_at": "2025-07-24T15:29:56.709320Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Just Golf Stuff Canada: Adidas Golf Shorts 2/$90 + Clearance",
+      "link": "https://smartcanucks.ca/just-golf-stuff-canada-adidas-golf-shorts-2-90-clearance/",
+      "published": "2025-07-24T15:09:00Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753370948.259722
+      }
+    },
     {
       "title": "PRFO Sports Canada: Summer Sale up to 50% off",
       "link": "https://smartcanucks.ca/prfo-sports-canada-summer-sale-up-to-50-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367432.892899
+        "scraped_at": 1753370951.2392988
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367435.2606518
+        "scraped_at": 1753370953.4245083
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367437.8991275
+        "scraped_at": 1753370956.4380388
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367440.103694
+        "scraped_at": 1753370958.6187272
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367442.4916403
+        "scraped_at": 1753370961.41712
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367445.13261
+        "scraped_at": 1753370963.474943
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367447.2317238
+        "scraped_at": 1753370965.6284802
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367449.764548
+        "scraped_at": 1753370967.6972444
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367452.2984412
+        "scraped_at": 1753370970.0888443
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367454.9213648
+        "scraped_at": 1753370972.3130543
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367457.356925
+        "scraped_at": 1753370975.1185474
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367459.5134192
+        "scraped_at": 1753370977.4510357
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367461.5680647
+        "scraped_at": 1753370980.2455025
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367463.9045212
+        "scraped_at": 1753370983.169302
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367466.9132977
+        "scraped_at": 1753370985.8318782
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367469.065619
+        "scraped_at": 1753370988.702675
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367471.2659225
+        "scraped_at": 1753370990.9608505
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367474.1827836
+        "scraped_at": 1753370993.6928744
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753367476.673678
-      }
-    },
-    {
-      "title": "Air Miles Canada Shop The Block: Earn up to 550 Bonus Air Miles July 25th – August 8th",
-      "link": "https://smartcanucks.ca/air-miles-canada-shop-the-block-earn-up-to-550-bonus-air-miles-july-25th-august-8th/",
-      "published": "2025-07-22T23:40:23Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753367479.2584865
+        "scraped_at": 1753370996.709191
       }
     }
   ],
