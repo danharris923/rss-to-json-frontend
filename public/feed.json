@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-24T13:44:04.783450Z",
+  "scraped_at": "2025-07-24T14:31:19.258629Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "PRFO Sports Canada: Summer Sale up to 50% off",
+      "link": "https://smartcanucks.ca/prfo-sports-canada-summer-sale-up-to-50-off/",
+      "published": "2025-07-24T14:27:22Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753367432.892899
+      }
+    },
     {
       "title": "Walmart Canada Offers: Save 64% on GOOLOO Car Jump Starter & Tire Inflator + More",
       "link": "https://smartcanucks.ca/walmart-canada-offers-save-64-on-gooloo-car-jump-starter-tire-inflator-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364598.1334736
+        "scraped_at": 1753367435.2606518
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364600.2930539
+        "scraped_at": 1753367437.8991275
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364602.899547
+        "scraped_at": 1753367440.103694
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364605.0466533
+        "scraped_at": 1753367442.4916403
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364607.6891234
+        "scraped_at": 1753367445.13261
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364610.0360672
+        "scraped_at": 1753367447.2317238
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364612.2943025
+        "scraped_at": 1753367449.764548
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364614.8494267
+        "scraped_at": 1753367452.2984412
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364617.640313
+        "scraped_at": 1753367454.9213648
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364619.8685067
+        "scraped_at": 1753367457.356925
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364622.1604757
+        "scraped_at": 1753367459.5134192
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364624.9115689
+        "scraped_at": 1753367461.5680647
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364627.0160015
+        "scraped_at": 1753367463.9045212
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364629.3609948
+        "scraped_at": 1753367466.9132977
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364632.1150086
+        "scraped_at": 1753367469.065619
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364634.402956
+        "scraped_at": 1753367471.2659225
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364637.2040834
+        "scraped_at": 1753367474.1827836
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364639.990881
+        "scraped_at": 1753367476.673678
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753364642.6662173
-      }
-    },
-    {
-      "title": "Giant Tiger Canada Flyer Deals July 23rd – 29th",
-      "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-july-23rd-29th/",
-      "published": "2025-07-22T23:08:19Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753364644.7832954
+        "scraped_at": 1753367479.2584865
       }
     }
   ],
