@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-25T14:28:58.382303Z",
+  "scraped_at": "2025-07-25T15:31:49.014539Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Rona Canada Clearance Sale + Flyer: Save up to 40% off Patio Furniture + More",
+      "link": "https://smartcanucks.ca/rona-canada-clearance-sale-flyer-save-up-to-40-off-patio-furniture-more/",
+      "published": "2025-07-25T15:26:39Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753457460.9548306
+      }
+    },
+    {
+      "title": "Kate Spade & Kate Spade Outlet: Clearance up to 70% off + Extra 20% off When You Buy 2 or More Styles",
+      "link": "https://smartcanucks.ca/kate-spade-kate-spade-outlet-clearance-up-to-70-off-extra-20-off-when-you-buy-2-or-more-styles/",
+      "published": "2025-07-25T14:54:26Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753457463.6077328
+      }
+    },
     {
       "title": "Best Buy Canada: Back to School Deals  + Outlet Event Sale",
       "link": "https://smartcanucks.ca/best-buy-canada-back-to-school-deals-outlet-event-sale/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453690.4054925
+        "scraped_at": 1753457466.1334903
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453692.6153486
+        "scraped_at": 1753457468.5395868
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453695.0225732
+        "scraped_at": 1753457470.9999468
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453697.3912697
+        "scraped_at": 1753457473.1388297
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453699.7436905
+        "scraped_at": 1753457475.8495378
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453702.5758917
+        "scraped_at": 1753457478.341085
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453704.9464617
+        "scraped_at": 1753457480.4020176
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453707.7662275
+        "scraped_at": 1753457483.3063064
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453710.325507
+        "scraped_at": 1753457485.3321958
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453712.714557
+        "scraped_at": 1753457488.1300566
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453715.6476948
+        "scraped_at": 1753457491.0363038
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453718.3912883
+        "scraped_at": 1753457493.1168287
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453720.609108
+        "scraped_at": 1753457496.105806
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453723.3043442
+        "scraped_at": 1753457498.4018104
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453725.5431106
+        "scraped_at": 1753457501.3020813
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453728.2909226
+        "scraped_at": 1753457503.356265
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453730.7346318
+        "scraped_at": 1753457506.0016813
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753453733.0648909
-      }
-    },
-    {
-      "title": "Sport Chek Canada: Up to $70 off Men’s and Women’s Running Shoes + Clearance + More",
-      "link": "https://smartcanucks.ca/sport-chek-canada-up-to-70-off-mens-and-womens-running-shoes-clearance-more/",
-      "published": "2025-07-23T14:25:37Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753453735.4019446
-      }
-    },
-    {
-      "title": "Famous Footwear Canada: Buy One Get One 50% off + up to 50% off Women’s and Kids’ Sandals + More",
-      "link": "https://smartcanucks.ca/famous-footwear-canada-buy-one-get-one-50-off-up-to-50-off-womens-and-kids-sandals-more/",
-      "published": "2025-07-23T13:30:39Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753453738.3821816
+        "scraped_at": 1753457509.0144246
       }
     }
   ],
