@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-25T13:41:55.113851Z",
+  "scraped_at": "2025-07-25T14:28:58.382303Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Best Buy Canada: Back to School Deals  + Outlet Event Sale",
+      "link": "https://smartcanucks.ca/best-buy-canada-back-to-school-deals-outlet-event-sale/",
+      "published": "2025-07-25T14:14:52Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753453690.4054925
+      }
+    },
+    {
+      "title": "Mac Cosmetics Canada National Lipstick Day : 30% off Lip Products + Free Clutch When You Spend $125 or More",
+      "link": "https://smartcanucks.ca/mac-cosmetics-canada-national-lipstick-day-30-off-lip-products-free-clutch-when-you-spend-125-or-more/",
+      "published": "2025-07-25T13:43:57Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753453692.6153486
+      }
+    },
     {
       "title": "Staples Canada: Save $10 When You Spend $75 This Weekend With Promo Code + More",
       "link": "https://smartcanucks.ca/staples-canada-save-10-when-you-spend-75-this-weekend-with-promo-code-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450867.0985034
+        "scraped_at": 1753453695.0225732
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450869.3019092
+        "scraped_at": 1753453697.3912697
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450871.8814435
+        "scraped_at": 1753453699.7436905
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450874.1275377
+        "scraped_at": 1753453702.5758917
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450876.6866045
+        "scraped_at": 1753453704.9464617
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450878.7320447
+        "scraped_at": 1753453707.7662275
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450881.0382693
+        "scraped_at": 1753453710.325507
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450883.983369
+        "scraped_at": 1753453712.714557
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450886.965389
+        "scraped_at": 1753453715.6476948
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450889.664285
+        "scraped_at": 1753453718.3912883
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450892.5563674
+        "scraped_at": 1753453720.609108
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450895.4637916
+        "scraped_at": 1753453723.3043442
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450897.6209834
+        "scraped_at": 1753453725.5431106
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450900.1195602
+        "scraped_at": 1753453728.2909226
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450902.8709629
+        "scraped_at": 1753453730.7346318
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450905.0908084
+        "scraped_at": 1753453733.0648909
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450907.643192
+        "scraped_at": 1753453735.4019446
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753450909.9871643
-      }
-    },
-    {
-      "title": "Clearly Canada: up to 60% off Frames + 50% off Lenses + 20% off all Contacts",
-      "link": "https://smartcanucks.ca/clearly-canada-up-to-60-off-frames-50-off-lenses-20-off-all-contacts/",
-      "published": "2025-07-23T13:00:36Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753450912.7275243
-      }
-    },
-    {
-      "title": "Keurig Canada: Save up to $28 on K-Cups with Promo Code + More",
-      "link": "https://smartcanucks.ca/keurig-canada-save-up-to-28-on-k-cups-with-promo-code-more/",
-      "published": "2025-07-23T12:34:28Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753450915.1137574
+        "scraped_at": 1753453738.3821816
       }
     }
   ],
