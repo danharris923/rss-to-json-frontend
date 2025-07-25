@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-25T11:25:45.769997Z",
+  "scraped_at": "2025-07-25T12:59:41.410635Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Staples Canada: Save $10 When You Spend $75 This Weekend With Promo Code + More",
+      "link": "https://smartcanucks.ca/staples-canada-save-10-when-you-spend-75-this-weekend-with-promo-code-more/",
+      "published": "2025-07-25T12:49:26Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753448333.7342048
+      }
+    },
+    {
+      "title": "Canadian Tire: Dollar Rush Event Sale",
+      "link": "https://smartcanucks.ca/canadian-tire-dollar-rush-event-sale/",
+      "published": "2025-07-25T12:17:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753448336.2626128
+      }
+    },
     {
       "title": "Just Golf Stuff Canada: Adidas Golf Shorts 2/$90 + Clearance",
       "link": "https://smartcanucks.ca/just-golf-stuff-canada-adidas-golf-shorts-2-90-clearance/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442698.0319707
+        "scraped_at": 1753448338.866542
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442700.7473967
+        "scraped_at": 1753448341.6279643
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442703.272769
+        "scraped_at": 1753448344.0182254
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442705.678365
+        "scraped_at": 1753448346.2875037
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442708.4290407
+        "scraped_at": 1753448348.5202065
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442711.4533162
+        "scraped_at": 1753448351.3507586
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442713.907275
+        "scraped_at": 1753448353.548518
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442716.1616476
+        "scraped_at": 1753448356.1686392
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442718.6132395
+        "scraped_at": 1753448358.5648859
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442720.9845476
+        "scraped_at": 1753448361.3476644
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442724.0002353
+        "scraped_at": 1753448363.8934646
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442726.730373
+        "scraped_at": 1753448366.2612073
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442728.7864256
+        "scraped_at": 1753448369.1036549
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442731.1905904
+        "scraped_at": 1753448371.518969
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442733.6600819
+        "scraped_at": 1753448373.6786501
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442736.302304
+        "scraped_at": 1753448376.3771143
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442738.3610501
+        "scraped_at": 1753448379.2917485
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753442740.786152
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 70% on Active Noise Cancelling Headphones + 85% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-70-on-active-noise-cancelling-headphones-85-on-wireless-earbuds-more/",
-      "published": "2025-07-23T04:19:00Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753442743.0633295
-      }
-    },
-    {
-      "title": "WebSaver Canada Coupons: Save $1.50 on Dove Body Wash 547ml",
-      "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-50-on-dove-body-wash-547ml/",
-      "published": "2025-07-23T00:49:27Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753442745.769881
+        "scraped_at": 1753448381.4105425
       }
     }
   ],
