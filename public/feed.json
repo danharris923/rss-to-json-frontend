@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-26T15:29:04.546479Z",
+  "scraped_at": "2025-07-26T16:33:54.502441Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 82% on Adjustable Weight Bench + 80% on Portable Wireless Speaker + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-82-on-adjustable-weight-bench-80-on-portable-wireless-speaker-more/",
+      "published": "2025-07-26T15:36:06Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753547587.095961
+      }
+    },
     {
       "title": "Bogs Footwear Canada: Extra 20% off Sale Styles with Promo Code",
       "link": "https://smartcanucks.ca/bogs-footwear-canada-extra-20-off-sale-styles-with-promo-code/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543694.9100223
+        "scraped_at": 1753547589.3042092
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543697.3810434
+        "scraped_at": 1753547591.7246695
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543699.8387308
+        "scraped_at": 1753547593.7916965
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543702.5712347
+        "scraped_at": 1753547595.8923442
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543705.4860077
+        "scraped_at": 1753547598.7999873
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543708.0128682
+        "scraped_at": 1753547601.1845217
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543710.7780137
+        "scraped_at": 1753547603.4897187
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543713.240803
+        "scraped_at": 1753547605.5838294
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543715.375649
+        "scraped_at": 1753547607.7479134
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543718.0968118
+        "scraped_at": 1753547610.7628431
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543720.8244772
+        "scraped_at": 1753547613.4307766
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543723.3365493
+        "scraped_at": 1753547616.2855282
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543726.089862
+        "scraped_at": 1753547619.1137414
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543729.0621383
+        "scraped_at": 1753547621.8784554
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543731.8240533
+        "scraped_at": 1753547624.5260317
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543733.8707793
+        "scraped_at": 1753547627.225736
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543736.746892
+        "scraped_at": 1753547629.288803
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543739.2869046
+        "scraped_at": 1753547631.4893124
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753543742.118432
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 47% on Mini Portable Projecteur Using Coupon + 40% on Artificial Tree, 5ft + More",
-      "link": "https://smartcanucks.ca/520961-2/",
-      "published": "2025-07-24T02:42:16Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753543744.5463805
+        "scraped_at": 1753547634.5023146
       }
     }
   ],
