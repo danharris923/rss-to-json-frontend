@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-26T14:27:04.699801Z",
+  "scraped_at": "2025-07-26T15:29:04.546479Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -21,7 +21,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539975.8890035
+        "scraped_at": 1753543694.9100223
       }
     },
     {
@@ -36,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539978.6247027
+        "scraped_at": 1753543697.3810434
       }
     },
     {
@@ -51,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539980.847878
+        "scraped_at": 1753543699.8387308
       }
     },
     {
@@ -66,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539983.4951105
+        "scraped_at": 1753543702.5712347
       }
     },
     {
@@ -81,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539985.8363323
+        "scraped_at": 1753543705.4860077
       }
     },
     {
@@ -96,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539987.9544833
+        "scraped_at": 1753543708.0128682
       }
     },
     {
@@ -111,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539990.2965887
+        "scraped_at": 1753543710.7780137
       }
     },
     {
@@ -126,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539993.1817667
+        "scraped_at": 1753543713.240803
       }
     },
     {
@@ -141,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539996.0760016
+        "scraped_at": 1753543715.375649
       }
     },
     {
@@ -156,7 +156,22 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753539998.432197
+        "scraped_at": 1753543718.0968118
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
+      "published": "2025-07-25T12:40:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753543720.8244772
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540000.6989415
+        "scraped_at": 1753543723.3365493
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540003.4240735
+        "scraped_at": 1753543726.089862
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540005.8745422
+        "scraped_at": 1753543729.0621383
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540008.8865733
+        "scraped_at": 1753543731.8240533
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540011.8612733
+        "scraped_at": 1753543733.8707793
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540014.4411995
+        "scraped_at": 1753543736.746892
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540016.8684795
+        "scraped_at": 1753543739.2869046
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540019.2619555
+        "scraped_at": 1753543742.118432
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753540022.2152216
-      }
-    },
-    {
-      "title": "No Frills Ontario Flyer Deals July 24th – 30th: Green Zucchini .88/lb + More",
-      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-july-24th-30th-green-zucchini-88-lb-more/",
-      "published": "2025-07-24T00:27:58Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753540024.6996706
+        "scraped_at": 1753543744.5463805
       }
     }
   ],
