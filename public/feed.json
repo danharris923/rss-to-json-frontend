@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-25T23:28:15.883382Z",
+  "scraped_at": "2025-07-26T02:21:14.656188Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Popeyes Canada Offers: Buy One Get One Free Pickle Glazed Sandwich + More",
+      "link": "https://smartcanucks.ca/popeyes-canada-offers-buy-one-get-one-free-pickle-glazed-sandwich-more/",
+      "published": "2025-07-26T00:26:58Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753496427.3209922
+      }
+    },
     {
       "title": "Rona Canada Clearance Sale + Flyer: Save up to 40% off Patio Furniture + More",
       "link": "https://smartcanucks.ca/rona-canada-clearance-sale-flyer-save-up-to-40-off-patio-furniture-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486047.6192122
+        "scraped_at": 1753496429.7182798
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486049.7281432
+        "scraped_at": 1753496431.995237
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486052.3791978
+        "scraped_at": 1753496434.3164692
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486054.612643
+        "scraped_at": 1753496436.706021
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486056.7871227
+        "scraped_at": 1753496439.5411298
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486059.3803694
+        "scraped_at": 1753496441.6270375
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486062.1958628
+        "scraped_at": 1753496444.052815
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486064.9217286
+        "scraped_at": 1753496446.4865837
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486067.8107657
+        "scraped_at": 1753496449.0336475
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486070.600117
+        "scraped_at": 1753496451.7233768
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486073.5684564
+        "scraped_at": 1753496454.6464243
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486075.8682952
+        "scraped_at": 1753496456.9491448
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486078.4637651
+        "scraped_at": 1753496459.4852855
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486080.7570035
+        "scraped_at": 1753496462.1505108
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486083.12969
+        "scraped_at": 1753496464.8979013
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486085.9553313
+        "scraped_at": 1753496467.149224
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486088.1854303
+        "scraped_at": 1753496469.3764484
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486090.6560924
+        "scraped_at": 1753496471.97921
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753486092.9196057
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 85% on Wireless Earbuds + 30% on LG 77″ B5 OLED 4K Smart TV + 23% on Smart WiFi Front Door Keyless Entry + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-30-on-lg-77-b5-oled-4k-smart-tv-23-on-smart-wifi-front-door-keyless-entry-more/",
-      "published": "2025-07-23T14:28:51Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753486095.8832674
+        "scraped_at": 1753496474.656086
       }
     }
   ],
