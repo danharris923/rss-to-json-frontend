@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-26T11:24:04.785404Z",
+  "scraped_at": "2025-07-26T12:55:17.621859Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings Util July 30th",
+      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-util-july-30th/",
+      "published": "2025-07-26T12:11:29Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753534470.933945
+      }
+    },
     {
       "title": "Popeyes Canada Offers: Buy One Get One Free Pickle Glazed Sandwich + More",
       "link": "https://smartcanucks.ca/popeyes-canada-offers-buy-one-get-one-free-pickle-glazed-sandwich-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753528998.6055503
+        "scraped_at": 1753534473.8380475
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529001.205738
+        "scraped_at": 1753534476.1649125
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529003.980653
+        "scraped_at": 1753534478.607805
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529006.5132349
+        "scraped_at": 1753534481.2520328
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529008.9545429
+        "scraped_at": 1753534483.580738
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529010.9847064
+        "scraped_at": 1753534486.0035703
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529013.6313653
+        "scraped_at": 1753534488.662702
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529016.1749072
+        "scraped_at": 1753534490.770414
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529018.457825
+        "scraped_at": 1753534492.9404962
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529020.533036
+        "scraped_at": 1753534495.899821
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529022.7637103
+        "scraped_at": 1753534498.2355013
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529025.7640445
+        "scraped_at": 1753534500.4364316
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529028.232594
+        "scraped_at": 1753534502.5665457
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529030.261931
+        "scraped_at": 1753534504.7469647
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529032.4259744
+        "scraped_at": 1753534507.4641736
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529034.4571183
+        "scraped_at": 1753534509.5153308
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529037.401386
+        "scraped_at": 1753534512.1210077
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529040.4094994
+        "scraped_at": 1753534514.956501
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753529042.5480943
-      }
-    },
-    {
-      "title": "Foot Locker Canada: up to 40% off Nike and Jordan",
-      "link": "https://smartcanucks.ca/foot-locker-canada-up-to-40-off-nike-and-jordan/",
-      "published": "2025-07-23T14:39:14Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753529044.7853246
+        "scraped_at": 1753534517.6217449
       }
     }
   ],
