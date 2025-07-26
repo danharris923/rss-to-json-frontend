@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-26T13:38:43.754605Z",
+  "scraped_at": "2025-07-26T14:27:04.699801Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Bogs Footwear Canada: Extra 20% off Sale Styles with Promo Code",
+      "link": "https://smartcanucks.ca/bogs-footwear-canada-extra-20-off-sale-styles-with-promo-code/",
+      "published": "2025-07-26T13:45:55Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753539975.8890035
+      }
+    },
     {
       "title": "Kitchen Stuff Plus Canada: Back to School Sale up to 60% off",
       "link": "https://smartcanucks.ca/kitchen-stuff-plus-canada-back-to-school-sale-up-to-60-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537076.545001
+        "scraped_at": 1753539978.6247027
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537078.6837587
+        "scraped_at": 1753539980.847878
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537080.9459808
+        "scraped_at": 1753539983.4951105
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537083.7368526
+        "scraped_at": 1753539985.8363323
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537086.5578601
+        "scraped_at": 1753539987.9544833
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537088.8589368
+        "scraped_at": 1753539990.2965887
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537090.908597
+        "scraped_at": 1753539993.1817667
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537093.2503843
+        "scraped_at": 1753539996.0760016
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537095.6189117
+        "scraped_at": 1753539998.432197
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537098.2793128
+        "scraped_at": 1753540000.6989415
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537101.2493708
+        "scraped_at": 1753540003.4240735
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537104.0114105
+        "scraped_at": 1753540005.8745422
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537106.563825
+        "scraped_at": 1753540008.8865733
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537108.969756
+        "scraped_at": 1753540011.8612733
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537111.637235
+        "scraped_at": 1753540014.4411995
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537114.6035812
+        "scraped_at": 1753540016.8684795
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537116.9211562
+        "scraped_at": 1753540019.2619555
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537119.2192562
+        "scraped_at": 1753540022.2152216
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753537121.472665
-      }
-    },
-    {
-      "title": "Food Basics Ontario Flyer Deals July 24th – 30th: Combination Pork Chops $1.98/lb + More",
-      "link": "https://smartcanucks.ca/food-basics-ontario-flyer-deals-july-24th-30th-combination-pork-chops-1-98-lb-more/",
-      "published": "2025-07-23T22:58:39Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753537123.754524
+        "scraped_at": 1753540024.6996706
       }
     }
   ],
