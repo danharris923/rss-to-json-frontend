@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-26T22:27:56.209077Z",
+  "scraped_at": "2025-07-26T23:27:30.548254Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Freshco Ontario: Green Bell Peppers .99/lb + More",
+      "link": "https://smartcanucks.ca/freshco-ontario-green-bell-peppers-99-lb-more/",
+      "published": "2025-07-26T23:14:44Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753572401.7637722
+      }
+    },
     {
       "title": "Real Canadian Superstore Ontario: National Lipstick Day up 50% off July 29th + Flyer Deals",
       "link": "https://smartcanucks.ca/real-canadian-superstore-ontario-national-lipstick-day-up-50-off-july-29th-flyer-deals/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568827.9661994
+        "scraped_at": 1753572404.2805119
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568830.0330527
+        "scraped_at": 1753572406.6647239
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568832.3880699
+        "scraped_at": 1753572409.609882
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568835.2778468
+        "scraped_at": 1753572412.0161707
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568837.901172
+        "scraped_at": 1753572414.3293028
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568840.4359488
+        "scraped_at": 1753572416.4568565
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568842.9393227
+        "scraped_at": 1753572418.9865582
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568845.156582
+        "scraped_at": 1753572421.4623854
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568847.8066227
+        "scraped_at": 1753572423.6107435
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568850.0460153
+        "scraped_at": 1753572425.9371357
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568852.8551319
+        "scraped_at": 1753572427.9901822
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568855.539685
+        "scraped_at": 1753572431.0276628
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568858.1297545
+        "scraped_at": 1753572433.7938366
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568860.9420204
+        "scraped_at": 1753572436.7361891
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568863.286304
+        "scraped_at": 1753572439.5809278
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568866.0317128
+        "scraped_at": 1753572442.5335193
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568868.5153844
+        "scraped_at": 1753572444.9523134
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568871.154463
+        "scraped_at": 1753572447.6164396
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753568874.0767798
-      }
-    },
-    {
-      "title": "Home Hardware Canada Celebrate Summer Sale: Save up to 60% on Select Patio Furniture + More",
-      "link": "https://smartcanucks.ca/home-hardware-canada-celebrate-summer-sale-save-up-to-60-on-select-patio-furniture-more/",
-      "published": "2025-07-24T13:04:39Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753568876.2089827
+        "scraped_at": 1753572450.5481465
       }
     }
   ],
