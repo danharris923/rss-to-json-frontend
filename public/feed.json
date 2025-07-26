@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-26T20:30:04.020848Z",
+  "scraped_at": "2025-07-26T21:26:32.170732Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Real Canadian Superstore Ontario: National Lipstick Day up 50% off July 29th + Flyer Deals",
+      "link": "https://smartcanucks.ca/real-canadian-superstore-ontario-national-lipstick-day-up-50-off-july-29th-flyer-deals/",
+      "published": "2025-07-26T21:12:51Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753565143.2387269
+      }
+    },
+    {
+      "title": "Shoppers Drug Mart Canada: Get 20x The PC Optimum or 25x The Points When You Pay With a PC Financial Card + More",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-get-20x-the-pc-optimum-or-25x-the-points-when-you-pay-with-a-pc-financial-card-more/",
+      "published": "2025-07-26T21:02:39Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753565145.6316745
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 82% on Adjustable Weight Bench + 80% on Portable Wireless Speaker + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-82-on-adjustable-weight-bench-80-on-portable-wireless-speaker-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561757.0134022
+        "scraped_at": 1753565148.3707528
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561759.7277317
+        "scraped_at": 1753565151.3569176
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561762.222301
+        "scraped_at": 1753565153.4478612
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561765.2127194
+        "scraped_at": 1753565155.4895122
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561767.2550497
+        "scraped_at": 1753565158.4020646
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561769.4385884
+        "scraped_at": 1753565161.116414
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561772.2916045
+        "scraped_at": 1753565163.8663993
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561775.1258
+        "scraped_at": 1753565166.4350758
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561777.299106
+        "scraped_at": 1753565169.0693538
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561779.4529865
+        "scraped_at": 1753565171.4862132
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561782.4163015
+        "scraped_at": 1753565173.615214
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561784.5844295
+        "scraped_at": 1753565176.5405467
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561787.259279
+        "scraped_at": 1753565179.109331
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561789.289434
+        "scraped_at": 1753565181.1905682
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561791.9846582
+        "scraped_at": 1753565183.8469894
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561794.49868
+        "scraped_at": 1753565186.3556166
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561796.6859236
+        "scraped_at": 1753565189.2036083
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753561798.7999606
-      }
-    },
-    {
-      "title": "Apple Canada Back to School Offers: Education Savings Deal",
-      "link": "https://smartcanucks.ca/apple-canada-back-to-school-offers-education-savings-deal/",
-      "published": "2025-07-24T12:34:44Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753561801.8065195
-      }
-    },
-    {
-      "title": "Reitmans Canada: up to 70% off Sale Styles + an Extra 25% off",
-      "link": "https://smartcanucks.ca/reitmans-canada-up-to-70-off-sale-styles-an-extra-25-off/",
-      "published": "2025-07-24T12:06:56Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753561804.0207238
+        "scraped_at": 1753565192.1706307
       }
     }
   ],
