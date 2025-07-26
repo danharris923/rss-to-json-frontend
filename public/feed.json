@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-26T12:55:17.621859Z",
+  "scraped_at": "2025-07-26T13:38:43.754605Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Kitchen Stuff Plus Canada: Back to School Sale up to 60% off",
+      "link": "https://smartcanucks.ca/kitchen-stuff-plus-canada-back-to-school-sale-up-to-60-off/",
+      "published": "2025-07-26T13:30:49Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753537076.545001
+      }
+    },
+    {
+      "title": "Aldo Canada: Save an Extra 30% on Sale Styles",
+      "link": "https://smartcanucks.ca/aldo-canada-save-an-extra-30-on-sale-styles/",
+      "published": "2025-07-26T13:15:15Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753537078.6837587
+      }
+    },
     {
       "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings Util July 30th",
       "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-util-july-30th/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534470.933945
+        "scraped_at": 1753537080.9459808
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534473.8380475
+        "scraped_at": 1753537083.7368526
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534476.1649125
+        "scraped_at": 1753537086.5578601
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534478.607805
+        "scraped_at": 1753537088.8589368
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534481.2520328
+        "scraped_at": 1753537090.908597
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534483.580738
+        "scraped_at": 1753537093.2503843
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534486.0035703
+        "scraped_at": 1753537095.6189117
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534488.662702
+        "scraped_at": 1753537098.2793128
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534490.770414
+        "scraped_at": 1753537101.2493708
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534492.9404962
+        "scraped_at": 1753537104.0114105
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534495.899821
+        "scraped_at": 1753537106.563825
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534498.2355013
+        "scraped_at": 1753537108.969756
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534500.4364316
+        "scraped_at": 1753537111.637235
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534502.5665457
+        "scraped_at": 1753537114.6035812
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534504.7469647
+        "scraped_at": 1753537116.9211562
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534507.4641736
+        "scraped_at": 1753537119.2192562
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534509.5153308
+        "scraped_at": 1753537121.472665
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753534512.1210077
-      }
-    },
-    {
-      "title": "Walmart Canada Flyer Deals July 24th – 30th: Kraft BBQ Sauce 97 Cents + More",
-      "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-july-24th-30th-kraft-bbq-sauce-97-cents-more/",
-      "published": "2025-07-23T22:41:42Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753534514.956501
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
-      "published": "2025-07-23T15:40:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753534517.6217449
+        "scraped_at": 1753537123.754524
       }
     }
   ],
