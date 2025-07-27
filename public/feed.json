@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-27T12:56:27.096760Z",
+  "scraped_at": "2025-07-27T13:37:19.708408Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "SAIL Canada Summer Deals: up to 40% off Select Items",
+      "link": "https://smartcanucks.ca/sail-canada-summer-deals-up-to-40-off-select-items/",
+      "published": "2025-07-27T13:30:40Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753623391.2367592
+      }
+    },
+    {
+      "title": "Swarovski Canada: Get up to an Extra 20% off Sale",
+      "link": "https://smartcanucks.ca/swarovski-canada-get-up-to-an-extra-20-off-sale/",
+      "published": "2025-07-27T13:15:25Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753623394.0933764
+      }
+    },
     {
       "title": "Freshco Ontario: Green Bell Peppers .99/lb + More",
       "link": "https://smartcanucks.ca/freshco-ontario-green-bell-peppers-99-lb-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620940.5971854
+        "scraped_at": 1753623396.4645553
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620943.0948226
+        "scraped_at": 1753623398.6602757
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620945.2668862
+        "scraped_at": 1753623401.2505972
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620947.3997111
+        "scraped_at": 1753623403.328059
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620949.579909
+        "scraped_at": 1753623405.8454642
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620951.860963
+        "scraped_at": 1753623408.5460014
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620954.5235443
+        "scraped_at": 1753623410.8846235
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620957.3265817
+        "scraped_at": 1753623413.8342338
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620959.900981
+        "scraped_at": 1753623415.8698068
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620962.487698
+        "scraped_at": 1753623418.4825888
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620965.3156147
+        "scraped_at": 1753623421.3566308
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620967.7379818
+        "scraped_at": 1753623424.1578255
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620969.9127758
+        "scraped_at": 1753623426.977431
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620972.6385708
+        "scraped_at": 1753623429.240618
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620974.8549888
+        "scraped_at": 1753623432.201551
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620977.6873815
+        "scraped_at": 1753623435.2059517
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620980.364251
+        "scraped_at": 1753623437.2863293
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753620982.3828945
-      }
-    },
-    {
-      "title": "Walmart Canada Offers: Save 64% on GOOLOO Car Jump Starter & Tire Inflator + More",
-      "link": "https://smartcanucks.ca/walmart-canada-offers-save-64-on-gooloo-car-jump-starter-tire-inflator-more/",
-      "published": "2025-07-24T13:30:37Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753620984.7154684
-      }
-    },
-    {
-      "title": "Lululemon Canada Promotions: Summer Scores Sale up to 40% off + We Made Too Much Sales",
-      "link": "https://smartcanucks.ca/lululemon-canada-promotions-summer-scores-sale-up-to-40-off-we-made-too-much-sales/",
-      "published": "2025-07-24T13:15:01Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753620987.0966265
+        "scraped_at": 1753623439.708289
       }
     }
   ],
