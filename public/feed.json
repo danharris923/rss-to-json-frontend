@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-27T13:37:19.708408Z",
+  "scraped_at": "2025-07-27T14:26:29.622694Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Levi’s Canada: Extra 40% off Sale Styles",
+      "link": "https://smartcanucks.ca/levis-canada-extra-40-off-sale-styles/",
+      "published": "2025-07-27T13:45:06Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753626343.6685865
+      }
+    },
     {
       "title": "SAIL Canada Summer Deals: up to 40% off Select Items",
       "link": "https://smartcanucks.ca/sail-canada-summer-deals-up-to-40-off-select-items/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623391.2367592
+        "scraped_at": 1753626346.3031268
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623394.0933764
+        "scraped_at": 1753626348.9765592
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623396.4645553
+        "scraped_at": 1753626351.1216505
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623398.6602757
+        "scraped_at": 1753626353.7314508
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623401.2505972
+        "scraped_at": 1753626356.1596599
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623403.328059
+        "scraped_at": 1753626358.3087041
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623405.8454642
+        "scraped_at": 1753626360.4960873
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623408.5460014
+        "scraped_at": 1753626363.0075169
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623410.8846235
+        "scraped_at": 1753626365.614896
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623413.8342338
+        "scraped_at": 1753626368.0278282
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623415.8698068
+        "scraped_at": 1753626370.697796
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623418.4825888
+        "scraped_at": 1753626372.861598
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623421.3566308
+        "scraped_at": 1753626375.3011644
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623424.1578255
+        "scraped_at": 1753626377.7905188
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623426.977431
+        "scraped_at": 1753626380.4931602
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623429.240618
+        "scraped_at": 1753626383.0278926
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623432.201551
+        "scraped_at": 1753626385.3254948
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623435.2059517
+        "scraped_at": 1753626387.5433347
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753623437.2863293
-      }
-    },
-    {
-      "title": "PRFO Sports Canada: Summer Sale up to 50% off",
-      "link": "https://smartcanucks.ca/prfo-sports-canada-summer-sale-up-to-50-off/",
-      "published": "2025-07-24T14:27:22Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753623439.708289
+        "scraped_at": 1753626389.622588
       }
     }
   ],
