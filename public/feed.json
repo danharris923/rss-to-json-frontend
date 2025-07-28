@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-28T14:32:10.543559Z",
+  "scraped_at": "2025-07-28T15:32:43.070120Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Henckels Canada: Sale up to 40% off",
+      "link": "https://smartcanucks.ca/henckels-canada-sale-up-to-40-off/",
+      "published": "2025-07-28T14:32:16Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753716716.273384
+      }
+    },
     {
       "title": "Lancôme Canada: 30% off Select Sets + 20% off Bundles + 30% off Retiring Products + More",
       "link": "https://smartcanucks.ca/lancome-canada-30-off-select-sets-20-off-bundles-30-off-retiring-products-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713082.4622755
+        "scraped_at": 1753716718.6024272
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713085.1431606
+        "scraped_at": 1753716721.3841615
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713087.8991349
+        "scraped_at": 1753716723.7085614
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713090.5531406
+        "scraped_at": 1753716726.2043686
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713092.6399224
+        "scraped_at": 1753716728.6530082
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713095.4452176
+        "scraped_at": 1753716730.8684692
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713098.2604265
+        "scraped_at": 1753716733.0083516
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713100.320859
+        "scraped_at": 1753716735.7780793
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713102.3424597
+        "scraped_at": 1753716738.4604886
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713105.1336744
+        "scraped_at": 1753716740.6619487
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713107.3303375
+        "scraped_at": 1753716743.1798406
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713109.5568948
+        "scraped_at": 1753716745.3258977
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713111.9135783
+        "scraped_at": 1753716747.6894095
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713114.4680305
+        "scraped_at": 1753716750.541616
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713117.4132464
+        "scraped_at": 1753716752.9152977
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713120.0774264
+        "scraped_at": 1753716755.4359534
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713122.3952587
+        "scraped_at": 1753716757.5048957
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713125.361257
+        "scraped_at": 1753716760.57279
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753713128.204037
-      }
-    },
-    {
-      "title": "Best Buy Canada: Back to School Deals  + Outlet Event Sale",
-      "link": "https://smartcanucks.ca/best-buy-canada-back-to-school-deals-outlet-event-sale/",
-      "published": "2025-07-25T14:14:52Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753713130.5434783
+        "scraped_at": 1753716763.0700254
       }
     }
   ],
