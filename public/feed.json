@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-28T22:30:52.891807Z",
+  "scraped_at": "2025-07-28T23:30:32.858089Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Shoppers Drug Mart Canada Text Offers: Get 20x The PC Optimum Points When You Spend $75 July 29th and 30th",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-text-offers-get-20x-the-pc-optimum-points-when-you-spend-75-july-29th-and-30th/",
+      "published": "2025-07-28T22:57:48Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753745384.5058658
+      }
+    },
+    {
+      "title": "Air Miles Canada Offers: Get up to 100 Bonus Miles When You Fill With Shell Fuel Today Only",
+      "link": "https://smartcanucks.ca/air-miles-canada-offers-get-up-to-100-bonus-miles-when-you-fill-with-shell-fuel-today-only-2/",
+      "published": "2025-07-28T22:43:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753745387.1251774
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 52% on GKLPO Mini Projector with Electric Focus with Promo Code + More Offers",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-52-on-gklpo-mini-projector-with-electric-focus-with-promo-code-more-offers/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741802.5673254
+        "scraped_at": 1753745389.1857617
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741805.3791263
+        "scraped_at": 1753745391.28126
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741808.1470773
+        "scraped_at": 1753745393.650697
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741810.3915257
+        "scraped_at": 1753745396.307811
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741813.3997812
+        "scraped_at": 1753745399.2884123
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741815.8772337
+        "scraped_at": 1753745401.6074104
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741817.990255
+        "scraped_at": 1753745404.4182518
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741820.5635736
+        "scraped_at": 1753745406.7230585
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741822.687163
+        "scraped_at": 1753745409.201563
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741825.6154838
+        "scraped_at": 1753745411.28263
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741828.5094972
+        "scraped_at": 1753745414.1739597
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741831.39573
+        "scraped_at": 1753745416.9770837
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741834.1290803
+        "scraped_at": 1753745420.2381263
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741836.3003337
+        "scraped_at": 1753745422.6769886
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741838.763672
+        "scraped_at": 1753745425.1127207
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741841.3317914
+        "scraped_at": 1753745427.8112006
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741844.1913638
+        "scraped_at": 1753745430.7613623
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753741847.1932027
-      }
-    },
-    {
-      "title": "Popeyes Canada Offers: Buy One Get One Free Pickle Glazed Sandwich + More",
-      "link": "https://smartcanucks.ca/popeyes-canada-offers-buy-one-get-one-free-pickle-glazed-sandwich-more/",
-      "published": "2025-07-26T00:26:58Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753741849.9921987
-      }
-    },
-    {
-      "title": "Rona Canada Clearance Sale + Flyer: Save up to 40% off Patio Furniture + More",
-      "link": "https://smartcanucks.ca/rona-canada-clearance-sale-flyer-save-up-to-40-off-patio-furniture-more/",
-      "published": "2025-07-25T15:26:39Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753741852.8917117
+        "scraped_at": 1753745432.8579445
       }
     }
   ],
