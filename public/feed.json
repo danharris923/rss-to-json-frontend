@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-28T11:26:13.734254Z",
+  "scraped_at": "2025-07-28T13:02:05.904757Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Sport Chek Canada The Big Brand Sale: Save 20%-40% Off Select Brands and Styles",
+      "link": "https://smartcanucks.ca/sport-chek-canada-the-big-brand-sale-save-20-40-off-select-brands-and-styles/",
+      "published": "2025-07-28T12:48:48Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753707679.5232303
+      }
+    },
+    {
+      "title": "Tip Top Canada: Clearance up to 50% off + Suits From $194.50",
+      "link": "https://smartcanucks.ca/tip-top-canada-clearance-up-to-50-off-suits-from-194-50/",
+      "published": "2025-07-28T12:17:06Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753707682.101399
+      }
+    },
+    {
+      "title": "Hatley & Little Blue House Canada: Clearance up to 60% off",
+      "link": "https://smartcanucks.ca/hatley-little-blue-house-canada-clearance-up-to-60-off/",
+      "published": "2025-07-28T11:47:03Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753707684.7468991
+      }
+    },
     {
       "title": "Baby Deals and Offers in Flyers Until July 30th",
       "link": "https://smartcanucks.ca/baby-deals-and-offers-in-flyers-until-july-30th/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701925.1894884
+        "scraped_at": 1753707687.2992048
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701927.877198
+        "scraped_at": 1753707689.3253903
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701930.4191222
+        "scraped_at": 1753707691.498155
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701933.3122354
+        "scraped_at": 1753707694.4730232
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701935.8937464
+        "scraped_at": 1753707696.6014824
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701938.0161014
+        "scraped_at": 1753707698.8191392
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701940.9557269
+        "scraped_at": 1753707701.515032
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701943.2100646
+        "scraped_at": 1753707703.6942413
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701946.206216
+        "scraped_at": 1753707705.7673757
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701948.2803614
+        "scraped_at": 1753707708.0942166
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701950.9440453
+        "scraped_at": 1753707710.798944
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701953.5792048
+        "scraped_at": 1753707713.7371695
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701956.144466
+        "scraped_at": 1753707715.8610148
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701958.7595057
+        "scraped_at": 1753707718.727089
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701961.502693
+        "scraped_at": 1753707720.7499878
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701963.6676867
+        "scraped_at": 1753707723.1709292
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753701966.4867098
-      }
-    },
-    {
-      "title": "Staples Canada: Save $10 When You Spend $75 This Weekend With Promo Code + More",
-      "link": "https://smartcanucks.ca/staples-canada-save-10-when-you-spend-75-this-weekend-with-promo-code-more/",
-      "published": "2025-07-25T12:49:26Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753701968.6582108
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 81% on Charger Power Bank + 88% on Wireless Earbuds + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-81-on-charger-power-bank-88-on-wireless-earbuds-more/",
-      "published": "2025-07-25T12:40:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753701970.749115
-      }
-    },
-    {
-      "title": "Canadian Tire: Dollar Rush Event Sale",
-      "link": "https://smartcanucks.ca/canadian-tire-dollar-rush-event-sale/",
-      "published": "2025-07-25T12:17:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753701973.7341402
+        "scraped_at": 1753707725.904628
       }
     }
   ],
