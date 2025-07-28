@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-27T23:29:19.875440Z",
+  "scraped_at": "2025-07-28T02:32:11.397687Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Baby Deals and Offers in Flyers Until July 30th",
+      "link": "https://smartcanucks.ca/baby-deals-and-offers-in-flyers-until-july-30th/",
+      "published": "2025-07-27T23:45:10Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753669885.2489316
+      }
+    },
     {
       "title": "Levi’s Canada: Extra 40% off Sale Styles",
       "link": "https://smartcanucks.ca/levis-canada-extra-40-off-sale-styles/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658912.7306986
+        "scraped_at": 1753669887.3604918
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658915.3283973
+        "scraped_at": 1753669889.6730473
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658917.9498396
+        "scraped_at": 1753669891.967224
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658920.218907
+        "scraped_at": 1753669894.140765
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658922.8582299
+        "scraped_at": 1753669896.527152
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658925.6663632
+        "scraped_at": 1753669899.5261028
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658928.0452995
+        "scraped_at": 1753669902.5051131
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658930.6503541
+        "scraped_at": 1753669904.8685355
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658933.0410597
+        "scraped_at": 1753669907.8082666
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658935.269809
+        "scraped_at": 1753669910.0920188
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658937.7779584
+        "scraped_at": 1753669912.2656236
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658940.7973158
+        "scraped_at": 1753669914.338651
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658943.1819441
+        "scraped_at": 1753669916.4366887
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658945.7547235
+        "scraped_at": 1753669918.7091157
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658948.060468
+        "scraped_at": 1753669921.138589
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658950.16828
+        "scraped_at": 1753669923.8732762
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658952.928273
+        "scraped_at": 1753669926.6901593
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658955.5807626
+        "scraped_at": 1753669928.974158
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753658957.6785345
-      }
-    },
-    {
-      "title": "Just Golf Stuff Canada: Adidas Golf Shorts 2/$90 + Clearance",
-      "link": "https://smartcanucks.ca/just-golf-stuff-canada-adidas-golf-shorts-2-90-clearance/",
-      "published": "2025-07-24T15:09:00Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753658959.8753228
+        "scraped_at": 1753669931.3975532
       }
     }
   ],
