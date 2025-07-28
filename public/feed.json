@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-28T13:02:05.904757Z",
+  "scraped_at": "2025-07-28T13:47:09.361248Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Lancôme Canada: 30% off Select Sets + 20% off Bundles + 30% off Retiring Products + More",
+      "link": "https://smartcanucks.ca/lancome-canada-30-off-select-sets-20-off-bundles-30-off-retiring-products-more/",
+      "published": "2025-07-28T13:38:03Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753710383.013113
+      }
+    },
     {
       "title": "Sport Chek Canada The Big Brand Sale: Save 20%-40% Off Select Brands and Styles",
       "link": "https://smartcanucks.ca/sport-chek-canada-the-big-brand-sale-save-20-40-off-select-brands-and-styles/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707679.5232303
+        "scraped_at": 1753710385.7230725
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707682.101399
+        "scraped_at": 1753710387.9558454
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707684.7468991
+        "scraped_at": 1753710390.8083436
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707687.2992048
+        "scraped_at": 1753710393.809479
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707689.3253903
+        "scraped_at": 1753710396.5049937
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707691.498155
+        "scraped_at": 1753710398.6662166
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707694.4730232
+        "scraped_at": 1753710401.070731
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707696.6014824
+        "scraped_at": 1753710403.2772646
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707698.8191392
+        "scraped_at": 1753710405.5473824
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707701.515032
+        "scraped_at": 1753710408.1386206
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707703.6942413
+        "scraped_at": 1753710410.1775558
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707705.7673757
+        "scraped_at": 1753710412.9940293
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707708.0942166
+        "scraped_at": 1753710415.0898862
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707710.798944
+        "scraped_at": 1753710417.8800516
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707713.7371695
+        "scraped_at": 1753710419.957071
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707715.8610148
+        "scraped_at": 1753710422.471097
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707718.727089
+        "scraped_at": 1753710424.8165817
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707720.7499878
+        "scraped_at": 1753710426.844693
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753707723.1709292
-      }
-    },
-    {
-      "title": "Mac Cosmetics Canada National Lipstick Day : 30% off Lip Products + Free Clutch When You Spend $125 or More",
-      "link": "https://smartcanucks.ca/mac-cosmetics-canada-national-lipstick-day-30-off-lip-products-free-clutch-when-you-spend-125-or-more/",
-      "published": "2025-07-25T13:43:57Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753707725.904628
+        "scraped_at": 1753710429.3611498
       }
     }
   ],
