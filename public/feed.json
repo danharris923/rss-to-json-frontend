@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-28T19:25:54.639793Z",
+  "scraped_at": "2025-07-28T20:33:36.957902Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 52% on GKLPO Mini Projector with Electric Focus with Promo Code + More Offers",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-52-on-gklpo-mini-projector-with-electric-focus-with-promo-code-more-offers/",
+      "published": "2025-07-28T19:38:13Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753734768.856887
+      }
+    },
     {
       "title": "Henckels Canada: Sale up to 40% off",
       "link": "https://smartcanucks.ca/henckels-canada-sale-up-to-40-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730704.7595766
+        "scraped_at": 1753734771.0578873
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730707.5391462
+        "scraped_at": 1753734774.0293517
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730710.5760841
+        "scraped_at": 1753734776.4173172
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730713.3946261
+        "scraped_at": 1753734779.2332973
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730715.6324458
+        "scraped_at": 1753734781.7267978
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730718.1012037
+        "scraped_at": 1753734784.4588451
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730720.4522827
+        "scraped_at": 1753734786.9206982
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730722.6129282
+        "scraped_at": 1753734789.554931
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730725.4662921
+        "scraped_at": 1753734792.3190484
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730728.428539
+        "scraped_at": 1753734795.1177037
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730731.384837
+        "scraped_at": 1753734797.878161
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730734.2101696
+        "scraped_at": 1753734799.9084942
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730737.1189616
+        "scraped_at": 1753734802.2374165
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730739.6888273
+        "scraped_at": 1753734805.0553951
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730741.858319
+        "scraped_at": 1753734807.4239552
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730744.5547965
+        "scraped_at": 1753734809.793443
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730747.0810242
+        "scraped_at": 1753734812.662656
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730749.295173
+        "scraped_at": 1753734814.7109017
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753730751.957052
-      }
-    },
-    {
-      "title": "Kate Spade & Kate Spade Outlet: Clearance up to 70% off + Extra 20% off When You Buy 2 or More Styles",
-      "link": "https://smartcanucks.ca/kate-spade-kate-spade-outlet-clearance-up-to-70-off-extra-20-off-when-you-buy-2-or-more-styles/",
-      "published": "2025-07-25T14:54:26Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753730754.6397161
+        "scraped_at": 1753734816.9578207
       }
     }
   ],
