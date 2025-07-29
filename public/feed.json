@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-29T11:26:10.494698Z",
+  "scraped_at": "2025-07-29T13:03:11.584304Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Sephora Canada: Save up to 50% on Select Lip Products + More",
+      "link": "https://smartcanucks.ca/sephora-canada-save-up-to-50-on-select-lip-products-more/",
+      "published": "2025-07-29T12:55:11Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753794142.5687268
+      }
+    },
     {
       "title": "Shoppers Drug Mart Canada Text Offers: Get 20x The PC Optimum Points When You Spend $75 July 29th and 30th",
       "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-text-offers-get-20x-the-pc-optimum-points-when-you-spend-75-july-29th-and-30th/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788322.1901062
+        "scraped_at": 1753794145.5104756
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788325.048395
+        "scraped_at": 1753794148.1538749
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788327.7346299
+        "scraped_at": 1753794150.4703138
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788330.2586036
+        "scraped_at": 1753794152.5731726
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788333.1085875
+        "scraped_at": 1753794154.6902492
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788335.6152575
+        "scraped_at": 1753794157.717335
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788338.4335
+        "scraped_at": 1753794160.7216218
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788341.221588
+        "scraped_at": 1753794163.019102
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788343.4756472
+        "scraped_at": 1753794165.6412556
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788345.6941292
+        "scraped_at": 1753794168.664305
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788348.105868
+        "scraped_at": 1753794171.2676537
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788350.3847916
+        "scraped_at": 1753794174.2675078
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788353.1189234
+        "scraped_at": 1753794176.3977718
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788355.7432694
+        "scraped_at": 1753794179.2927966
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788358.6998951
+        "scraped_at": 1753794181.4462476
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788360.7515287
+        "scraped_at": 1753794184.2989984
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788363.401603
+        "scraped_at": 1753794186.5838037
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788365.8518395
+        "scraped_at": 1753794188.711338
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753788368.31356
-      }
-    },
-    {
-      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings Util July 30th",
-      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-util-july-30th/",
-      "published": "2025-07-26T12:11:29Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753788370.4945796
+        "scraped_at": 1753794191.5842156
       }
     }
   ],
