@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-29T13:03:11.584304Z",
+  "scraped_at": "2025-07-29T13:49:04.080368Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Little Burgundy Canada: Summer Sale up to 50% off",
+      "link": "https://smartcanucks.ca/little-burgundy-canada-summer-sale-up-to-50-off/",
+      "published": "2025-07-29T13:39:04Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753796897.6137075
+      }
+    },
+    {
+      "title": "Steve Madden Canada Summer Sale: Extra 30% off with Promo Code",
+      "link": "https://smartcanucks.ca/steve-madden-canada-summer-sale-extra-30-off-with-promo-code/",
+      "published": "2025-07-29T13:09:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753796900.2360892
+      }
+    },
     {
       "title": "Sephora Canada: Save up to 50% on Select Lip Products + More",
       "link": "https://smartcanucks.ca/sephora-canada-save-up-to-50-on-select-lip-products-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794142.5687268
+        "scraped_at": 1753796903.0693681
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794145.5104756
+        "scraped_at": 1753796905.2342153
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794148.1538749
+        "scraped_at": 1753796907.620785
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794150.4703138
+        "scraped_at": 1753796910.6182482
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794152.5731726
+        "scraped_at": 1753796912.9430423
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794154.6902492
+        "scraped_at": 1753796915.1892571
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794157.717335
+        "scraped_at": 1753796917.264377
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794160.7216218
+        "scraped_at": 1753796919.6386755
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794163.019102
+        "scraped_at": 1753796921.7920325
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794165.6412556
+        "scraped_at": 1753796924.0965905
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794168.664305
+        "scraped_at": 1753796926.321021
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794171.2676537
+        "scraped_at": 1753796928.3795414
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794174.2675078
+        "scraped_at": 1753796931.3568947
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794176.3977718
+        "scraped_at": 1753796934.0826042
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794179.2927966
+        "scraped_at": 1753796936.4703195
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794181.4462476
+        "scraped_at": 1753796938.7931192
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794184.2989984
+        "scraped_at": 1753796941.196892
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753794186.5838037
-      }
-    },
-    {
-      "title": "Kitchen Stuff Plus Canada: Back to School Sale up to 60% off",
-      "link": "https://smartcanucks.ca/kitchen-stuff-plus-canada-back-to-school-sale-up-to-60-off/",
-      "published": "2025-07-26T13:30:49Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753794188.711338
-      }
-    },
-    {
-      "title": "Aldo Canada: Save an Extra 30% on Sale Styles",
-      "link": "https://smartcanucks.ca/aldo-canada-save-an-extra-30-on-sale-styles/",
-      "published": "2025-07-26T13:15:15Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753794191.5842156
+        "scraped_at": 1753796944.0802753
       }
     }
   ],
