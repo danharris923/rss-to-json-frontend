@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-29T22:30:16.765256Z",
+  "scraped_at": "2025-07-29T23:28:51.367943Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Giant Tiger Canada Flyer Deals July 30th  – August 5th",
+      "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-july-30th-august-5th/",
+      "published": "2025-07-29T22:49:28Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753831683.127177
+      }
+    },
     {
       "title": "La Senza Canada: Buy One Get One 50% off Bras + Sale up to 60% off + Extra 20% off Clearance",
       "link": "https://smartcanucks.ca/la-senza-canada-buy-one-get-one-50-off-bras-sale-up-to-60-off-extra-20-off-clearance/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828168.7246351
+        "scraped_at": 1753831685.9948692
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828170.995817
+        "scraped_at": 1753831688.5501897
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828173.4026823
+        "scraped_at": 1753831690.6012702
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828175.7163503
+        "scraped_at": 1753831692.9817557
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828178.6008651
+        "scraped_at": 1753831695.5261958
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828180.8494449
+        "scraped_at": 1753831697.6300695
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828183.6606793
+        "scraped_at": 1753831699.9118268
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828185.8785222
+        "scraped_at": 1753831702.4708836
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828188.2990174
+        "scraped_at": 1753831705.1143267
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828190.538869
+        "scraped_at": 1753831707.722271
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828192.83747
+        "scraped_at": 1753831710.350664
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828195.508911
+        "scraped_at": 1753831712.8637323
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828198.0597656
+        "scraped_at": 1753831715.211211
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828200.260143
+        "scraped_at": 1753831718.2214923
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828203.212729
+        "scraped_at": 1753831720.3414035
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828205.874851
+        "scraped_at": 1753831722.9218247
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828208.672323
+        "scraped_at": 1753831725.539087
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828211.4255893
+        "scraped_at": 1753831728.5162742
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753828213.9006007
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada: Get 20x The PC Optimum or 25x The Points When You Pay With a PC Financial Card + More",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-get-20x-the-pc-optimum-or-25x-the-points-when-you-pay-with-a-pc-financial-card-more/",
-      "published": "2025-07-26T21:02:39Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753828216.7651556
+        "scraped_at": 1753831731.3678515
       }
     }
   ],
