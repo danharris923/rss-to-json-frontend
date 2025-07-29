@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-29T15:34:19.249365Z",
+  "scraped_at": "2025-07-29T16:37:34.198156Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "La Senza Canada: Buy One Get One 50% off Bras + Sale up to 60% off + Extra 20% off Clearance",
+      "link": "https://smartcanucks.ca/la-senza-canada-buy-one-get-one-50-off-bras-sale-up-to-60-off-extra-20-off-clearance/",
+      "published": "2025-07-29T15:52:02Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753807005.9088154
+      }
+    },
     {
       "title": "Penningtons Canada: End of Season Sale up to 60% off",
       "link": "https://smartcanucks.ca/penningtons-canada-end-of-season-sale-up-to-60-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803210.8550758
+        "scraped_at": 1753807008.4058309
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803213.0199318
+        "scraped_at": 1753807011.3208714
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803215.1584947
+        "scraped_at": 1753807013.4546998
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803218.1648386
+        "scraped_at": 1753807015.796014
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803220.903696
+        "scraped_at": 1753807018.8561354
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803223.6207201
+        "scraped_at": 1753807021.0211864
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803225.8353727
+        "scraped_at": 1753807023.4837534
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803228.310354
+        "scraped_at": 1753807026.0223055
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803231.1766372
+        "scraped_at": 1753807028.5761538
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803233.395768
+        "scraped_at": 1753807030.9028616
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803235.7454703
+        "scraped_at": 1753807033.7298782
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803238.0551116
+        "scraped_at": 1753807036.1817584
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803240.8732553
+        "scraped_at": 1753807038.8761907
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803243.3913507
+        "scraped_at": 1753807041.5395722
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803246.1453059
+        "scraped_at": 1753807043.8659616
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803248.629445
+        "scraped_at": 1753807046.9331663
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803250.8228445
+        "scraped_at": 1753807049.4524164
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803253.719004
+        "scraped_at": 1753807051.579275
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753803256.579367
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 82% on Adjustable Weight Bench + 80% on Portable Wireless Speaker + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-82-on-adjustable-weight-bench-80-on-portable-wireless-speaker-more/",
-      "published": "2025-07-26T15:36:06Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753803259.2492783
+        "scraped_at": 1753807054.198072
       }
     }
   ],
