@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-29T14:33:49.089133Z",
+  "scraped_at": "2025-07-29T15:34:19.249365Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Penningtons Canada: End of Season Sale up to 60% off",
+      "link": "https://smartcanucks.ca/penningtons-canada-end-of-season-sale-up-to-60-off/",
+      "published": "2025-07-29T15:09:21Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753803210.8550758
+      }
+    },
     {
       "title": "Little Burgundy Canada: Summer Sale up to 50% off",
       "link": "https://smartcanucks.ca/little-burgundy-canada-summer-sale-up-to-50-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799579.646646
+        "scraped_at": 1753803213.0199318
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799582.4050784
+        "scraped_at": 1753803215.1584947
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799585.3095787
+        "scraped_at": 1753803218.1648386
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799588.0963712
+        "scraped_at": 1753803220.903696
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799590.4639413
+        "scraped_at": 1753803223.6207201
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799593.0300453
+        "scraped_at": 1753803225.8353727
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799595.6434422
+        "scraped_at": 1753803228.310354
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799598.3232915
+        "scraped_at": 1753803231.1766372
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799600.8913333
+        "scraped_at": 1753803233.395768
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799603.0231009
+        "scraped_at": 1753803235.7454703
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799605.7486167
+        "scraped_at": 1753803238.0551116
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799608.7947915
+        "scraped_at": 1753803240.8732553
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799610.8611922
+        "scraped_at": 1753803243.3913507
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799613.220302
+        "scraped_at": 1753803246.1453059
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799615.95527
+        "scraped_at": 1753803248.629445
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799618.6534297
+        "scraped_at": 1753803250.8228445
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799621.4711246
+        "scraped_at": 1753803253.719004
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799624.0409858
+        "scraped_at": 1753803256.579367
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753799626.9334018
-      }
-    },
-    {
-      "title": "Bogs Footwear Canada: Extra 20% off Sale Styles with Promo Code",
-      "link": "https://smartcanucks.ca/bogs-footwear-canada-extra-20-off-sale-styles-with-promo-code/",
-      "published": "2025-07-26T13:45:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753799629.0890324
+        "scraped_at": 1753803259.2492783
       }
     }
   ],
