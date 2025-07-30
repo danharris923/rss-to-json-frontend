@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T13:47:59.103030Z",
+  "scraped_at": "2025-07-30T14:30:35.071065Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Anna Bella Canada: End or Season Sale up to 70% off + Free Shipping on All Orders",
+      "link": "https://smartcanucks.ca/anna-bella-canada-end-or-season-sale-up-to-70-off-free-shipping-on-all-orders/",
+      "published": "2025-07-30T14:22:12Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753885786.9200804
+      }
+    },
+    {
+      "title": "American Eagle & Aerie Canada: 30% off All Jeans and Pants + 50-70% off Clearance",
+      "link": "https://smartcanucks.ca/american-eagle-aerie-canada-30-off-all-jeans-and-pants-50-70-off-clearance/",
+      "published": "2025-07-30T14:03:34Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753885789.140736
+      }
+    },
     {
       "title": "PlayStation Plus Canada FREE Monthly Games: Lies of P, Day Z, and More",
       "link": "https://smartcanucks.ca/playstation-plus-canada-free-monthly-games-lies-of-p-day-z-and-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883230.21673
+        "scraped_at": 1753885792.1854918
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883232.2823055
+        "scraped_at": 1753885795.2272377
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883234.9890857
+        "scraped_at": 1753885797.7904356
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883237.1545413
+        "scraped_at": 1753885800.4496768
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883240.1272228
+        "scraped_at": 1753885802.638135
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883243.0763838
+        "scraped_at": 1753885805.5652199
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883245.44008
+        "scraped_at": 1753885808.1765237
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883248.3369937
+        "scraped_at": 1753885810.9750464
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883251.3069005
+        "scraped_at": 1753885813.5839472
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883253.3488448
+        "scraped_at": 1753885816.0955312
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883256.3112335
+        "scraped_at": 1753885818.4505363
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883259.17859
+        "scraped_at": 1753885820.8949087
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883261.70368
+        "scraped_at": 1753885823.3917792
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883263.7884293
+        "scraped_at": 1753885825.81914
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883266.6363156
+        "scraped_at": 1753885828.1435661
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883268.904474
+        "scraped_at": 1753885830.3813007
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883271.6704009
+        "scraped_at": 1753885832.9447112
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753883273.9798925
-      }
-    },
-    {
-      "title": "Baby Deals and Offers in Flyers Until July 30th",
-      "link": "https://smartcanucks.ca/baby-deals-and-offers-in-flyers-until-july-30th/",
-      "published": "2025-07-27T23:45:10Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753883276.1028392
-      }
-    },
-    {
-      "title": "Levi’s Canada: Extra 40% off Sale Styles",
-      "link": "https://smartcanucks.ca/levis-canada-extra-40-off-sale-styles/",
-      "published": "2025-07-27T13:45:06Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753883279.1029382
+        "scraped_at": 1753885835.0708847
       }
     }
   ],
