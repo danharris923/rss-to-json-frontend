@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T02:28:26.976273Z",
+  "scraped_at": "2025-07-30T04:09:38.837525Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 66% on Hair Dryer Using Promo Code + 35% on Electric Screwdriver Set + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-66-on-hair-dryer-using-promo-code-35-on-electric-screwdriver-set-more/",
+      "published": "2025-07-30T03:25:35Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753848530.7405994
+      }
+    },
     {
       "title": "Giant Tiger Canada Flyer Deals July 30th  – August 5th",
       "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-july-30th-august-5th/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842460.781466
+        "scraped_at": 1753848533.1186476
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842463.229578
+        "scraped_at": 1753848535.9566092
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842465.3057551
+        "scraped_at": 1753848538.6949542
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842468.278924
+        "scraped_at": 1753848541.6025844
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842471.1669226
+        "scraped_at": 1753848544.1598067
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842473.2470472
+        "scraped_at": 1753848546.3539238
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842475.725925
+        "scraped_at": 1753848548.7446163
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842477.8152535
+        "scraped_at": 1753848550.940487
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842480.16861
+        "scraped_at": 1753848553.3930619
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842483.1311355
+        "scraped_at": 1753848555.755534
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842485.4069722
+        "scraped_at": 1753848558.1194124
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842487.5633118
+        "scraped_at": 1753848561.0159137
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842490.0024798
+        "scraped_at": 1753848563.576907
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842492.9062874
+        "scraped_at": 1753848566.357712
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842495.1229272
+        "scraped_at": 1753848568.6241283
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842497.4013166
+        "scraped_at": 1753848571.6057239
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842499.513981
+        "scraped_at": 1753848573.897388
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842502.1153426
+        "scraped_at": 1753848576.4890494
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753842504.164356
-      }
-    },
-    {
-      "title": "Real Canadian Superstore Ontario: National Lipstick Day up 50% off July 29th + Flyer Deals",
-      "link": "https://smartcanucks.ca/real-canadian-superstore-ontario-national-lipstick-day-up-50-off-july-29th-flyer-deals/",
-      "published": "2025-07-26T21:12:51Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753842506.9761477
+        "scraped_at": 1753848578.8374362
       }
     }
   ],
