@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T19:26:21.376877Z",
+  "scraped_at": "2025-07-30T20:31:23.584155Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 64% on URMYWO Busy Board for Toddlers + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-64-on-urmywo-busy-board-for-toddlers-more/",
+      "published": "2025-07-30T19:37:46Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753907433.397155
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 48% on GKLPO Mini Projector with Built-in Apps Using Promo Code + More Offers",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-48-on-gklpo-mini-projector-with-built-in-apps-using-promo-code-more-offers/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903531.310239
+        "scraped_at": 1753907435.530455
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903533.9982152
+        "scraped_at": 1753907438.5491514
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903536.9281983
+        "scraped_at": 1753907440.958369
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903539.1480138
+        "scraped_at": 1753907443.8927162
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903541.9560773
+        "scraped_at": 1753907446.5501254
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903544.9989393
+        "scraped_at": 1753907449.358791
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903547.4776034
+        "scraped_at": 1753907452.2467358
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903549.8658593
+        "scraped_at": 1753907454.8333678
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903552.5211985
+        "scraped_at": 1753907456.995137
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903554.6982193
+        "scraped_at": 1753907459.4668746
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903557.747566
+        "scraped_at": 1753907461.7399557
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903560.6055257
+        "scraped_at": 1753907464.3990443
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903563.1138246
+        "scraped_at": 1753907467.389181
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903565.5673008
+        "scraped_at": 1753907470.454487
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903567.961374
+        "scraped_at": 1753907472.6959448
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903570.4778974
+        "scraped_at": 1753907475.4244974
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903572.895409
+        "scraped_at": 1753907478.4343722
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903575.91363
+        "scraped_at": 1753907481.184871
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753903578.6472244
-      }
-    },
-    {
-      "title": "Lancôme Canada: 30% off Select Sets + 20% off Bundles + 30% off Retiring Products + More",
-      "link": "https://smartcanucks.ca/lancome-canada-30-off-select-sets-20-off-bundles-30-off-retiring-products-more/",
-      "published": "2025-07-28T13:38:03Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753903581.3767877
+        "scraped_at": 1753907483.5840292
       }
     }
   ],
