@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T14:30:35.071065Z",
+  "scraped_at": "2025-07-30T15:32:38.888659Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Ardene Canada: Sale up to 50% off + Swim Styles for $8",
+      "link": "https://smartcanucks.ca/ardene-canada-sale-up-to-50-off-swim-styles-for-8/",
+      "published": "2025-07-30T15:31:30Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753889511.0574896
+      }
+    },
+    {
+      "title": "Bloomingdale’s Canada: Designer Sale up to 60% off + Clearance up to 75% off",
+      "link": "https://smartcanucks.ca/bloomingdales-canada-designer-sale-up-to-60-off-clearance-up-to-75-off/",
+      "published": "2025-07-30T15:15:42Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753889513.4537532
+      }
+    },
     {
       "title": "Anna Bella Canada: End or Season Sale up to 70% off + Free Shipping on All Orders",
       "link": "https://smartcanucks.ca/anna-bella-canada-end-or-season-sale-up-to-70-off-free-shipping-on-all-orders/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885786.9200804
+        "scraped_at": 1753889515.7183022
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885789.140736
+        "scraped_at": 1753889518.2702343
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885792.1854918
+        "scraped_at": 1753889521.164427
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885795.2272377
+        "scraped_at": 1753889523.8800092
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885797.7904356
+        "scraped_at": 1753889526.5857437
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885800.4496768
+        "scraped_at": 1753889528.8020923
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885802.638135
+        "scraped_at": 1753889530.8487544
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885805.5652199
+        "scraped_at": 1753889533.0698657
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885808.1765237
+        "scraped_at": 1753889535.162608
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885810.9750464
+        "scraped_at": 1753889537.784169
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885813.5839472
+        "scraped_at": 1753889540.583972
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885816.0955312
+        "scraped_at": 1753889543.2363453
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885818.4505363
+        "scraped_at": 1753889545.906457
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885820.8949087
+        "scraped_at": 1753889548.852417
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885823.3917792
+        "scraped_at": 1753889551.825134
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885825.81914
+        "scraped_at": 1753889554.4763637
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885828.1435661
+        "scraped_at": 1753889556.7741785
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753885830.3813007
-      }
-    },
-    {
-      "title": "Tip Top Canada: Clearance up to 50% off + Suits From $194.50",
-      "link": "https://smartcanucks.ca/tip-top-canada-clearance-up-to-50-off-suits-from-194-50/",
-      "published": "2025-07-28T12:17:06Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753885832.9447112
-      }
-    },
-    {
-      "title": "Hatley & Little Blue House Canada: Clearance up to 60% off",
-      "link": "https://smartcanucks.ca/hatley-little-blue-house-canada-clearance-up-to-60-off/",
-      "published": "2025-07-28T11:47:03Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753885835.0708847
+        "scraped_at": 1753889558.8885205
       }
     }
   ],
