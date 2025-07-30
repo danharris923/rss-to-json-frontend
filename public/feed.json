@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T21:28:50.863528Z",
+  "scraped_at": "2025-07-30T22:29:32.211506Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Walmart Canada Flyer Deals July 31st – August 6th: Pint of Blueberries $1.44 + More",
+      "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-july-31st-august-6th-pint-of-blueberries-1-44-more/",
+      "published": "2025-07-30T22:01:19Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753914524.0478776
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 64% on URMYWO Busy Board for Toddlers + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-64-on-urmywo-busy-board-for-toddlers-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910882.0701735
+        "scraped_at": 1753914526.7248976
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910884.4338768
+        "scraped_at": 1753914529.1007602
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910887.273696
+        "scraped_at": 1753914531.6740792
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910889.621972
+        "scraped_at": 1753914533.9108794
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910892.6292572
+        "scraped_at": 1753914536.7304027
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910894.7921605
+        "scraped_at": 1753914539.3598979
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910897.4945607
+        "scraped_at": 1753914541.6994169
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910899.960915
+        "scraped_at": 1753914544.586653
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910902.3268547
+        "scraped_at": 1753914547.5249527
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910905.3134832
+        "scraped_at": 1753914550.273961
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910907.8085182
+        "scraped_at": 1753914553.0197477
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910910.4439223
+        "scraped_at": 1753914555.214873
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910912.6237023
+        "scraped_at": 1753914557.252092
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910915.471568
+        "scraped_at": 1753914559.965754
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910918.345211
+        "scraped_at": 1753914561.9990969
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910921.283595
+        "scraped_at": 1753914564.4058099
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910924.1117609
+        "scraped_at": 1753914566.978109
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910926.3456774
+        "scraped_at": 1753914569.498911
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753910928.4185817
-      }
-    },
-    {
-      "title": "Henckels Canada: Sale up to 40% off",
-      "link": "https://smartcanucks.ca/henckels-canada-sale-up-to-40-off/",
-      "published": "2025-07-28T14:32:16Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753910930.8634226
+        "scraped_at": 1753914572.2114034
       }
     }
   ],
