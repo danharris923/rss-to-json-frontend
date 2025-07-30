@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T18:43:05.324840Z",
+  "scraped_at": "2025-07-30T19:26:21.376877Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 48% on GKLPO Mini Projector with Built-in Apps Using Promo Code + More Offers",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-48-on-gklpo-mini-projector-with-built-in-apps-using-promo-code-more-offers/",
+      "published": "2025-07-30T18:53:07Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753903531.310239
+      }
+    },
     {
       "title": "Ardene Canada: Sale up to 50% off + Swim Styles for $8",
       "link": "https://smartcanucks.ca/ardene-canada-sale-up-to-50-off-swim-styles-for-8/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900937.8482273
+        "scraped_at": 1753903533.9982152
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900940.5844777
+        "scraped_at": 1753903536.9281983
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900943.2732205
+        "scraped_at": 1753903539.1480138
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900945.553883
+        "scraped_at": 1753903541.9560773
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900947.9472702
+        "scraped_at": 1753903544.9989393
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900950.741697
+        "scraped_at": 1753903547.4776034
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900953.2014875
+        "scraped_at": 1753903549.8658593
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900955.467537
+        "scraped_at": 1753903552.5211985
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900958.1392038
+        "scraped_at": 1753903554.6982193
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900960.4819798
+        "scraped_at": 1753903557.747566
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900962.5740447
+        "scraped_at": 1753903560.6055257
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900964.6912196
+        "scraped_at": 1753903563.1138246
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900966.8586588
+        "scraped_at": 1753903565.5673008
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900969.3189569
+        "scraped_at": 1753903567.961374
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900972.107695
+        "scraped_at": 1753903570.4778974
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900974.6754289
+        "scraped_at": 1753903572.895409
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900977.1513767
+        "scraped_at": 1753903575.91363
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900980.0733104
+        "scraped_at": 1753903578.6472244
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753900982.6364698
-      }
-    },
-    {
-      "title": "Sport Chek Canada The Big Brand Sale: Save 20%-40% Off Select Brands and Styles",
-      "link": "https://smartcanucks.ca/sport-chek-canada-the-big-brand-sale-save-20-40-off-select-brands-and-styles/",
-      "published": "2025-07-28T12:48:48Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753900985.3247156
+        "scraped_at": 1753903581.3767877
       }
     }
   ],
