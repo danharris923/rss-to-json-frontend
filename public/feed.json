@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T22:29:32.211506Z",
+  "scraped_at": "2025-07-30T23:29:14.819218Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "No Frills Ontario Flyer Deals July 31st – August 6th: $1 Wonder Buns + More",
+      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-july-31st-august-6th-1-wonder-buns-more/",
+      "published": "2025-07-30T23:19:32Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753918106.3557484
+      }
+    },
+    {
+      "title": "Real Canadian Superstore Ontario Flyer Deals + Bonus Redemption July 31st – August 6th",
+      "link": "https://smartcanucks.ca/real-canadian-superstore-ontario-flyer-deals-bonus-redemption-july-31st-august-6th/",
+      "published": "2025-07-30T22:33:09Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753918109.1778612
+      }
+    },
     {
       "title": "Walmart Canada Flyer Deals July 31st – August 6th: Pint of Blueberries $1.44 + More",
       "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-july-31st-august-6th-pint-of-blueberries-1-44-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914524.0478776
+        "scraped_at": 1753918112.0567453
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914526.7248976
+        "scraped_at": 1753918114.484717
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914529.1007602
+        "scraped_at": 1753918117.0097482
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914531.6740792
+        "scraped_at": 1753918119.3648255
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914533.9108794
+        "scraped_at": 1753918121.6303878
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914536.7304027
+        "scraped_at": 1753918124.1320276
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914539.3598979
+        "scraped_at": 1753918126.360884
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914541.6994169
+        "scraped_at": 1753918129.3095384
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914544.586653
+        "scraped_at": 1753918132.2798038
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914547.5249527
+        "scraped_at": 1753918134.9672086
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914550.273961
+        "scraped_at": 1753918137.8752525
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914553.0197477
+        "scraped_at": 1753918140.1965694
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914555.214873
+        "scraped_at": 1753918142.3686824
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914557.252092
+        "scraped_at": 1753918144.957545
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914559.965754
+        "scraped_at": 1753918147.4288156
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914561.9990969
+        "scraped_at": 1753918149.6308162
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914564.4058099
+        "scraped_at": 1753918152.5939848
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753914566.978109
-      }
-    },
-    {
-      "title": "Air Miles Canada Offers: Get up to 100 Bonus Miles When You Fill With Shell Fuel Today Only",
-      "link": "https://smartcanucks.ca/air-miles-canada-offers-get-up-to-100-bonus-miles-when-you-fill-with-shell-fuel-today-only-2/",
-      "published": "2025-07-28T22:43:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753914569.498911
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 52% on GKLPO Mini Projector with Electric Focus with Promo Code + More Offers",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-52-on-gklpo-mini-projector-with-electric-focus-with-promo-code-more-offers/",
-      "published": "2025-07-28T19:38:13Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753914572.2114034
+        "scraped_at": 1753918154.8190334
       }
     }
   ],
