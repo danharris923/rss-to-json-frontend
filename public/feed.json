@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T11:26:57.107182Z",
+  "scraped_at": "2025-07-30T13:02:43.929045Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "PlayStation Plus Canada FREE Monthly Games: Lies of P, Day Z, and More",
+      "link": "https://smartcanucks.ca/playstation-plus-canada-free-monthly-games-lies-of-p-day-z-and-more/",
+      "published": "2025-07-30T12:47:03Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753880514.2387953
+      }
+    },
+    {
+      "title": "Calvin Klein Canada: End of Season Sale up to $70 off + Extra 20% off $100+",
+      "link": "https://smartcanucks.ca/calvin-klein-canada-end-of-season-sale-up-to-70-off-extra-20-off-100/",
+      "published": "2025-07-30T12:33:07Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753880517.156717
+      }
+    },
+    {
+      "title": "Toys R Us Canada: LEGO Go Wild Free Make-and-Take Event August 2nd + More",
+      "link": "https://smartcanucks.ca/toys-r-us-canada-lego-go-wild-free-make-and-take-event-august-2nd-more/",
+      "published": "2025-07-30T12:22:11Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753880519.796206
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 66% on Hair Dryer Using Promo Code + 35% on Electric Screwdriver Set + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-66-on-hair-dryer-using-promo-code-35-on-electric-screwdriver-set-more/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874769.3940556
+        "scraped_at": 1753880522.2903383
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874771.6555963
+        "scraped_at": 1753880524.4889643
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874774.2766588
+        "scraped_at": 1753880526.536788
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874776.4276562
+        "scraped_at": 1753880529.364629
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874778.937946
+        "scraped_at": 1753880532.2719336
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874781.767131
+        "scraped_at": 1753880535.2784932
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874784.5632899
+        "scraped_at": 1753880537.989857
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874786.9483283
+        "scraped_at": 1753880540.7075226
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874789.2749088
+        "scraped_at": 1753880542.8645008
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874791.9656374
+        "scraped_at": 1753880545.6003363
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874794.7105105
+        "scraped_at": 1753880547.7054205
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874796.7338593
+        "scraped_at": 1753880550.0094292
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874799.1494517
+        "scraped_at": 1753880552.8852086
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874801.3365939
+        "scraped_at": 1753880555.8669748
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874803.8170476
+        "scraped_at": 1753880558.802805
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874806.7304926
+        "scraped_at": 1753880561.7371707
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753874809.2331543
-      }
-    },
-    {
-      "title": "SAIL Canada Summer Deals: up to 40% off Select Items",
-      "link": "https://smartcanucks.ca/sail-canada-summer-deals-up-to-40-off-select-items/",
-      "published": "2025-07-27T13:30:40Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753874811.8518684
-      }
-    },
-    {
-      "title": "Swarovski Canada: Get up to an Extra 20% off Sale",
-      "link": "https://smartcanucks.ca/swarovski-canada-get-up-to-an-extra-20-off-sale/",
-      "published": "2025-07-27T13:15:25Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753874814.1789978
-      }
-    },
-    {
-      "title": "Freshco Ontario: Green Bell Peppers .99/lb + More",
-      "link": "https://smartcanucks.ca/freshco-ontario-green-bell-peppers-99-lb-more/",
-      "published": "2025-07-26T23:14:44Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753874817.1071098
+        "scraped_at": 1753880563.9289515
       }
     }
   ],
