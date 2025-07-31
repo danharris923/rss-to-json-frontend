@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-30T23:29:14.819218Z",
+  "scraped_at": "2025-07-31T02:27:59.075036Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 41% on MAXGROOM PRO 7D Electric Head Shaver for Bald Men + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-41-on-maxgroom-pro-7d-electric-head-shaver-for-bald-men-more/",
+      "published": "2025-07-31T00:54:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753928831.9375157
+      }
+    },
     {
       "title": "No Frills Ontario Flyer Deals July 31st – August 6th: $1 Wonder Buns + More",
       "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-july-31st-august-6th-1-wonder-buns-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918106.3557484
+        "scraped_at": 1753928834.0011356
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918109.1778612
+        "scraped_at": 1753928836.8655183
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918112.0567453
+        "scraped_at": 1753928838.9988961
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918114.484717
+        "scraped_at": 1753928841.0657084
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918117.0097482
+        "scraped_at": 1753928843.500749
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918119.3648255
+        "scraped_at": 1753928846.3933434
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918121.6303878
+        "scraped_at": 1753928848.9811516
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918124.1320276
+        "scraped_at": 1753928851.734318
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918126.360884
+        "scraped_at": 1753928854.258091
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918129.3095384
+        "scraped_at": 1753928856.800066
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918132.2798038
+        "scraped_at": 1753928859.435865
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918134.9672086
+        "scraped_at": 1753928862.0315504
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918137.8752525
+        "scraped_at": 1753928864.5271294
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918140.1965694
+        "scraped_at": 1753928867.0397115
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918142.3686824
+        "scraped_at": 1753928869.7504768
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918144.957545
+        "scraped_at": 1753928872.2747858
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918147.4288156
+        "scraped_at": 1753928874.5079675
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918149.6308162
+        "scraped_at": 1753928876.639575
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753918152.5939848
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada Text Offers: Get 20x The PC Optimum Points When You Spend $75 July 29th and 30th",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-text-offers-get-20x-the-pc-optimum-points-when-you-spend-75-july-29th-and-30th/",
-      "published": "2025-07-28T22:57:48Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753918154.8190334
+        "scraped_at": 1753928879.0749066
       }
     }
   ],
