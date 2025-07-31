@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-31T14:31:38.115576Z",
+  "scraped_at": "2025-07-31T15:32:46.933004Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -21,7 +21,22 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972250.8003757
+        "scraped_at": 1753975920.3457067
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 60% on MAXGROOM PRO 7D Electric Head Shaver for Bald Men + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-41-on-maxgroom-pro-7d-electric-head-shaver-for-bald-men-more/",
+      "published": "2025-07-31T14:00:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753975923.0337715
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972253.2216806
+        "scraped_at": 1753975925.2204008
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972255.2603505
+        "scraped_at": 1753975927.3217857
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972257.3174286
+        "scraped_at": 1753975929.935031
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972259.4963508
+        "scraped_at": 1753975932.4453027
       }
     },
     {
@@ -96,22 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972262.1110725
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 41% on MAXGROOM PRO 7D Electric Head Shaver for Bald Men + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-41-on-maxgroom-pro-7d-electric-head-shaver-for-bald-men-more/",
-      "published": "2025-07-31T00:54:17Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753972264.170706
+        "scraped_at": 1753975935.3710074
       }
     },
     {
@@ -126,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972267.130938
+        "scraped_at": 1753975937.572541
       }
     },
     {
@@ -141,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972269.7122912
+        "scraped_at": 1753975939.784788
       }
     },
     {
@@ -156,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972272.4654744
+        "scraped_at": 1753975942.011903
       }
     },
     {
@@ -171,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972275.3138545
+        "scraped_at": 1753975944.6957426
       }
     },
     {
@@ -186,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972278.3051152
+        "scraped_at": 1753975946.9179626
       }
     },
     {
@@ -201,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972280.5726137
+        "scraped_at": 1753975949.3659146
       }
     },
     {
@@ -216,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972283.4270172
+        "scraped_at": 1753975951.5237002
       }
     },
     {
@@ -231,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972285.9047656
+        "scraped_at": 1753975954.5201807
       }
     },
     {
@@ -246,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972288.2607493
+        "scraped_at": 1753975957.0290003
       }
     },
     {
@@ -261,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972290.584246
+        "scraped_at": 1753975959.407565
       }
     },
     {
@@ -276,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972293.147076
+        "scraped_at": 1753975962.12174
       }
     },
     {
@@ -291,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972295.6477585
+        "scraped_at": 1753975964.7193692
       }
     },
     {
@@ -306,7 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753972298.1154597
+        "scraped_at": 1753975966.9329157
       }
     }
   ],
