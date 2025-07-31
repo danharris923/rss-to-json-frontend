@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-31T21:28:54.185079Z",
+  "scraped_at": "2025-07-31T22:29:54.469559Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Food Basics Ontario: Buy 2 Kellogg’s Family Size Cereal and Get 4 Litres of Milk for Free",
+      "link": "https://smartcanucks.ca/food-basics-ontario-buy-2-kelloggs-family-size-cereal-and-get-4-litres-of-milk-for-free/",
+      "published": "2025-07-31T21:49:35Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754000946.339027
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 64% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-64-on-urmywo-busy-board-for-toddlers-boys-girls-montessori-toys-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997284.4108918
+        "scraped_at": 1754000949.0059013
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997287.2849698
+        "scraped_at": 1754000951.9227264
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997290.085969
+        "scraped_at": 1754000954.5080533
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997292.7368395
+        "scraped_at": 1754000956.569558
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997295.0745845
+        "scraped_at": 1754000958.7366445
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997297.2226555
+        "scraped_at": 1754000961.5528085
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997299.8894365
+        "scraped_at": 1754000964.2968898
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997302.5649374
+        "scraped_at": 1754000966.4729834
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997305.025232
+        "scraped_at": 1754000968.9500868
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997307.8493743
+        "scraped_at": 1754000971.2350013
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997310.6963713
+        "scraped_at": 1754000973.4781418
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997313.3195066
+        "scraped_at": 1754000975.5942886
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997316.3484702
+        "scraped_at": 1754000978.411479
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997318.62056
+        "scraped_at": 1754000980.6980124
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997321.4528801
+        "scraped_at": 1754000983.412402
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997324.1080463
+        "scraped_at": 1754000985.734115
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997326.73061
+        "scraped_at": 1754000988.620154
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997329.3702822
+        "scraped_at": 1754000991.480352
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753997331.841784
-      }
-    },
-    {
-      "title": "Toys R Us Canada: LEGO Go Wild Free Make-and-Take Event August 2nd + More",
-      "link": "https://smartcanucks.ca/toys-r-us-canada-lego-go-wild-free-make-and-take-event-august-2nd-more/",
-      "published": "2025-07-30T12:22:11Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753997334.1849837
+        "scraped_at": 1754000994.4694595
       }
     }
   ],
