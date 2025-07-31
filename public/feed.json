@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-31T13:00:58.529478Z",
+  "scraped_at": "2025-07-31T13:44:25.867535Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "H&M Canada: Sale up to 64% off",
+      "link": "https://smartcanucks.ca/hm-canada-sale-up-to-64-off/",
+      "published": "2025-07-31T13:36:20Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753969418.719268
+      }
+    },
+    {
+      "title": "Gap Canada Back To School Event: 40-60% off Select Styles + Extra 50% off Sale",
+      "link": "https://smartcanucks.ca/gap-canada-back-to-school-event-40-60-off-select-styles-extra-50-off-sale/",
+      "published": "2025-07-31T13:23:56Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753969420.9065413
+      }
+    },
     {
       "title": "Clarins Canada Flash Sale: Save 20% on Moisturizers + Free Gift with Purchase",
       "link": "https://smartcanucks.ca/clarins-canada-flash-sale-save-20-on-moisturizers-free-gift-with-purchase/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966807.752838
+        "scraped_at": 1753969423.4799266
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966810.5474715
+        "scraped_at": 1753969426.281793
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966813.3783557
+        "scraped_at": 1753969429.083169
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966815.8360422
+        "scraped_at": 1753969431.914199
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966818.668587
+        "scraped_at": 1753969434.135447
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966821.6557655
+        "scraped_at": 1753969436.8705
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966824.1104732
+        "scraped_at": 1753969438.927921
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966827.05296
+        "scraped_at": 1753969441.6979847
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966829.2180433
+        "scraped_at": 1753969444.2279878
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966831.773663
+        "scraped_at": 1753969446.8083532
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966834.415008
+        "scraped_at": 1753969449.4606082
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966836.7814178
+        "scraped_at": 1753969451.6757255
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966839.6646857
+        "scraped_at": 1753969453.9213355
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966841.8456059
+        "scraped_at": 1753969456.2538505
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966844.8268828
+        "scraped_at": 1753969458.5138998
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966847.4978755
+        "scraped_at": 1753969460.7602606
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966850.3440378
+        "scraped_at": 1753969463.652024
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753966853.0577574
-      }
-    },
-    {
-      "title": "La Senza Canada: Buy One Get One 50% off Bras + Sale up to 60% off + Extra 20% off Clearance",
-      "link": "https://smartcanucks.ca/la-senza-canada-buy-one-get-one-50-off-bras-sale-up-to-60-off-extra-20-off-clearance/",
-      "published": "2025-07-29T15:52:02Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753966855.8363054
-      }
-    },
-    {
-      "title": "Penningtons Canada: End of Season Sale up to 60% off",
-      "link": "https://smartcanucks.ca/penningtons-canada-end-of-season-sale-up-to-60-off/",
-      "published": "2025-07-29T15:09:21Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753966858.52937
+        "scraped_at": 1753969465.8674028
       }
     }
   ],
