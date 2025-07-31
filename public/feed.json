@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-31T22:29:54.469559Z",
+  "scraped_at": "2025-07-31T23:28:59.596152Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Sobeys Canada: Get 1,000 Scene+ Points When You Buy 6 Select General Mills Products",
+      "link": "https://smartcanucks.ca/sobeys-canada-get-1000-scene-points-when-you-buy-6-select-general-mills-products/",
+      "published": "2025-07-31T22:42:27Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754004488.4594347
+      }
+    },
     {
       "title": "Food Basics Ontario: Buy 2 Kellogg’s Family Size Cereal and Get 4 Litres of Milk for Free",
       "link": "https://smartcanucks.ca/food-basics-ontario-buy-2-kelloggs-family-size-cereal-and-get-4-litres-of-milk-for-free/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000946.339027
+        "scraped_at": 1754004491.2890224
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000949.0059013
+        "scraped_at": 1754004493.621447
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000951.9227264
+        "scraped_at": 1754004496.5833664
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000954.5080533
+        "scraped_at": 1754004498.9337068
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000956.569558
+        "scraped_at": 1754004501.95964
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000958.7366445
+        "scraped_at": 1754004504.2360368
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000961.5528085
+        "scraped_at": 1754004506.464473
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000964.2968898
+        "scraped_at": 1754004509.1405172
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000966.4729834
+        "scraped_at": 1754004512.1164849
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000968.9500868
+        "scraped_at": 1754004514.8849144
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000971.2350013
+        "scraped_at": 1754004517.461349
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000973.4781418
+        "scraped_at": 1754004520.405111
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000975.5942886
+        "scraped_at": 1754004523.4432836
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000978.411479
+        "scraped_at": 1754004526.3841605
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000980.6980124
+        "scraped_at": 1754004529.4604886
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000983.412402
+        "scraped_at": 1754004531.690058
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000985.734115
+        "scraped_at": 1754004534.0266337
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000988.620154
+        "scraped_at": 1754004536.8736947
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754000991.480352
-      }
-    },
-    {
-      "title": "Calvin Klein Canada: End of Season Sale up to $70 off + Extra 20% off $100+",
-      "link": "https://smartcanucks.ca/calvin-klein-canada-end-of-season-sale-up-to-70-off-extra-20-off-100/",
-      "published": "2025-07-30T12:33:07Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754000994.4694595
+        "scraped_at": 1754004539.596073
       }
     }
   ],
