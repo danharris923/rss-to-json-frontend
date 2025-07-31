@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-31T20:33:10.420533Z",
+  "scraped_at": "2025-07-31T21:28:54.185079Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 64% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-64-on-urmywo-busy-board-for-toddlers-boys-girls-montessori-toys-more/",
+      "published": "2025-07-31T20:45:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753997284.4108918
+      }
+    },
     {
       "title": "Harry Rosen Canada: End of Season Sale up to 60% off + Extra 20% off",
       "link": "https://smartcanucks.ca/harry-rosen-canada-end-of-season-sale-up-to-60-off-extra-20-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993942.9450724
+        "scraped_at": 1753997287.2849698
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993945.4617274
+        "scraped_at": 1753997290.085969
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993948.0835607
+        "scraped_at": 1753997292.7368395
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993950.856228
+        "scraped_at": 1753997295.0745845
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993953.3890545
+        "scraped_at": 1753997297.2226555
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993956.2820344
+        "scraped_at": 1753997299.8894365
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993959.0566573
+        "scraped_at": 1753997302.5649374
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993961.5980613
+        "scraped_at": 1753997305.025232
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993963.8326294
+        "scraped_at": 1753997307.8493743
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993965.9721465
+        "scraped_at": 1753997310.6963713
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993968.3201926
+        "scraped_at": 1753997313.3195066
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993971.3174765
+        "scraped_at": 1753997316.3484702
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993974.0128198
+        "scraped_at": 1753997318.62056
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993976.1441104
+        "scraped_at": 1753997321.4528801
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993978.164688
+        "scraped_at": 1753997324.1080463
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993981.0688932
+        "scraped_at": 1753997326.73061
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993984.0140076
+        "scraped_at": 1753997329.3702822
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993986.2747748
+        "scraped_at": 1753997331.841784
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753993988.4022653
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 66% on Hair Dryer Using Promo Code + 35% on Electric Screwdriver Set + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-66-on-hair-dryer-using-promo-code-35-on-electric-screwdriver-set-more/",
-      "published": "2025-07-30T03:25:35Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753993990.420437
+        "scraped_at": 1753997334.1849837
       }
     }
   ],
