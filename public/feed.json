@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-31T02:27:59.075036Z",
+  "scraped_at": "2025-07-31T04:08:21.498777Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 42% on Mac mini M4 Dock & Stand + 50% on Women’s Ribbed Tank Tops + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-mac-mini-m4-dock-stand-50-on-womens-ribbed-tank-tops-more/",
+      "published": "2025-07-31T03:06:33Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1753934852.6451612
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 41% on MAXGROOM PRO 7D Electric Head Shaver for Bald Men + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-41-on-maxgroom-pro-7d-electric-head-shaver-for-bald-men-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928831.9375157
+        "scraped_at": 1753934855.4727116
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928834.0011356
+        "scraped_at": 1753934858.188722
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928836.8655183
+        "scraped_at": 1753934860.304808
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928838.9988961
+        "scraped_at": 1753934863.107482
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928841.0657084
+        "scraped_at": 1753934865.2343657
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928843.500749
+        "scraped_at": 1753934868.2048788
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928846.3933434
+        "scraped_at": 1753934870.6254075
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928848.9811516
+        "scraped_at": 1753934873.099134
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928851.734318
+        "scraped_at": 1753934875.4552999
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928854.258091
+        "scraped_at": 1753934877.8690836
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928856.800066
+        "scraped_at": 1753934880.1329825
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928859.435865
+        "scraped_at": 1753934882.7674577
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928862.0315504
+        "scraped_at": 1753934885.6154563
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928864.5271294
+        "scraped_at": 1753934887.8058276
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928867.0397115
+        "scraped_at": 1753934890.7590015
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928869.7504768
+        "scraped_at": 1753934893.5214868
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928872.2747858
+        "scraped_at": 1753934896.3515475
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928874.5079675
+        "scraped_at": 1753934898.6343875
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1753928876.639575
-      }
-    },
-    {
-      "title": "Sephora Canada: Save up to 50% on Select Lip Products + More",
-      "link": "https://smartcanucks.ca/sephora-canada-save-up-to-50-on-select-lip-products-more/",
-      "published": "2025-07-29T12:55:11Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1753928879.0749066
+        "scraped_at": 1753934901.4986935
       }
     }
   ],
