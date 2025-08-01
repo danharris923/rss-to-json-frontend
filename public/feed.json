@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-01T11:26:32.663747Z",
+  "scraped_at": "2025-08-01T13:01:18.024581Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Karl Lagerfeld Paris Canada Sale: up to 69% off Select Styles",
+      "link": "https://smartcanucks.ca/karl-lagerfeld-paris-canada-sale-up-to-69-off-select-styles/",
+      "published": "2025-08-01T12:54:19Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754053230.5869684
+      }
+    },
     {
       "title": "Shoppers Drug Mart Canada: Super Beauty Redemption August 1st – 5th + More",
       "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-super-beauty-redemption-august-1st-5th-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047544.8806257
+        "scraped_at": 1754053233.4877837
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047547.87792
+        "scraped_at": 1754053235.5858119
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047549.9591188
+        "scraped_at": 1754053238.0010145
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047552.6197982
+        "scraped_at": 1754053240.2663403
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047555.2302663
+        "scraped_at": 1754053242.3052495
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047557.2826834
+        "scraped_at": 1754053244.9973915
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047559.8474693
+        "scraped_at": 1754053247.9039357
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047562.4791927
+        "scraped_at": 1754053250.8783813
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047564.637432
+        "scraped_at": 1754053253.0459077
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047566.7210214
+        "scraped_at": 1754053255.258413
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047568.978997
+        "scraped_at": 1754053257.7573254
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047571.0634944
+        "scraped_at": 1754053260.1564698
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047574.0274637
+        "scraped_at": 1754053263.0091333
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047576.96663
+        "scraped_at": 1754053265.86724
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047579.8392632
+        "scraped_at": 1754053268.0387528
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047582.7952616
+        "scraped_at": 1754053270.3368757
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047585.5581605
+        "scraped_at": 1754053272.9234052
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047587.7758594
+        "scraped_at": 1754053275.160914
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754047590.1550229
-      }
-    },
-    {
-      "title": "American Eagle & Aerie Canada: 30% off All Jeans and Pants + 50-70% off Clearance",
-      "link": "https://smartcanucks.ca/american-eagle-aerie-canada-30-off-all-jeans-and-pants-50-70-off-clearance/",
-      "published": "2025-07-30T14:03:34Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754047592.6636603
+        "scraped_at": 1754053278.0244894
       }
     }
   ],
