@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-01T14:31:07.437122Z",
+  "scraped_at": "2025-08-01T15:32:22.000845Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "HOKA Canada: 20% off Select Sale Styles",
+      "link": "https://smartcanucks.ca/hoka-canada-20-off-select-sale-styles/",
+      "published": "2025-08-01T15:06:55Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754062291.9524035
+      }
+    },
+    {
+      "title": "Hunter Boots Canada: Extra 15% off Sale Styles with Promo Code",
+      "link": "https://smartcanucks.ca/hunter-boots-canada-extra-15-off-sale-styles-with-promo-code/",
+      "published": "2025-08-01T14:44:41Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754062294.3731725
+      }
+    },
     {
       "title": "Mountain Warehouse Canada: Sale up to 60% off + Extra 20% off Sitewide with Promo Code",
       "link": "https://smartcanucks.ca/mountain-warehouse-canada-sale-up-to-60-off-extra-20-off-sitewide-with-promo-code/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058618.9556758
+        "scraped_at": 1754062297.0591495
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058621.2888741
+        "scraped_at": 1754062299.7817152
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058624.2801018
+        "scraped_at": 1754062302.7420635
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058626.65318
+        "scraped_at": 1754062305.1734223
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058628.9248855
+        "scraped_at": 1754062308.0204113
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058631.3735626
+        "scraped_at": 1754062310.7971165
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058633.95361
+        "scraped_at": 1754062313.346606
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058636.9063306
+        "scraped_at": 1754062315.3739176
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058639.4429886
+        "scraped_at": 1754062318.2452378
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058641.5731606
+        "scraped_at": 1754062321.0463066
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058643.7224216
+        "scraped_at": 1754062323.676575
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058646.7268379
+        "scraped_at": 1754062326.227251
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058649.0866895
+        "scraped_at": 1754062328.6534662
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058651.5309343
+        "scraped_at": 1754062330.8743842
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058654.4701958
+        "scraped_at": 1754062333.4117982
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058657.35393
+        "scraped_at": 1754062336.4243827
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058659.540159
+        "scraped_at": 1754062339.4183066
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754058661.5998967
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 48% on GKLPO Mini Projector with Built-in Apps Using Promo Code + More Offers",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-48-on-gklpo-mini-projector-with-built-in-apps-using-promo-code-more-offers/",
-      "published": "2025-07-30T18:53:07Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754058664.4733877
-      }
-    },
-    {
-      "title": "Ardene Canada: Sale up to 50% off + Swim Styles for $8",
-      "link": "https://smartcanucks.ca/ardene-canada-sale-up-to-50-off-swim-styles-for-8/",
-      "published": "2025-07-30T15:31:30Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754058667.4369922
+        "scraped_at": 1754062342.0007136
       }
     }
   ],
