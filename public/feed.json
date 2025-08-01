@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-01T13:43:34.963373Z",
+  "scraped_at": "2025-08-01T14:31:07.437122Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Mountain Warehouse Canada: Sale up to 60% off + Extra 20% off Sitewide with Promo Code",
+      "link": "https://smartcanucks.ca/mountain-warehouse-canada-sale-up-to-60-off-extra-20-off-sitewide-with-promo-code/",
+      "published": "2025-08-01T14:09:55Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754058618.9556758
+      }
+    },
+    {
+      "title": "Honey Canada: Summer Sale up to 70% off",
+      "link": "https://smartcanucks.ca/honey-canada-summer-sale-up-to-70-off/",
+      "published": "2025-08-01T13:59:50Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754058621.2888741
+      }
+    },
     {
       "title": "Karl Lagerfeld Paris Canada Sale: up to 69% off Select Styles",
       "link": "https://smartcanucks.ca/karl-lagerfeld-paris-canada-sale-up-to-69-off-select-styles/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055764.8924825
+        "scraped_at": 1754058624.2801018
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055767.47697
+        "scraped_at": 1754058626.65318
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055769.6117506
+        "scraped_at": 1754058628.9248855
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055772.5027633
+        "scraped_at": 1754058631.3735626
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055774.5854661
+        "scraped_at": 1754058633.95361
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055777.273819
+        "scraped_at": 1754058636.9063306
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055779.9276617
+        "scraped_at": 1754058639.4429886
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055782.610169
+        "scraped_at": 1754058641.5731606
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055784.6893935
+        "scraped_at": 1754058643.7224216
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055787.6253364
+        "scraped_at": 1754058646.7268379
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055790.594237
+        "scraped_at": 1754058649.0866895
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055793.5899727
+        "scraped_at": 1754058651.5309343
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055795.909094
+        "scraped_at": 1754058654.4701958
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055798.6534379
+        "scraped_at": 1754058657.35393
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055801.662159
+        "scraped_at": 1754058659.540159
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055804.6687024
+        "scraped_at": 1754058661.5998967
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055807.044162
+        "scraped_at": 1754058664.4733877
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754055809.4686284
-      }
-    },
-    {
-      "title": "Bloomingdale’s Canada: Designer Sale up to 60% off + Clearance up to 75% off",
-      "link": "https://smartcanucks.ca/bloomingdales-canada-designer-sale-up-to-60-off-clearance-up-to-75-off/",
-      "published": "2025-07-30T15:15:42Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754055812.0473113
-      }
-    },
-    {
-      "title": "Anna Bella Canada: End or Season Sale up to 70% off + Free Shipping on All Orders",
-      "link": "https://smartcanucks.ca/anna-bella-canada-end-or-season-sale-up-to-70-off-free-shipping-on-all-orders/",
-      "published": "2025-07-30T14:22:12Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754055814.9632876
+        "scraped_at": 1754058667.4369922
       }
     }
   ],
