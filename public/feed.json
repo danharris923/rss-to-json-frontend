@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-07-31T23:28:59.596152Z",
+  "scraped_at": "2025-08-01T02:39:53.852537Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Shoppers Drug Mart Canada: Super Beauty Redemption August 1st – 5th + More",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-super-beauty-redemption-august-1st-5th-more/",
+      "published": "2025-08-01T00:35:21Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754015945.6069634
+      }
+    },
     {
       "title": "Sobeys Canada: Get 1,000 Scene+ Points When You Buy 6 Select General Mills Products",
       "link": "https://smartcanucks.ca/sobeys-canada-get-1000-scene-points-when-you-buy-6-select-general-mills-products/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004488.4594347
+        "scraped_at": 1754015948.4765146
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004491.2890224
+        "scraped_at": 1754015951.0300484
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004493.621447
+        "scraped_at": 1754015954.0232747
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004496.5833664
+        "scraped_at": 1754015956.9131317
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004498.9337068
+        "scraped_at": 1754015959.239577
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004501.95964
+        "scraped_at": 1754015961.8541725
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004504.2360368
+        "scraped_at": 1754015964.4665935
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004506.464473
+        "scraped_at": 1754015967.3326943
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004509.1405172
+        "scraped_at": 1754015969.588675
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004512.1164849
+        "scraped_at": 1754015972.1569612
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004514.8849144
+        "scraped_at": 1754015974.3423042
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004517.461349
+        "scraped_at": 1754015976.855268
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004520.405111
+        "scraped_at": 1754015979.0100963
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004523.4432836
+        "scraped_at": 1754015981.6677449
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004526.3841605
+        "scraped_at": 1754015983.759117
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004529.4604886
+        "scraped_at": 1754015986.1675289
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004531.690058
+        "scraped_at": 1754015988.9498324
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004534.0266337
+        "scraped_at": 1754015991.589331
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754004536.8736947
-      }
-    },
-    {
-      "title": "PlayStation Plus Canada FREE Monthly Games: Lies of P, Day Z, and More",
-      "link": "https://smartcanucks.ca/playstation-plus-canada-free-monthly-games-lies-of-p-day-z-and-more/",
-      "published": "2025-07-30T12:47:03Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754004539.596073
+        "scraped_at": 1754015993.8524344
       }
     }
   ],
