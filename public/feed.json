@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-01T16:38:20.316058Z",
+  "scraped_at": "2025-08-01T17:30:10.224935Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Zwilling Canada: Long Weekend Sale up to 60% off + Bundle Deals",
+      "link": "https://smartcanucks.ca/zwilling-canada-long-weekend-sale-up-to-60-off-bundle-deals/",
+      "published": "2025-08-01T16:50:15Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754069362.149545
+      }
+    },
     {
       "title": "Geox Canada: Extra 20% off Sale + Free Shipping on All Orders",
       "link": "https://smartcanucks.ca/geox-canada-extra-20-off-sale-free-shipping-on-all-orders/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066253.827925
+        "scraped_at": 1754069364.8309321
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066255.9169102
+        "scraped_at": 1754069367.5289156
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066258.9534957
+        "scraped_at": 1754069369.9190607
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066261.9947705
+        "scraped_at": 1754069372.0323017
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066264.5029929
+        "scraped_at": 1754069374.3401253
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066266.583937
+        "scraped_at": 1754069377.1517506
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066268.953559
+        "scraped_at": 1754069379.3374555
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066271.271462
+        "scraped_at": 1754069382.282623
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066273.9671705
+        "scraped_at": 1754069384.9112074
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066276.516977
+        "scraped_at": 1754069387.4737825
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066278.98689
+        "scraped_at": 1754069389.8138783
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066281.0905054
+        "scraped_at": 1754069392.0128498
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066283.197041
+        "scraped_at": 1754069394.9909863
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066285.4901443
+        "scraped_at": 1754069397.1891353
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066287.5745213
+        "scraped_at": 1754069400.0853577
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066290.0187054
+        "scraped_at": 1754069403.1234212
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066292.9331205
+        "scraped_at": 1754069405.5777454
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066295.7724218
+        "scraped_at": 1754069407.924323
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754066298.0280762
-      }
-    },
-    {
-      "title": "Real Canadian Superstore Ontario Flyer Deals + Bonus Redemption July 31st – August 6th",
-      "link": "https://smartcanucks.ca/real-canadian-superstore-ontario-flyer-deals-bonus-redemption-july-31st-august-6th/",
-      "published": "2025-07-30T22:33:09Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754066300.3159447
+        "scraped_at": 1754069410.2248027
       }
     }
   ],
