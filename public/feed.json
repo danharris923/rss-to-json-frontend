@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-01T20:32:02.898090Z",
+  "scraped_at": "2025-08-01T21:28:12.576996Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 7% on XREXS 14.5″ Digital Wall Clock Battery Operated + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-7-on-xrexs-14-5-digital-wall-clock-battery-operated-more/",
+      "published": "2025-08-01T20:59:19Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754083645.677734
+      }
+    },
     {
       "title": "Zwilling Canada: Long Weekend Sale up to 60% off + Bundle Deals",
       "link": "https://smartcanucks.ca/zwilling-canada-long-weekend-sale-up-to-60-off-bundle-deals/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080273.6403964
+        "scraped_at": 1754083648.0790253
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080276.0038831
+        "scraped_at": 1754083651.0917737
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080278.492165
+        "scraped_at": 1754083653.272367
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080281.4060926
+        "scraped_at": 1754083656.1846063
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080284.2500608
+        "scraped_at": 1754083658.2292423
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080286.4634752
+        "scraped_at": 1754083660.860944
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080289.162901
+        "scraped_at": 1754083663.3094022
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080292.1020253
+        "scraped_at": 1754083665.9061823
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080294.427503
+        "scraped_at": 1754083668.7053726
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080297.023792
+        "scraped_at": 1754083670.8845286
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080299.0942287
+        "scraped_at": 1754083673.0982847
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080301.9569554
+        "scraped_at": 1754083675.5299547
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080304.287735
+        "scraped_at": 1754083678.413808
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080306.530209
+        "scraped_at": 1754083680.5742753
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080309.3170056
+        "scraped_at": 1754083682.7383156
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080311.8167212
+        "scraped_at": 1754083685.2237277
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080314.714813
+        "scraped_at": 1754083687.6949253
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080317.2972424
+        "scraped_at": 1754083689.8324697
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754080320.0184648
-      }
-    },
-    {
-      "title": "No Frills Ontario Flyer Deals July 31st – August 6th: $1 Wonder Buns + More",
-      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-july-31st-august-6th-1-wonder-buns-more/",
-      "published": "2025-07-30T23:19:32Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754080322.8979661
+        "scraped_at": 1754083692.576833
       }
     }
   ],
