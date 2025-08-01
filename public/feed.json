@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-01T15:32:22.000845Z",
+  "scraped_at": "2025-08-01T16:38:20.316058Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Geox Canada: Extra 20% off Sale + Free Shipping on All Orders",
+      "link": "https://smartcanucks.ca/geox-canada-extra-20-off-sale-free-shipping-on-all-orders/",
+      "published": "2025-08-01T15:51:51Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754066253.827925
+      }
+    },
     {
       "title": "HOKA Canada: 20% off Select Sale Styles",
       "link": "https://smartcanucks.ca/hoka-canada-20-off-select-sale-styles/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062291.9524035
+        "scraped_at": 1754066255.9169102
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062294.3731725
+        "scraped_at": 1754066258.9534957
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062297.0591495
+        "scraped_at": 1754066261.9947705
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062299.7817152
+        "scraped_at": 1754066264.5029929
       }
     },
     {
@@ -81,7 +96,22 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062302.7420635
+        "scraped_at": 1754066266.583937
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 63% on GKLPO Mini Projector with Built-in Apps Using Promo Code + More Offers",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-48-on-gklpo-mini-projector-with-built-in-apps-using-promo-code-more-offers/",
+      "published": "2025-08-01T12:50:07Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754066268.953559
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062305.1734223
+        "scraped_at": 1754066271.271462
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062308.0204113
+        "scraped_at": 1754066273.9671705
       }
     },
     {
@@ -126,11 +156,11 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062310.7971165
+        "scraped_at": 1754066276.516977
       }
     },
     {
-      "title": "Amazon Canada Deals: Save 64% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
+      "title": "Amazon Canada Deals: Save 50% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-64-on-urmywo-busy-board-for-toddlers-boys-girls-montessori-toys-more/",
       "published": "2025-07-31T20:45:50Z",
       "affiliate_processed": false,
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062313.346606
+        "scraped_at": 1754066278.98689
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062315.3739176
+        "scraped_at": 1754066281.0905054
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062318.2452378
+        "scraped_at": 1754066283.197041
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062321.0463066
+        "scraped_at": 1754066285.4901443
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062323.676575
+        "scraped_at": 1754066287.5745213
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062326.227251
+        "scraped_at": 1754066290.0187054
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062328.6534662
+        "scraped_at": 1754066292.9331205
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062330.8743842
+        "scraped_at": 1754066295.7724218
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062333.4117982
+        "scraped_at": 1754066298.0280762
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754062336.4243827
-      }
-    },
-    {
-      "title": "Walmart Canada Flyer Deals July 31st – August 6th: Pint of Blueberries $1.44 + More",
-      "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-july-31st-august-6th-pint-of-blueberries-1-44-more/",
-      "published": "2025-07-30T22:01:19Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754062339.4183066
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 64% on URMYWO Busy Board for Toddlers + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-64-on-urmywo-busy-board-for-toddlers-more/",
-      "published": "2025-07-30T19:37:46Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754062342.0007136
+        "scraped_at": 1754066300.3159447
       }
     }
   ],
