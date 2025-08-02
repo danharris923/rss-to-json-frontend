@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-02T13:37:29.443236Z",
+  "scraped_at": "2025-08-02T14:27:22.115935Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 50% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-urmywo-busy-board-for-toddlers-boys-girls-montessori-toys-more/",
+      "published": "2025-08-02T14:00:21Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754144792.6140728
+      }
+    },
+    {
+      "title": "Jysk Canada Summer Clearance Sale: Save 20-60% on Summer Merchandise",
+      "link": "https://smartcanucks.ca/jysk-canada-summer-clearance-sale-save-20-60-on-summer-merchandise/",
+      "published": "2025-08-02T13:45:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754144794.794091
+      }
+    },
     {
       "title": "Best Buy Canada Boxing Day in Summer Deals Save up to $250 on Select Chromebook Plus Laptops + More",
       "link": "https://smartcanucks.ca/best-buy-canada-boxing-day-in-summer-deals-save-up-to-250-on-select-chromebook-plus-laptops-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141800.6896913
+        "scraped_at": 1754144797.7927527
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141803.4046125
+        "scraped_at": 1754144800.4424822
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141806.2602222
+        "scraped_at": 1754144803.3560917
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141808.6891232
+        "scraped_at": 1754144806.0434008
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141811.2746627
+        "scraped_at": 1754144808.778706
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141813.672
+        "scraped_at": 1754144811.4105945
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141815.8353276
+        "scraped_at": 1754144813.5655053
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141818.085587
+        "scraped_at": 1754144816.2624419
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141821.0938246
+        "scraped_at": 1754144819.0021462
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141823.7189796
+        "scraped_at": 1754144821.394836
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141826.5208015
+        "scraped_at": 1754144824.2604349
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141828.7745714
+        "scraped_at": 1754144826.5009973
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141831.576742
+        "scraped_at": 1754144828.6813471
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141834.1624775
+        "scraped_at": 1754144831.5648918
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141837.0130415
+        "scraped_at": 1754144833.876543
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141839.2680724
+        "scraped_at": 1754144836.5633307
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141841.6072655
+        "scraped_at": 1754144839.1938236
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754141843.7271006
-      }
-    },
-    {
-      "title": "Gap Canada Back To School Event: 40-60% off Select Styles + Extra 50% off Sale",
-      "link": "https://smartcanucks.ca/gap-canada-back-to-school-event-40-60-off-select-styles-extra-50-off-sale/",
-      "published": "2025-07-31T13:23:56Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754141846.5110085
-      }
-    },
-    {
-      "title": "Clarins Canada Flash Sale: Save 20% on Moisturizers + Free Gift with Purchase",
-      "link": "https://smartcanucks.ca/clarins-canada-flash-sale-save-20-on-moisturizers-free-gift-with-purchase/",
-      "published": "2025-07-31T12:36:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754141849.4431145
+        "scraped_at": 1754144842.1158068
       }
     }
   ],
