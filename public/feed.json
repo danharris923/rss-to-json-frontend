@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-02T12:56:01.551073Z",
+  "scraped_at": "2025-08-02T13:37:29.443236Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Best Buy Canada Boxing Day in Summer Deals Save up to $250 on Select Chromebook Plus Laptops + More",
+      "link": "https://smartcanucks.ca/best-buy-canada-boxing-day-in-summer-deals-save-up-to-250-on-select-chromebook-plus-laptops-more/",
+      "published": "2025-08-02T13:30:59Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754141800.6896913
+      }
+    },
+    {
+      "title": "Michaels Canada: 30% off One Regular Price Item + 20% off for Teachers + Weekly Deals",
+      "link": "https://smartcanucks.ca/michaels-canada-30-off-one-regular-price-item-20-off-for-teachers-weekly-deals/",
+      "published": "2025-08-02T13:15:09Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754141803.4046125
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 7% on XREXS 14.5″ Digital Wall Clock Battery Operated + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-7-on-xrexs-14-5-digital-wall-clock-battery-operated-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139312.8593447
+        "scraped_at": 1754141806.2602222
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139315.2875342
+        "scraped_at": 1754141808.6891232
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139318.0950718
+        "scraped_at": 1754141811.2746627
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139320.8740807
+        "scraped_at": 1754141813.672
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139323.64506
+        "scraped_at": 1754141815.8353276
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139326.4538734
+        "scraped_at": 1754141818.085587
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139328.71205
+        "scraped_at": 1754141821.0938246
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139331.5165296
+        "scraped_at": 1754141823.7189796
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139333.8638077
+        "scraped_at": 1754141826.5208015
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139336.11069
+        "scraped_at": 1754141828.7745714
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139339.108197
+        "scraped_at": 1754141831.576742
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139341.741169
+        "scraped_at": 1754141834.1624775
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139343.9118981
+        "scraped_at": 1754141837.0130415
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139346.089649
+        "scraped_at": 1754141839.2680724
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139349.0529947
+        "scraped_at": 1754141841.6072655
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139351.5570555
+        "scraped_at": 1754141843.7271006
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139353.892612
+        "scraped_at": 1754141846.5110085
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754139356.855073
-      }
-    },
-    {
-      "title": "Eddie Bauer Canada: Clearance up to 70% off + Extra 50% off",
-      "link": "https://smartcanucks.ca/eddie-bauer-canada-clearance-up-to-70-off-extra-50-off/",
-      "published": "2025-07-31T12:28:04Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754139359.391162
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 42% on Mac mini M4 Dock & Stand + 50% on Women’s Ribbed Tank Tops + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-mac-mini-m4-dock-stand-50-on-womens-ribbed-tank-tops-more/",
-      "published": "2025-07-31T03:06:33Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754139361.5509274
+        "scraped_at": 1754141849.4431145
       }
     }
   ],
