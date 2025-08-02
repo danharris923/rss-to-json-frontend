@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-02T22:28:17.133303Z",
+  "scraped_at": "2025-08-02T23:29:12.003687Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Loblaws Ontario: August Hits of the Month + Flyer Deals",
+      "link": "https://smartcanucks.ca/loblaws-ontario-august-hits-of-the-month-flyer-deals/",
+      "published": "2025-08-02T23:25:42Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754177307.0821676
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 50% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-urmywo-busy-board-for-toddlers-boys-girls-montessori-toys-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173647.9685287
+        "scraped_at": 1754177309.314524
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173650.5134068
+        "scraped_at": 1754177311.7464504
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173653.5046542
+        "scraped_at": 1754177314.0324843
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173656.1661446
+        "scraped_at": 1754177316.4148533
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173659.037678
+        "scraped_at": 1754177318.7488403
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173661.906649
+        "scraped_at": 1754177321.1714003
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173664.8142335
+        "scraped_at": 1754177323.2282393
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173667.4461777
+        "scraped_at": 1754177326.1350558
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173670.130466
+        "scraped_at": 1754177328.3723269
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173672.3195071
+        "scraped_at": 1754177330.673304
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173675.0187266
+        "scraped_at": 1754177332.7316804
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173677.393814
+        "scraped_at": 1754177335.0487075
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173680.3169427
+        "scraped_at": 1754177337.1705513
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173683.1107826
+        "scraped_at": 1754177339.30914
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173685.2656064
+        "scraped_at": 1754177342.2064424
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173688.153188
+        "scraped_at": 1754177344.6056392
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173690.3499582
+        "scraped_at": 1754177346.7814288
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173692.6096117
+        "scraped_at": 1754177349.7114046
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754173694.8299313
-      }
-    },
-    {
-      "title": "H&M Canada: Sale up to 64% off",
-      "link": "https://smartcanucks.ca/hm-canada-sale-up-to-64-off/",
-      "published": "2025-07-31T13:36:20Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754173697.1331651
+        "scraped_at": 1754177352.0036054
       }
     }
   ],
