@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-03T21:27:34.787986Z",
+  "scraped_at": "2025-08-03T22:29:08.061389Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Baskin Robbins Canada New Coupons: BOGO 50% Off Scoops + $1 off Frozen Beverage",
+      "link": "https://smartcanucks.ca/baskin-robbins-canada-new-coupons-bogo-50-off-scoops-1-off-frozen-beverage-5/",
+      "published": "2025-08-03T22:01:52Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754260099.3492723
+      }
+    },
     {
       "title": "Lovisa Canada: Buy 2 Get 2 Free + Free Jewellery Box When You Spend $40 or More",
       "link": "https://smartcanucks.ca/lovisa-canada-buy-2-get-2-free-free-jewellery-box-when-you-spend-40-or-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256403.8773208
+        "scraped_at": 1754260101.8967304
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256405.912595
+        "scraped_at": 1754260104.2149158
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256408.3683817
+        "scraped_at": 1754260107.1242359
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256410.688518
+        "scraped_at": 1754260109.4495366
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256413.0313725
+        "scraped_at": 1754260112.4513168
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256415.8429534
+        "scraped_at": 1754260115.013069
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256418.586524
+        "scraped_at": 1754260117.4650345
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256421.2670705
+        "scraped_at": 1754260119.5904157
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256424.1730745
+        "scraped_at": 1754260122.0830138
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256426.6895328
+        "scraped_at": 1754260124.2786825
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256429.6003654
+        "scraped_at": 1754260127.148833
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256432.511763
+        "scraped_at": 1754260129.7964153
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256435.0950975
+        "scraped_at": 1754260132.0722072
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256438.0361845
+        "scraped_at": 1754260134.9828444
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256440.7315252
+        "scraped_at": 1754260137.7281272
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256443.4117415
+        "scraped_at": 1754260140.2170432
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256446.3554318
+        "scraped_at": 1754260142.8251123
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256449.1929119
+        "scraped_at": 1754260145.0625472
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754256451.9790802
-      }
-    },
-    {
-      "title": "Food Basics Ontario: Buy 2 Kellogg’s Family Size Cereal and Get 4 Litres of Milk for Free",
-      "link": "https://smartcanucks.ca/food-basics-ontario-buy-2-kelloggs-family-size-cereal-and-get-4-litres-of-milk-for-free/",
-      "published": "2025-07-31T21:49:35Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754256454.7878313
+        "scraped_at": 1754260148.0612705
       }
     }
   ],
