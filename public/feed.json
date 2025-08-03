@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-03T22:29:08.061389Z",
+  "scraped_at": "2025-08-03T23:29:00.602604Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 50% on UK Travel Plug Adapter with USB C + 63% on Portable Bluetooth Speaker + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-uk-travel-plug-adapter-with-usb-c-63-on-portable-bluetooth-speaker-more/",
+      "published": "2025-08-03T22:32:35Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754263693.678672
+      }
+    },
     {
       "title": "Baskin Robbins Canada New Coupons: BOGO 50% Off Scoops + $1 off Frozen Beverage",
       "link": "https://smartcanucks.ca/baskin-robbins-canada-new-coupons-bogo-50-off-scoops-1-off-frozen-beverage-5/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260099.3492723
+        "scraped_at": 1754263696.0004368
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260101.8967304
+        "scraped_at": 1754263698.1083894
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260104.2149158
+        "scraped_at": 1754263700.8352299
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260107.1242359
+        "scraped_at": 1754263703.4776883
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260109.4495366
+        "scraped_at": 1754263706.3716245
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260112.4513168
+        "scraped_at": 1754263708.679994
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260115.013069
+        "scraped_at": 1754263711.6345577
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260117.4650345
+        "scraped_at": 1754263713.9512382
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260119.5904157
+        "scraped_at": 1754263716.3302784
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260122.0830138
+        "scraped_at": 1754263718.970454
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260124.2786825
+        "scraped_at": 1754263721.6991005
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260127.148833
+        "scraped_at": 1754263724.0326257
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260129.7964153
+        "scraped_at": 1754263727.0450435
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260132.0722072
+        "scraped_at": 1754263729.40063
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260134.9828444
+        "scraped_at": 1754263731.5236208
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260137.7281272
+        "scraped_at": 1754263733.5835505
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260140.2170432
+        "scraped_at": 1754263736.0965197
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260142.8251123
+        "scraped_at": 1754263738.438361
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754260145.0625472
-      }
-    },
-    {
-      "title": "Sobeys Canada: Get 1,000 Scene+ Points When You Buy 6 Select General Mills Products",
-      "link": "https://smartcanucks.ca/sobeys-canada-get-1000-scene-points-when-you-buy-6-select-general-mills-products/",
-      "published": "2025-07-31T22:42:27Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754260148.0612705
+        "scraped_at": 1754263740.6024997
       }
     }
   ],
