@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-02T23:29:12.003687Z",
+  "scraped_at": "2025-08-03T02:38:29.683764Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings Until August 6th",
+      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-until-august-6th/",
+      "published": "2025-08-03T00:16:56Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754188661.7135947
+      }
+    },
     {
       "title": "Loblaws Ontario: August Hits of the Month + Flyer Deals",
       "link": "https://smartcanucks.ca/loblaws-ontario-august-hits-of-the-month-flyer-deals/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177307.0821676
+        "scraped_at": 1754188663.8604448
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177309.314524
+        "scraped_at": 1754188665.8924208
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177311.7464504
+        "scraped_at": 1754188668.2767851
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177314.0324843
+        "scraped_at": 1754188671.104038
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177316.4148533
+        "scraped_at": 1754188673.861806
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177318.7488403
+        "scraped_at": 1754188676.1040382
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177321.1714003
+        "scraped_at": 1754188678.8338609
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177323.2282393
+        "scraped_at": 1754188681.3702166
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177326.1350558
+        "scraped_at": 1754188684.1387694
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177328.3723269
+        "scraped_at": 1754188686.1578996
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177330.673304
+        "scraped_at": 1754188688.9563396
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177332.7316804
+        "scraped_at": 1754188691.1755621
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177335.0487075
+        "scraped_at": 1754188694.178263
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177337.1705513
+        "scraped_at": 1754188696.7850263
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177339.30914
+        "scraped_at": 1754188699.2095575
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177342.2064424
+        "scraped_at": 1754188701.4917436
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177344.6056392
+        "scraped_at": 1754188704.4968007
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177346.7814288
+        "scraped_at": 1754188706.87561
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754177349.7114046
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 60% on MAXGROOM PRO 7D Electric Head Shaver for Bald Men + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-41-on-maxgroom-pro-7d-electric-head-shaver-for-bald-men-more/",
-      "published": "2025-07-31T14:00:17Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754177352.0036054
+        "scraped_at": 1754188709.6836839
       }
     }
   ],
