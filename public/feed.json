@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-03T13:37:59.409698Z",
+  "scraped_at": "2025-08-03T14:26:45.563607Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Lovisa Canada: Buy 2 Get 2 Free + Free Jewellery Box When You Spend $40 or More",
+      "link": "https://smartcanucks.ca/lovisa-canada-buy-2-get-2-free-free-jewellery-box-when-you-spend-40-or-more/",
+      "published": "2025-08-03T13:45:52Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754231155.7996602
+      }
+    },
     {
       "title": "Lenovo Canada: Weekly Deals and Doorbusters",
       "link": "https://smartcanucks.ca/lenovo-canada-weekly-deals-and-doorbusters/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228231.130132
+        "scraped_at": 1754231158.300973
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228233.9338202
+        "scraped_at": 1754231160.824221
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228236.8904214
+        "scraped_at": 1754231163.846976
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228239.4686966
+        "scraped_at": 1754231166.6148756
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228242.132125
+        "scraped_at": 1754231168.675785
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228245.051948
+        "scraped_at": 1754231171.675275
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228247.4729168
+        "scraped_at": 1754231174.7068856
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228250.271612
+        "scraped_at": 1754231176.8999472
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228252.3586059
+        "scraped_at": 1754231179.660522
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228254.7231352
+        "scraped_at": 1754231182.0330856
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228256.7577415
+        "scraped_at": 1754231184.745601
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228259.0915062
+        "scraped_at": 1754231187.6701148
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228261.6751473
+        "scraped_at": 1754231190.563112
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228263.8425553
+        "scraped_at": 1754231192.9934795
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228266.7021794
+        "scraped_at": 1754231195.6125834
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228269.1059456
+        "scraped_at": 1754231198.4393175
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228271.8592968
+        "scraped_at": 1754231200.4961998
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228274.3393574
+        "scraped_at": 1754231202.9917946
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754228276.7001994
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 50% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-64-on-urmywo-busy-board-for-toddlers-boys-girls-montessori-toys-more/",
-      "published": "2025-07-31T20:45:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754228279.4095652
+        "scraped_at": 1754231205.5634513
       }
     }
   ],
