@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-03T12:59:00.984940Z",
+  "scraped_at": "2025-08-03T13:37:59.409698Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Lenovo Canada: Weekly Deals and Doorbusters",
+      "link": "https://smartcanucks.ca/lenovo-canada-weekly-deals-and-doorbusters/",
+      "published": "2025-08-03T13:30:41Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754228231.130132
+      }
+    },
     {
       "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings Until August 6th",
       "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-until-august-6th/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225894.5117812
+        "scraped_at": 1754228233.9338202
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225896.6841693
+        "scraped_at": 1754228236.8904214
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225899.232609
+        "scraped_at": 1754228239.4686966
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225902.0344539
+        "scraped_at": 1754228242.132125
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225904.69448
+        "scraped_at": 1754228245.051948
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225906.9091895
+        "scraped_at": 1754228247.4729168
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225909.2705364
+        "scraped_at": 1754228250.271612
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225911.708544
+        "scraped_at": 1754228252.3586059
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225914.1413078
+        "scraped_at": 1754228254.7231352
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225916.7507527
+        "scraped_at": 1754228256.7577415
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225918.848612
+        "scraped_at": 1754228259.0915062
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225921.261012
+        "scraped_at": 1754228261.6751473
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225923.296423
+        "scraped_at": 1754228263.8425553
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225925.5469296
+        "scraped_at": 1754228266.7021794
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225927.8849406
+        "scraped_at": 1754228269.1059456
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225930.8740892
+        "scraped_at": 1754228271.8592968
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225933.3074596
+        "scraped_at": 1754228274.3393574
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225935.7709212
+        "scraped_at": 1754228276.7001994
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754225937.995639
-      }
-    },
-    {
-      "title": "Harry Rosen Canada: End of Season Sale up to 60% off + Extra 20% off",
-      "link": "https://smartcanucks.ca/harry-rosen-canada-end-of-season-sale-up-to-60-off-extra-20-off/",
-      "published": "2025-07-31T14:10:17Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754225940.9848192
+        "scraped_at": 1754228279.4095652
       }
     }
   ],
