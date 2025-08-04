@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-04T13:50:18.634938Z",
+  "scraped_at": "2025-08-04T14:34:06.337191Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Herman Miller Canada: Living Room Sale 20% off + Sale up to 30% off",
+      "link": "https://smartcanucks.ca/herman-miller-canada-living-room-sale-20-off-sale-up-to-30-off/",
+      "published": "2025-08-04T14:31:22Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754317998.774251
+      }
+    },
+    {
+      "title": "Reebok Canada Mid Summer Sale: Save up to 30% off Select Styles + Extra 30% off Sale",
+      "link": "https://smartcanucks.ca/reebok-canada-mid-summer-sale-save-up-to-30-off-select-styles-including-sale/",
+      "published": "2025-08-04T14:20:40Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754318000.8931065
+      }
+    },
     {
       "title": "Mark’s Canada: End of Season Clearance up to 70% off",
       "link": "https://smartcanucks.ca/marks-canada-end-of-season-clearance-up-to-70-off/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315372.528618
+        "scraped_at": 1754318003.798887
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315375.0335
+        "scraped_at": 1754318006.7144861
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315377.231915
+        "scraped_at": 1754318009.161076
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315379.832528
+        "scraped_at": 1754318011.3615758
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315382.6043637
+        "scraped_at": 1754318014.2694693
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315384.6348937
+        "scraped_at": 1754318016.6533883
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315387.3740819
+        "scraped_at": 1754318019.5850062
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315389.4315395
+        "scraped_at": 1754318021.6892033
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315391.9956334
+        "scraped_at": 1754318024.4135258
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315394.3072646
+        "scraped_at": 1754318027.265032
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315396.936243
+        "scraped_at": 1754318030.237202
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315399.2556875
+        "scraped_at": 1754318032.955334
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315401.7570462
+        "scraped_at": 1754318035.222725
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315404.2724936
+        "scraped_at": 1754318037.6861076
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315406.7596343
+        "scraped_at": 1754318039.7444537
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315408.9371665
+        "scraped_at": 1754318041.973809
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315411.2424088
+        "scraped_at": 1754318044.202825
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754315413.7697794
-      }
-    },
-    {
-      "title": "Geox Canada: Extra 20% off Sale + Free Shipping on All Orders",
-      "link": "https://smartcanucks.ca/geox-canada-extra-20-off-sale-free-shipping-on-all-orders/",
-      "published": "2025-08-01T15:51:51Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754315416.159629
-      }
-    },
-    {
-      "title": "HOKA Canada: 20% off Select Sale Styles",
-      "link": "https://smartcanucks.ca/hoka-canada-20-off-select-sale-styles/",
-      "published": "2025-08-01T15:06:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754315418.6348348
+        "scraped_at": 1754318046.3370576
       }
     }
   ],
