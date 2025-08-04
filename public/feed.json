@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-04T15:33:53.374046Z",
+  "scraped_at": "2025-08-04T16:40:17.215100Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 45% on 3 in 1 Wireless Charger + 50% on Women’s Summer Casual Dress + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-45-on-3-in-1-wireless-charger-50-on-women-summer-casual-dress-more/",
+      "published": "2025-08-04T15:51:13Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754325570.419861
+      }
+    },
     {
       "title": "Herman Miller Canada: Living Room Sale 20% off + Sale up to 30% off",
       "link": "https://smartcanucks.ca/herman-miller-canada-living-room-sale-20-off-sale-up-to-30-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321586.96073
+        "scraped_at": 1754325572.481695
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321589.8905907
+        "scraped_at": 1754325574.5629582
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321592.3058307
+        "scraped_at": 1754325577.2093766
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321594.5036206
+        "scraped_at": 1754325579.4826941
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321597.0435715
+        "scraped_at": 1754325581.8520668
       }
     },
     {
@@ -96,7 +111,22 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321599.1551516
+        "scraped_at": 1754325584.731095
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 50% on UK Travel Plug Adapter with USB C + 63% on Portable Bluetooth Speaker + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-uk-travel-plug-adapter-with-usb-c-63-on-portable-bluetooth-speaker-more/",
+      "published": "2025-08-04T03:32:35Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754325587.4061892
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321602.0103824
+        "scraped_at": 1754325589.6395864
       }
     },
     {
@@ -126,22 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321604.250793
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 50% on UK Travel Plug Adapter with USB C + 63% on Portable Bluetooth Speaker + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-uk-travel-plug-adapter-with-usb-c-63-on-portable-bluetooth-speaker-more/",
-      "published": "2025-08-03T22:32:35Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754321607.2840087
+        "scraped_at": 1754325591.7536142
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321609.4084032
+        "scraped_at": 1754325594.3118756
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321611.6488256
+        "scraped_at": 1754325596.6518052
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321613.762478
+        "scraped_at": 1754325598.8806436
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321616.806689
+        "scraped_at": 1754325600.9926891
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321619.0349367
+        "scraped_at": 1754325603.6840177
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321621.2004006
+        "scraped_at": 1754325606.3306596
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321623.8296974
+        "scraped_at": 1754325609.3490713
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321626.4084861
+        "scraped_at": 1754325611.6887856
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321628.7158997
+        "scraped_at": 1754325614.8449533
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754321631.0177755
-      }
-    },
-    {
-      "title": "Zwilling Canada: Long Weekend Sale up to 60% off + Bundle Deals",
-      "link": "https://smartcanucks.ca/zwilling-canada-long-weekend-sale-up-to-60-off-bundle-deals/",
-      "published": "2025-08-01T16:50:15Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754321633.3739288
+        "scraped_at": 1754325617.2149608
       }
     }
   ],
