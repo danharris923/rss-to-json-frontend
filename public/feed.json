@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-04T13:04:05.935304Z",
+  "scraped_at": "2025-08-04T13:50:18.634938Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,66 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Mark’s Canada: End of Season Clearance up to 70% off",
+      "link": "https://smartcanucks.ca/marks-canada-end-of-season-clearance-up-to-70-off/",
+      "published": "2025-08-04T13:42:28Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754315372.528618
+      }
+    },
+    {
+      "title": "Golf Town Canada: Flash Sale up to 40% off",
+      "link": "https://smartcanucks.ca/golf-town-canada-flash-sale-up-to-40-off-2/",
+      "published": "2025-08-04T13:26:55Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754315375.0335
+      }
+    },
+    {
+      "title": "Knix Canada: up to 30% off Last Call Styles + More",
+      "link": "https://smartcanucks.ca/knix-canada-up-to-30-off-last-call-styles-more/",
+      "published": "2025-08-04T13:15:45Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754315377.231915
+      }
+    },
+    {
+      "title": "Healthy Planet Canada: Summer Black Friday Sale up to 50% off",
+      "link": "https://smartcanucks.ca/healthy-planet-canada-summer-black-friday-sale-up-to-50-off/",
+      "published": "2025-08-04T13:15:22Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754315379.832528
+      }
+    },
     {
       "title": "Shoppers Drug Mart Canada: Get 4,000 PC Optimum Points When You Buy 2 Pringles",
       "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-get-4000-pc-optimum-points-when-you-buy-2-pringles/",
@@ -21,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312597.9062462
+        "scraped_at": 1754315382.6043637
       }
     },
     {
@@ -36,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312600.5858617
+        "scraped_at": 1754315384.6348937
       }
     },
     {
@@ -51,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312602.986422
+        "scraped_at": 1754315387.3740819
       }
     },
     {
@@ -66,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312605.8877025
+        "scraped_at": 1754315389.4315395
       }
     },
     {
@@ -81,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312607.9535167
+        "scraped_at": 1754315391.9956334
       }
     },
     {
@@ -96,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312610.896724
+        "scraped_at": 1754315394.3072646
       }
     },
     {
@@ -111,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312613.2389169
+        "scraped_at": 1754315396.936243
       }
     },
     {
@@ -126,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312615.8360803
+        "scraped_at": 1754315399.2556875
       }
     },
     {
@@ -141,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312618.128539
+        "scraped_at": 1754315401.7570462
       }
     },
     {
@@ -156,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312620.9435422
+        "scraped_at": 1754315404.2724936
       }
     },
     {
@@ -171,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312623.8267193
+        "scraped_at": 1754315406.7596343
       }
     },
     {
@@ -186,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312626.5022526
+        "scraped_at": 1754315408.9371665
       }
     },
     {
@@ -201,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312629.1286867
+        "scraped_at": 1754315411.2424088
       }
     },
     {
@@ -216,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312631.2976365
+        "scraped_at": 1754315413.7697794
       }
     },
     {
@@ -231,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312633.5604546
+        "scraped_at": 1754315416.159629
       }
     },
     {
@@ -246,67 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754312636.530369
-      }
-    },
-    {
-      "title": "Hunter Boots Canada: Extra 15% off Sale Styles with Promo Code",
-      "link": "https://smartcanucks.ca/hunter-boots-canada-extra-15-off-sale-styles-with-promo-code/",
-      "published": "2025-08-01T14:44:41Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754312638.7643294
-      }
-    },
-    {
-      "title": "Mountain Warehouse Canada: Sale up to 60% off + Extra 20% off Sitewide with Promo Code",
-      "link": "https://smartcanucks.ca/mountain-warehouse-canada-sale-up-to-60-off-extra-20-off-sitewide-with-promo-code/",
-      "published": "2025-08-01T14:09:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754312641.7386382
-      }
-    },
-    {
-      "title": "Honey Canada: Summer Sale up to 70% off",
-      "link": "https://smartcanucks.ca/honey-canada-summer-sale-up-to-70-off/",
-      "published": "2025-08-01T13:59:50Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754312643.8790288
-      }
-    },
-    {
-      "title": "Karl Lagerfeld Paris Canada Sale: up to 69% off Select Styles",
-      "link": "https://smartcanucks.ca/karl-lagerfeld-paris-canada-sale-up-to-69-off-select-styles/",
-      "published": "2025-08-01T12:54:19Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754312645.9351947
+        "scraped_at": 1754315418.6348348
       }
     }
   ],
