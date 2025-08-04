@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-03T23:29:00.602604Z",
+  "scraped_at": "2025-08-04T02:37:50.673701Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Shoppers Drug Mart Canada: Get 4,000 PC Optimum Points When You Buy 2 Pringles",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-get-4000-pc-optimum-points-when-you-buy-2-pringles/",
+      "published": "2025-08-04T00:44:22Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754275021.8120039
+      }
+    },
+    {
+      "title": "Baby Deals and Offers in Flyers Until August 6th",
+      "link": "https://smartcanucks.ca/baby-deals-and-offers-in-flyers-until-august-6th/",
+      "published": "2025-08-04T00:16:05Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754275024.1451604
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 50% on UK Travel Plug Adapter with USB C + 63% on Portable Bluetooth Speaker + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-uk-travel-plug-adapter-with-usb-c-63-on-portable-bluetooth-speaker-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263693.678672
+        "scraped_at": 1754275026.8710403
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263696.0004368
+        "scraped_at": 1754275029.6363134
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263698.1083894
+        "scraped_at": 1754275032.4843125
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263700.8352299
+        "scraped_at": 1754275034.9731038
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263703.4776883
+        "scraped_at": 1754275037.7753327
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263706.3716245
+        "scraped_at": 1754275040.030665
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263708.679994
+        "scraped_at": 1754275042.2662387
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263711.6345577
+        "scraped_at": 1754275044.5802312
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263713.9512382
+        "scraped_at": 1754275047.4522166
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263716.3302784
+        "scraped_at": 1754275049.9892325
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263718.970454
+        "scraped_at": 1754275052.3564804
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263721.6991005
+        "scraped_at": 1754275055.2089822
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263724.0326257
+        "scraped_at": 1754275058.03978
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263727.0450435
+        "scraped_at": 1754275060.169097
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263729.40063
+        "scraped_at": 1754275062.3766134
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263731.5236208
+        "scraped_at": 1754275065.2520688
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263733.5835505
+        "scraped_at": 1754275068.1333952
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754263736.0965197
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 63% on GKLPO Mini Projector with Built-in Apps Using Promo Code + More Offers",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-48-on-gklpo-mini-projector-with-built-in-apps-using-promo-code-more-offers/",
-      "published": "2025-08-01T12:50:07Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754263738.438361
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada: Super Beauty Redemption August 1st – 5th + More",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-super-beauty-redemption-august-1st-5th-more/",
-      "published": "2025-08-01T00:35:21Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754263740.6024997
+        "scraped_at": 1754275070.6735864
       }
     }
   ],
