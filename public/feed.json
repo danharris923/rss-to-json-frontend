@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-05T15:34:37.057966Z",
+  "scraped_at": "2025-08-05T16:32:27.019905Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Marciano By GUESS Canada: End of Season Sale up to 50% off",
+      "link": "https://smartcanucks.ca/marciano-by-guess-canada-end-of-season-sale-up-to-50-off/",
+      "published": "2025-08-05T15:36:16Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754411497.1978273
+      }
+    },
     {
       "title": "DAVIDsTEA Canada: Endless Summer Sale up to 50% off",
       "link": "https://smartcanucks.ca/davidstea-canada-endless-summer-sale-up-to-50-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408028.7342324
+        "scraped_at": 1754411500.0092387
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408031.1610506
+        "scraped_at": 1754411502.5103776
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408033.667478
+        "scraped_at": 1754411505.3367565
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408036.3808033
+        "scraped_at": 1754411508.2167394
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408038.7720952
+        "scraped_at": 1754411510.876473
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408041.6535707
+        "scraped_at": 1754411513.717857
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408044.0221405
+        "scraped_at": 1754411515.9732904
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408046.767999
+        "scraped_at": 1754411518.3003504
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408048.874489
+        "scraped_at": 1754411520.9422858
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408051.2697556
+        "scraped_at": 1754411523.1852558
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408053.4398966
+        "scraped_at": 1754411525.5726092
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408056.4266243
+        "scraped_at": 1754411527.9029112
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408059.073387
+        "scraped_at": 1754411530.8449593
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408061.7311208
+        "scraped_at": 1754411533.1509166
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408063.8792868
+        "scraped_at": 1754411535.8510375
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408066.045247
+        "scraped_at": 1754411538.821312
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408069.0558093
+        "scraped_at": 1754411541.4426837
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408071.936055
+        "scraped_at": 1754411544.2500188
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754408074.2426076
-      }
-    },
-    {
-      "title": "Lovisa Canada: Buy 2 Get 2 Free + Free Jewellery Box When You Spend $40 or More",
-      "link": "https://smartcanucks.ca/lovisa-canada-buy-2-get-2-free-free-jewellery-box-when-you-spend-40-or-more/",
-      "published": "2025-08-03T13:45:52Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754408077.0578353
+        "scraped_at": 1754411547.0197916
       }
     }
   ],
