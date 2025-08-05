@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-05T13:50:29.663516Z",
+  "scraped_at": "2025-08-05T14:33:57.504351Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Cuisinart Canada: Save up to 50% off Select Kitchen and Outdoor Favourites",
+      "link": "https://smartcanucks.ca/cuisinart-canada-save-up-to-50-off-select-kitchen-and-outdoor-favourites/",
+      "published": "2025-08-05T13:59:43Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754404388.53041
+      }
+    },
     {
       "title": "Well.ca: Top Deals of the Week up to 30% off + Back To School Deals",
       "link": "https://smartcanucks.ca/well-ca-top-deals-of-the-week-up-to-30-off-back-to-school-deals/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401780.7628214
+        "scraped_at": 1754404391.154824
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401783.247235
+        "scraped_at": 1754404393.676981
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401785.445485
+        "scraped_at": 1754404396.0391421
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401787.9371436
+        "scraped_at": 1754404398.5760765
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401790.5990229
+        "scraped_at": 1754404401.100324
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401792.8471043
+        "scraped_at": 1754404403.528329
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401794.9536273
+        "scraped_at": 1754404406.2788908
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401797.5194848
+        "scraped_at": 1754404409.138973
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401800.2135417
+        "scraped_at": 1754404411.4231741
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401802.5081058
+        "scraped_at": 1754404414.385448
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401805.423002
+        "scraped_at": 1754404417.151672
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401808.1054652
+        "scraped_at": 1754404419.8617756
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401810.9252975
+        "scraped_at": 1754404422.0534163
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401813.6520073
+        "scraped_at": 1754404424.9788127
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401815.9930732
+        "scraped_at": 1754404427.5656219
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401818.6756067
+        "scraped_at": 1754404430.043812
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401821.540602
+        "scraped_at": 1754404432.097405
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401824.6541255
+        "scraped_at": 1754404435.0214777
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754401826.7082074
-      }
-    },
-    {
-      "title": "Loblaws Ontario: August Hits of the Month + Flyer Deals",
-      "link": "https://smartcanucks.ca/loblaws-ontario-august-hits-of-the-month-flyer-deals/",
-      "published": "2025-08-02T23:25:42Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754401829.6634061
+        "scraped_at": 1754404437.5042017
       }
     }
   ],
