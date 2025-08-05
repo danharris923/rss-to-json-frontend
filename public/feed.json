@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-05T13:04:13.574861Z",
+  "scraped_at": "2025-08-05T13:50:29.663516Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Well.ca: Top Deals of the Week up to 30% off + Back To School Deals",
+      "link": "https://smartcanucks.ca/well-ca-top-deals-of-the-week-up-to-30-off-back-to-school-deals/",
+      "published": "2025-08-05T13:46:35Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754401780.7628214
+      }
+    },
     {
       "title": "Food Recall Warning: Dubai Brand Pistachio & Knafeh Milk Chocolate Recalled Due to Salmonella",
       "link": "https://smartcanucks.ca/food-recall-warning-dubai-brand-pistachio-knafeh-milk-chocolate-recalled-due-to-salmonella/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399003.8517995
+        "scraped_at": 1754401783.247235
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399006.8775647
+        "scraped_at": 1754401785.445485
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399009.0395613
+        "scraped_at": 1754401787.9371436
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399012.0795283
+        "scraped_at": 1754401790.5990229
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399014.232799
+        "scraped_at": 1754401792.8471043
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399016.833449
+        "scraped_at": 1754401794.9536273
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399019.2497687
+        "scraped_at": 1754401797.5194848
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399021.931231
+        "scraped_at": 1754401800.2135417
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399024.3158054
+        "scraped_at": 1754401802.5081058
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399027.1977546
+        "scraped_at": 1754401805.423002
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399029.645278
+        "scraped_at": 1754401808.1054652
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399032.0315475
+        "scraped_at": 1754401810.9252975
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399034.8989344
+        "scraped_at": 1754401813.6520073
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399037.1273034
+        "scraped_at": 1754401815.9930732
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399040.040752
+        "scraped_at": 1754401818.6756067
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399043.0221763
+        "scraped_at": 1754401821.540602
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399045.8387032
+        "scraped_at": 1754401824.6541255
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399048.477089
+        "scraped_at": 1754401826.7082074
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754399051.4692295
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 50% on URMYWO Busy Board for Toddlers Boys Girls Montessori Toys + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-urmywo-busy-board-for-toddlers-boys-girls-montessori-toys-more/",
-      "published": "2025-08-02T14:00:21Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754399053.5747643
+        "scraped_at": 1754401829.6634061
       }
     }
   ],
