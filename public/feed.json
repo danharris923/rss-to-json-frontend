@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-04T23:29:27.549349Z",
+  "scraped_at": "2025-08-05T02:31:05.645600Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Loblaws Ontario Flash Sale: Get 10,000 Points for Every $40 Spent on Baby Items August 5th & 6th",
+      "link": "https://smartcanucks.ca/loblaws-ontario-flash-sale-get-10000-points-for-every-40-spent-on-baby-items-august-5th-6th/",
+      "published": "2025-08-05T00:29:12Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754361017.1707351
+      }
+    },
+    {
+      "title": "Shoppers Drug Mart Canada Tuesday Text Offer: Get 10,000 PC Optimum Points When You Spend $40",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-tuesday-text-offer-get-10000-pc-optimum-points-when-you-spend-40-8/",
+      "published": "2025-08-04T23:54:30Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754361020.2024024
+      }
+    },
+    {
+      "title": "Costco Canada: Get a Digital Shop Card up to $50 When You Purchase Kenvue Products",
+      "link": "https://smartcanucks.ca/costco-canada-get-a-digital-shop-card-up-to-50-when-you-purchase-kenvue-products/",
+      "published": "2025-08-04T23:36:42Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754361022.423495
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 45% on 3 in 1 Wireless Charger + 50% on Women’s Summer Casual Dress + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-45-on-3-in-1-wireless-charger-50-on-women-summer-casual-dress-more/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350119.5652869
+        "scraped_at": 1754361025.0490172
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350122.0241928
+        "scraped_at": 1754361027.503734
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350124.2607143
+        "scraped_at": 1754361029.9031918
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350126.7280803
+        "scraped_at": 1754361032.066186
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350129.1503668
+        "scraped_at": 1754361034.934429
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350132.0297055
+        "scraped_at": 1754361037.5542579
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350134.094106
+        "scraped_at": 1754361039.9657946
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350137.0361042
+        "scraped_at": 1754361042.4524503
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350139.3961666
+        "scraped_at": 1754361044.6467843
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350141.8690696
+        "scraped_at": 1754361047.2546606
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350144.6365466
+        "scraped_at": 1754361050.102966
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350147.5225136
+        "scraped_at": 1754361053.0291922
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350149.8865278
+        "scraped_at": 1754361055.939413
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350152.2538304
+        "scraped_at": 1754361058.3691452
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350154.7204247
+        "scraped_at": 1754361060.6781929
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350157.0746124
+        "scraped_at": 1754361063.1640742
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754350159.6459892
-      }
-    },
-    {
-      "title": "Best Buy Canada Boxing Day in Summer Deals Save up to $250 on Select Chromebook Plus Laptops + More",
-      "link": "https://smartcanucks.ca/best-buy-canada-boxing-day-in-summer-deals-save-up-to-250-on-select-chromebook-plus-laptops-more/",
-      "published": "2025-08-02T13:30:59Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754350162.6626024
-      }
-    },
-    {
-      "title": "Michaels Canada: 30% off One Regular Price Item + 20% off for Teachers + Weekly Deals",
-      "link": "https://smartcanucks.ca/michaels-canada-30-off-one-regular-price-item-20-off-for-teachers-weekly-deals/",
-      "published": "2025-08-02T13:15:09Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754350165.5154371
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 7% on XREXS 14.5″ Digital Wall Clock Battery Operated + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-7-on-xrexs-14-5-digital-wall-clock-battery-operated-more/",
-      "published": "2025-08-01T20:59:19Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754350167.54924
+        "scraped_at": 1754361065.64546
       }
     }
   ],
