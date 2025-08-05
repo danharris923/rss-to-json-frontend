@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-05T14:33:57.504351Z",
+  "scraped_at": "2025-08-05T15:34:37.057966Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "DAVIDsTEA Canada: Endless Summer Sale up to 50% off",
+      "link": "https://smartcanucks.ca/davidstea-canada-endless-summer-sale-up-to-50-off/",
+      "published": "2025-08-05T15:09:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754408028.7342324
+      }
+    },
+    {
+      "title": "Club Monaco Sale: End of Season Sale up to 60% off + Extra 40% off",
+      "link": "https://smartcanucks.ca/club-monaco-sale-end-of-season-sale-up-to-60-off-extra-40-off/",
+      "published": "2025-08-05T14:50:04Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754408031.1610506
+      }
+    },
     {
       "title": "Cuisinart Canada: Save up to 50% off Select Kitchen and Outdoor Favourites",
       "link": "https://smartcanucks.ca/cuisinart-canada-save-up-to-50-off-select-kitchen-and-outdoor-favourites/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404388.53041
+        "scraped_at": 1754408033.667478
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404391.154824
+        "scraped_at": 1754408036.3808033
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404393.676981
+        "scraped_at": 1754408038.7720952
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404396.0391421
+        "scraped_at": 1754408041.6535707
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404398.5760765
+        "scraped_at": 1754408044.0221405
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404401.100324
+        "scraped_at": 1754408046.767999
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404403.528329
+        "scraped_at": 1754408048.874489
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404406.2788908
+        "scraped_at": 1754408051.2697556
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404409.138973
+        "scraped_at": 1754408053.4398966
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404411.4231741
+        "scraped_at": 1754408056.4266243
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404414.385448
+        "scraped_at": 1754408059.073387
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404417.151672
+        "scraped_at": 1754408061.7311208
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404419.8617756
+        "scraped_at": 1754408063.8792868
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404422.0534163
+        "scraped_at": 1754408066.045247
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404424.9788127
+        "scraped_at": 1754408069.0558093
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404427.5656219
+        "scraped_at": 1754408071.936055
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404430.043812
+        "scraped_at": 1754408074.2426076
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754404432.097405
-      }
-    },
-    {
-      "title": "Lenovo Canada: Weekly Deals and Doorbusters",
-      "link": "https://smartcanucks.ca/lenovo-canada-weekly-deals-and-doorbusters/",
-      "published": "2025-08-03T13:30:41Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754404435.0214777
-      }
-    },
-    {
-      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings Until August 6th",
-      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-until-august-6th/",
-      "published": "2025-08-03T00:16:56Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754404437.5042017
+        "scraped_at": 1754408077.0578353
       }
     }
   ],
