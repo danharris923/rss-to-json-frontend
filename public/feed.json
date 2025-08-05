@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-05T04:13:27.994582Z",
+  "scraped_at": "2025-08-05T05:37:56.623605Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Food Recall Warning: Dubai Brand Pistachio & Knafeh Milk Chocolate Recalled Due to Salmonella",
+      "link": "https://smartcanucks.ca/food-recall-warning-dubai-brand-pistachio-knafeh-milk-chocolate-recalled-due-to-salmonella/",
+      "published": "2025-08-05T04:40:07Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754372227.7936263
+      }
+    },
     {
       "title": "Loblaws Ontario Flash Sale: Get 10,000 Points for Every $40 Spent on Baby Items August 5th & 6th",
       "link": "https://smartcanucks.ca/loblaws-ontario-flash-sale-get-10000-points-for-every-40-spent-on-baby-items-august-5th-6th/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367158.3575947
+        "scraped_at": 1754372230.239055
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367160.7922459
+        "scraped_at": 1754372232.9398882
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367163.7949705
+        "scraped_at": 1754372235.6156425
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367166.6864889
+        "scraped_at": 1754372238.2490237
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367169.603445
+        "scraped_at": 1754372241.2100701
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367172.069126
+        "scraped_at": 1754372243.4959
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367174.4592378
+        "scraped_at": 1754372246.3121946
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367177.1670358
+        "scraped_at": 1754372249.1557846
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367179.7699914
+        "scraped_at": 1754372251.5685737
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367182.1172662
+        "scraped_at": 1754372254.2655997
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367184.28057
+        "scraped_at": 1754372257.036242
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367187.1873825
+        "scraped_at": 1754372259.6471353
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367189.6439986
+        "scraped_at": 1754372262.1132216
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367192.4232016
+        "scraped_at": 1754372264.8370223
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367194.705084
+        "scraped_at": 1754372267.0639036
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367197.4572892
+        "scraped_at": 1754372269.977781
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367199.7196665
+        "scraped_at": 1754372272.0496352
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367202.6240435
+        "scraped_at": 1754372274.577454
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754367205.3631685
-      }
-    },
-    {
-      "title": "Jysk Canada Summer Clearance Sale: Save 20-60% on Summer Merchandise",
-      "link": "https://smartcanucks.ca/jysk-canada-summer-clearance-sale-save-20-60-on-summer-merchandise/",
-      "published": "2025-08-02T13:45:17Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754367207.9944398
+        "scraped_at": 1754372276.6235125
       }
     }
   ],
