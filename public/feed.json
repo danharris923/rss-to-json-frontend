@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-05T21:29:23.249062Z",
+  "scraped_at": "2025-08-05T22:30:51.349330Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Giant Tiger Canada Flyer Deals August 6th – 12th",
+      "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-august-6th-12th/",
+      "published": "2025-08-05T21:51:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754433004.6320138
+      }
+    },
     {
       "title": "Marciano By GUESS Canada: End of Season Sale up to 50% off",
       "link": "https://smartcanucks.ca/marciano-by-guess-canada-end-of-season-sale-up-to-50-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429313.785291
+        "scraped_at": 1754433006.6977196
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429316.889463
+        "scraped_at": 1754433009.0333953
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429319.437106
+        "scraped_at": 1754433011.8378289
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429321.622004
+        "scraped_at": 1754433014.6987967
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429323.764589
+        "scraped_at": 1754433017.3685336
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429325.9347756
+        "scraped_at": 1754433019.4917269
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429328.9030702
+        "scraped_at": 1754433022.0673728
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429331.131323
+        "scraped_at": 1754433024.8159783
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429334.1221323
+        "scraped_at": 1754433027.2022638
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429336.9525177
+        "scraped_at": 1754433029.812335
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429339.403958
+        "scraped_at": 1754433032.5151608
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429341.655555
+        "scraped_at": 1754433034.967245
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429344.142389
+        "scraped_at": 1754433037.0335193
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429346.963639
+        "scraped_at": 1754433039.2084916
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429349.9946673
+        "scraped_at": 1754433041.6376483
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429352.981227
+        "scraped_at": 1754433044.470751
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429355.5855718
+        "scraped_at": 1754433046.6604917
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429357.9483283
+        "scraped_at": 1754433049.1230903
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754429360.3605347
-      }
-    },
-    {
-      "title": "Baskin Robbins Canada New Coupons: BOGO 50% Off Scoops + $1 off Frozen Beverage",
-      "link": "https://smartcanucks.ca/baskin-robbins-canada-new-coupons-bogo-50-off-scoops-1-off-frozen-beverage-5/",
-      "published": "2025-08-03T22:01:52Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754429363.2489126
+        "scraped_at": 1754433051.3491602
       }
     }
   ],
