@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-05T23:29:53.726954Z",
+  "scraped_at": "2025-08-06T02:29:22.441770Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,66 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 33% on Mini Chainsaw + 50% on Women’s Shirts + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-33-on-mini-chainsaw-50-on-womens-shirts-more/",
+      "published": "2025-08-06T02:04:45Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754447313.9083996
+      }
+    },
+    {
+      "title": "Air Miles Canada Shell Offers: Earn up to 80 Bonus Air Miles",
+      "link": "https://smartcanucks.ca/air-miles-canada-shell-offers-earn-up-to-80-bonus-air-miles/",
+      "published": "2025-08-06T01:20:39Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754447316.5172884
+      }
+    },
+    {
+      "title": "Freshco Ontario: Alpha Medium Phyllo Pastry 99 Cents After Scene+ Points",
+      "link": "https://smartcanucks.ca/freshco-ontario-alpha-medium-phyllo-pastry-99-cents-after-scene-points/",
+      "published": "2025-08-06T01:02:06Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754447319.3069677
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 45% on 3 in 1 Wireless Charger + 50% on Women’s Summer Casual Dress + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-45-on-3-in-1-wireless-charger-50-on-women-summer-casual-dress-more/",
+      "published": "2025-08-05T22:51:13Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754447321.6791623
+      }
+    },
     {
       "title": "Giant Tiger Canada Flyer Deals August 6th – 12th",
       "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-august-6th-12th/",
@@ -21,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436544.9305289
+        "scraped_at": 1754447324.0816112
       }
     },
     {
@@ -36,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436547.6455784
+        "scraped_at": 1754447326.6107438
       }
     },
     {
@@ -51,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436549.993892
+        "scraped_at": 1754447328.9128978
       }
     },
     {
@@ -66,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436552.8317406
+        "scraped_at": 1754447331.7405849
       }
     },
     {
@@ -81,22 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436554.8618624
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 45% on 3 in 1 Wireless Charger + 50% on Women’s Summer Casual Dress + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-45-on-3-in-1-wireless-charger-50-on-women-summer-casual-dress-more/",
-      "published": "2025-08-05T13:51:13Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754436557.5848231
+        "scraped_at": 1754447334.5490136
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436560.4444861
+        "scraped_at": 1754447336.6474373
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436562.8326778
+        "scraped_at": 1754447339.0391746
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436565.133798
+        "scraped_at": 1754447341.7380788
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436567.711827
+        "scraped_at": 1754447344.7706952
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436570.1983798
+        "scraped_at": 1754447347.4980245
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436572.326093
+        "scraped_at": 1754447350.438201
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436575.188745
+        "scraped_at": 1754447352.8110633
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436577.5104067
+        "scraped_at": 1754447355.263773
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436580.3275008
+        "scraped_at": 1754447358.1208324
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436583.0262184
+        "scraped_at": 1754447360.2326298
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754436585.7704563
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 50% on UK Travel Plug Adapter with USB C + 63% on Portable Bluetooth Speaker + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-50-on-uk-travel-plug-adapter-with-usb-c-63-on-portable-bluetooth-speaker-more/",
-      "published": "2025-08-04T03:32:35Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754436588.5387206
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada: Get 4,000 PC Optimum Points When You Buy 2 Pringles",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-get-4000-pc-optimum-points-when-you-buy-2-pringles/",
-      "published": "2025-08-04T00:44:22Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754436590.7643108
-      }
-    },
-    {
-      "title": "Baby Deals and Offers in Flyers Until August 6th",
-      "link": "https://smartcanucks.ca/baby-deals-and-offers-in-flyers-until-august-6th/",
-      "published": "2025-08-04T00:16:05Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754436593.7268236
+        "scraped_at": 1754447362.4416728
       }
     }
   ],
