@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-06T22:30:35.651320Z",
+  "scraped_at": "2025-08-06T23:29:23.345804Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Food Basics Ontario: 3L Peaches $3.48 + Flyer Deals August 7th – 13th",
+      "link": "https://smartcanucks.ca/food-basics-ontario-3l-peaches-3-48-flyer-deals-august-7th-13th/",
+      "published": "2025-08-06T23:11:44Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754522914.9372623
+      }
+    },
     {
       "title": "Suzy Shier & Le Chateau Canada: Extra 20% off Sale Styles",
       "link": "https://smartcanucks.ca/suzy-shier-le-chateau-canada-extra-20-off-sale-styles/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519387.2391891
+        "scraped_at": 1754522917.1869788
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519389.8267093
+        "scraped_at": 1754522919.602647
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519392.844468
+        "scraped_at": 1754522922.4787307
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519395.263087
+        "scraped_at": 1754522925.1452358
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519398.1719055
+        "scraped_at": 1754522927.730372
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519400.6003957
+        "scraped_at": 1754522930.2803347
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519403.3823094
+        "scraped_at": 1754522933.054167
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519405.452315
+        "scraped_at": 1754522936.0864513
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519407.8260365
+        "scraped_at": 1754522938.79869
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519410.1538084
+        "scraped_at": 1754522941.2083368
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519412.193635
+        "scraped_at": 1754522943.2652247
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519415.1155095
+        "scraped_at": 1754522945.4546556
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519417.2375152
+        "scraped_at": 1754522947.8395808
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519419.405392
+        "scraped_at": 1754522950.5109878
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519421.839721
+        "scraped_at": 1754522953.466469
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519424.786579
+        "scraped_at": 1754522956.0633218
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519427.538791
+        "scraped_at": 1754522958.6499612
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519430.4948683
+        "scraped_at": 1754522961.1908665
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754519433.230178
-      }
-    },
-    {
-      "title": "Herman Miller Canada: Living Room Sale 20% off + Sale up to 30% off",
-      "link": "https://smartcanucks.ca/herman-miller-canada-living-room-sale-20-off-sale-up-to-30-off/",
-      "published": "2025-08-04T14:31:22Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754519435.651185
+        "scraped_at": 1754522963.3457026
       }
     }
   ],
