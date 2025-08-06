@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-06T13:04:02.973125Z",
+  "scraped_at": "2025-08-06T13:50:52.775868Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Lulus Canada: 20% off Cocktail Dresses with Promo Code + Sale",
+      "link": "https://smartcanucks.ca/lulus-canada-20-off-cocktail-dresses-with-promo-code-sale/",
+      "published": "2025-08-06T13:23:25Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754488203.487572
+      }
+    },
+    {
+      "title": "Pajar Canada: End of Season Sale up to 50% Off",
+      "link": "https://smartcanucks.ca/pajar-canada-end-of-season-sale-up-to-50-off/",
+      "published": "2025-08-06T13:04:57Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754488206.1443994
+      }
+    },
     {
       "title": "Sperry Canada: End of Summer Sale up to 50% off",
       "link": "https://smartcanucks.ca/sperry-canada-end-of-summer-sale-up-to-50-off/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485393.848499
+        "scraped_at": 1754488208.5070548
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485396.63884
+        "scraped_at": 1754488211.3519614
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485399.2324831
+        "scraped_at": 1754488213.734878
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485401.3040202
+        "scraped_at": 1754488216.652318
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485403.8335366
+        "scraped_at": 1754488219.2659628
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485406.066424
+        "scraped_at": 1754488222.0350015
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485408.588238
+        "scraped_at": 1754488224.992906
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485411.3369274
+        "scraped_at": 1754488227.6355143
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485413.7363799
+        "scraped_at": 1754488230.3761852
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485416.3023968
+        "scraped_at": 1754488233.0108254
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485418.8779943
+        "scraped_at": 1754488235.2195003
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485421.865319
+        "scraped_at": 1754488237.8382747
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485424.5001183
+        "scraped_at": 1754488240.7438626
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485427.3915446
+        "scraped_at": 1754488242.8516943
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485429.844157
+        "scraped_at": 1754488245.1795683
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485432.6182084
+        "scraped_at": 1754488247.4763336
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485435.4969423
+        "scraped_at": 1754488250.0017555
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754485437.8432982
-      }
-    },
-    {
-      "title": "Mark’s Canada: End of Season Clearance up to 70% off",
-      "link": "https://smartcanucks.ca/marks-canada-end-of-season-clearance-up-to-70-off/",
-      "published": "2025-08-04T13:42:28Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754485440.2397022
-      }
-    },
-    {
-      "title": "Golf Town Canada: Flash Sale up to 40% off",
-      "link": "https://smartcanucks.ca/golf-town-canada-flash-sale-up-to-40-off-2/",
-      "published": "2025-08-04T13:26:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754485442.9730294
+        "scraped_at": 1754488252.7757921
       }
     }
   ],
