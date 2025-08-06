@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-06T13:50:52.775868Z",
+  "scraped_at": "2025-08-06T14:33:44.262107Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Suzy Shier & Le Chateau Canada: Extra 20% off Sale Styles",
+      "link": "https://smartcanucks.ca/suzy-shier-le-chateau-canada-extra-20-off-sale-styles/",
+      "published": "2025-08-06T13:54:19Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754490775.635791
+      }
+    },
     {
       "title": "Lulus Canada: 20% off Cocktail Dresses with Promo Code + Sale",
       "link": "https://smartcanucks.ca/lulus-canada-20-off-cocktail-dresses-with-promo-code-sale/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488203.487572
+        "scraped_at": 1754490778.2100835
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488206.1443994
+        "scraped_at": 1754490780.9766965
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488208.5070548
+        "scraped_at": 1754490783.1235611
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488211.3519614
+        "scraped_at": 1754490785.8366787
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488213.734878
+        "scraped_at": 1754490787.9755745
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488216.652318
+        "scraped_at": 1754490790.8400054
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488219.2659628
+        "scraped_at": 1754490793.6423879
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488222.0350015
+        "scraped_at": 1754490796.567317
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488224.992906
+        "scraped_at": 1754490799.3002005
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488227.6355143
+        "scraped_at": 1754490801.6955886
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488230.3761852
+        "scraped_at": 1754490804.40638
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488233.0108254
+        "scraped_at": 1754490806.6750746
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488235.2195003
+        "scraped_at": 1754490809.1639647
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488237.8382747
+        "scraped_at": 1754490812.046042
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488240.7438626
+        "scraped_at": 1754490814.9655244
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488242.8516943
+        "scraped_at": 1754490817.3321266
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488245.1795683
+        "scraped_at": 1754490819.8641617
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488247.4763336
+        "scraped_at": 1754490822.0830276
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754488250.0017555
-      }
-    },
-    {
-      "title": "Reebok Canada Mid Summer Sale: Save up to 30% off Select Styles + Extra 30% off Sale",
-      "link": "https://smartcanucks.ca/reebok-canada-mid-summer-sale-save-up-to-30-off-select-styles-including-sale/",
-      "published": "2025-08-04T14:20:40Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754488252.7757921
+        "scraped_at": 1754490824.2619975
       }
     }
   ],
