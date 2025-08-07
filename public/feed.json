@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-07T21:27:41.604531Z",
+  "scraped_at": "2025-08-07T22:30:29.102321Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 84% on Steamer Iron for Clothes + 34% on Women’s Summer Casual Dresses + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-84-on-steamer-iron-for-clothes-34-on-womens-summer-casual-dresses-more/",
+      "published": "2025-08-07T21:53:42Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754605779.8983421
+      }
+    },
     {
       "title": "Shoppers Drug Mart Canada: 20x The PC Optimum Points August 8th – 10th + More",
       "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-20x-the-pc-optimum-points-august-8th-10th-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602012.6579902
+        "scraped_at": 1754605782.4203346
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602014.814009
+        "scraped_at": 1754605784.6800566
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602017.5691516
+        "scraped_at": 1754605787.4973986
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602019.7778285
+        "scraped_at": 1754605790.2624054
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602022.698661
+        "scraped_at": 1754605792.338727
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602025.5450542
+        "scraped_at": 1754605794.8839908
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602028.5380232
+        "scraped_at": 1754605797.563019
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602031.1391003
+        "scraped_at": 1754605799.875559
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602033.991364
+        "scraped_at": 1754605802.5729976
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602036.4248185
+        "scraped_at": 1754605805.0561552
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602039.1980324
+        "scraped_at": 1754605807.8991706
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602041.9006937
+        "scraped_at": 1754605810.3170433
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602044.8975177
+        "scraped_at": 1754605813.0148873
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602047.0486014
+        "scraped_at": 1754605815.2241213
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602049.2384756
+        "scraped_at": 1754605818.2538445
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602051.7775502
+        "scraped_at": 1754605820.3869
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602054.0617204
+        "scraped_at": 1754605823.429069
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602056.685538
+        "scraped_at": 1754605826.2124796
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754602059.2574284
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 45% on 3 in 1 Wireless Charger + 50% on Women’s Summer Casual Dress + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-45-on-3-in-1-wireless-charger-50-on-women-summer-casual-dress-more/",
-      "published": "2025-08-05T22:51:13Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754602061.6044285
+        "scraped_at": 1754605829.102202
       }
     }
   ],
