@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-07T11:27:14.691748Z",
+  "scraped_at": "2025-08-07T13:03:27.295320Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Walmart Canada: Summer Clearance + Flash Deals up to 40% off",
+      "link": "https://smartcanucks.ca/walmart-canada-summer-clearance-flash-deals-up-to-40-off/",
+      "published": "2025-08-07T12:45:54Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754571756.2967055
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 42% on Air Purifier + 33% on Wide Flat Iron Hair Straightener + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-air-purifier-33-on-wide-flat-iron-hair-straightener-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754565987.4779363
+        "scraped_at": 1754571759.0325994
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754565990.4702384
+        "scraped_at": 1754571761.730029
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754565992.8802607
+        "scraped_at": 1754571763.9217372
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754565995.1494954
+        "scraped_at": 1754571766.875999
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754565997.8267107
+        "scraped_at": 1754571769.177249
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566000.46008
+        "scraped_at": 1754571771.9108915
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566002.5223138
+        "scraped_at": 1754571774.7925086
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566004.7244916
+        "scraped_at": 1754571777.0340414
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566007.055347
+        "scraped_at": 1754571779.7671747
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566009.7375987
+        "scraped_at": 1754571782.3823872
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566011.9230132
+        "scraped_at": 1754571784.6654522
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566014.3785753
+        "scraped_at": 1754571787.6717827
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566017.2435856
+        "scraped_at": 1754571790.606664
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566019.834474
+        "scraped_at": 1754571793.4653816
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566022.3186703
+        "scraped_at": 1754571796.3722372
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566024.782951
+        "scraped_at": 1754571799.0403168
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566027.1954103
+        "scraped_at": 1754571801.9788308
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566029.7065144
+        "scraped_at": 1754571804.3264081
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754566032.3824823
-      }
-    },
-    {
-      "title": "Food Recall Warning: Dubai Brand Pistachio & Knafeh Milk Chocolate Recalled Due to Salmonella",
-      "link": "https://smartcanucks.ca/food-recall-warning-dubai-brand-pistachio-knafeh-milk-chocolate-recalled-due-to-salmonella/",
-      "published": "2025-08-05T04:40:07Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754566034.6916132
+        "scraped_at": 1754571807.2952287
       }
     }
   ],
