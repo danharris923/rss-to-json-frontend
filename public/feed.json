@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-07T20:33:25.650088Z",
+  "scraped_at": "2025-08-07T21:27:41.604531Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Shoppers Drug Mart Canada: 20x The PC Optimum Points August 8th – 10th + More",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-20x-the-pc-optimum-points-august-8th-10th-more/",
+      "published": "2025-08-07T21:05:47Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754602012.6579902
+      }
+    },
     {
       "title": "Lulus Canada: Sale up to 70% off",
       "link": "https://smartcanucks.ca/lulus-canada-sale-up-to-70-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598757.1093247
+        "scraped_at": 1754602014.814009
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598759.1617577
+        "scraped_at": 1754602017.5691516
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598761.3340578
+        "scraped_at": 1754602019.7778285
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598763.8249927
+        "scraped_at": 1754602022.698661
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598766.395715
+        "scraped_at": 1754602025.5450542
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598768.9027114
+        "scraped_at": 1754602028.5380232
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598770.9685478
+        "scraped_at": 1754602031.1391003
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598773.9843292
+        "scraped_at": 1754602033.991364
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598776.6999693
+        "scraped_at": 1754602036.4248185
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598778.7410507
+        "scraped_at": 1754602039.1980324
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598781.008461
+        "scraped_at": 1754602041.9006937
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598784.0061376
+        "scraped_at": 1754602044.8975177
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598786.8036292
+        "scraped_at": 1754602047.0486014
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598789.8198235
+        "scraped_at": 1754602049.2384756
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598792.27636
+        "scraped_at": 1754602051.7775502
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598794.7240665
+        "scraped_at": 1754602054.0617204
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598797.6706636
+        "scraped_at": 1754602056.685538
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598800.6433527
+        "scraped_at": 1754602059.2574284
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754598803.3678956
-      }
-    },
-    {
-      "title": "Giant Tiger Canada Flyer Deals August 6th – 12th",
-      "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-august-6th-12th/",
-      "published": "2025-08-05T21:51:17Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754598805.6499925
+        "scraped_at": 1754602061.6044285
       }
     }
   ],
