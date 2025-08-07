@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-07T13:48:56.222881Z",
+  "scraped_at": "2025-08-07T14:33:10.835339Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 60% on MAXGROOM PRO 7D Electric Head Shaver for Bald Men + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-60-on-maxgroom-pro-7d-electric-head-shaver-for-bald-men-more/",
+      "published": "2025-08-07T14:15:32Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754577142.1280885
+      }
+    },
     {
       "title": "Tommy Hilfiger Canada: Sale up to 60% off + Up to an Extra 30% off with Promo Code",
       "link": "https://smartcanucks.ca/tommy-hilfiger-canada-sale-up-to-60-off-up-to-an-extra-30-off-with-promo-code/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574488.4286377
+        "scraped_at": 1754577145.149215
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574490.5770233
+        "scraped_at": 1754577147.578308
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574492.9646666
+        "scraped_at": 1754577149.772457
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574495.7854033
+        "scraped_at": 1754577151.901101
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574498.045648
+        "scraped_at": 1754577154.5857372
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574500.4725013
+        "scraped_at": 1754577156.8177283
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574502.8503444
+        "scraped_at": 1754577158.9872475
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574505.069049
+        "scraped_at": 1754577161.83007
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574507.3279743
+        "scraped_at": 1754577164.8091433
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574510.1257224
+        "scraped_at": 1754577167.2489927
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574512.5593548
+        "scraped_at": 1754577170.0661035
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574515.1716065
+        "scraped_at": 1754577172.8288724
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574517.501093
+        "scraped_at": 1754577175.824019
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574520.1557019
+        "scraped_at": 1754577178.3733613
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574522.7288094
+        "scraped_at": 1754577180.5310085
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574525.1282911
+        "scraped_at": 1754577183.2365265
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574528.1548765
+        "scraped_at": 1754577185.6161783
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574531.0754304
+        "scraped_at": 1754577188.0358973
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754574533.234139
-      }
-    },
-    {
-      "title": "Club Monaco Sale: End of Season Sale up to 60% off + Extra 40% off",
-      "link": "https://smartcanucks.ca/club-monaco-sale-end-of-season-sale-up-to-60-off-extra-40-off/",
-      "published": "2025-08-05T14:50:04Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754574536.2227395
+        "scraped_at": 1754577190.8352258
       }
     }
   ],
