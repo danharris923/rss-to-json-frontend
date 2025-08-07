@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-07T13:03:27.295320Z",
+  "scraped_at": "2025-08-07T13:48:56.222881Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Tommy Hilfiger Canada: Sale up to 60% off + Up to an Extra 30% off with Promo Code",
+      "link": "https://smartcanucks.ca/tommy-hilfiger-canada-sale-up-to-60-off-up-to-an-extra-30-off-with-promo-code/",
+      "published": "2025-08-07T13:20:43Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754574488.4286377
+      }
+    },
+    {
+      "title": "Souris Mini Canada: Summer Sale up to 60% off",
+      "link": "https://smartcanucks.ca/souris-mini-canada-summer-sale-up-to-60-off/",
+      "published": "2025-08-07T13:09:56Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754574490.5770233
+      }
+    },
     {
       "title": "Walmart Canada: Summer Clearance + Flash Deals up to 40% off",
       "link": "https://smartcanucks.ca/walmart-canada-summer-clearance-flash-deals-up-to-40-off/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571756.2967055
+        "scraped_at": 1754574492.9646666
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571759.0325994
+        "scraped_at": 1754574495.7854033
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571761.730029
+        "scraped_at": 1754574498.045648
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571763.9217372
+        "scraped_at": 1754574500.4725013
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571766.875999
+        "scraped_at": 1754574502.8503444
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571769.177249
+        "scraped_at": 1754574505.069049
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571771.9108915
+        "scraped_at": 1754574507.3279743
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571774.7925086
+        "scraped_at": 1754574510.1257224
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571777.0340414
+        "scraped_at": 1754574512.5593548
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571779.7671747
+        "scraped_at": 1754574515.1716065
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571782.3823872
+        "scraped_at": 1754574517.501093
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571784.6654522
+        "scraped_at": 1754574520.1557019
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571787.6717827
+        "scraped_at": 1754574522.7288094
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571790.606664
+        "scraped_at": 1754574525.1282911
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571793.4653816
+        "scraped_at": 1754574528.1548765
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571796.3722372
+        "scraped_at": 1754574531.0754304
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571799.0403168
+        "scraped_at": 1754574533.234139
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754571801.9788308
-      }
-    },
-    {
-      "title": "Cuisinart Canada: Save up to 50% off Select Kitchen and Outdoor Favourites",
-      "link": "https://smartcanucks.ca/cuisinart-canada-save-up-to-50-off-select-kitchen-and-outdoor-favourites/",
-      "published": "2025-08-05T13:59:43Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754571804.3264081
-      }
-    },
-    {
-      "title": "Well.ca: Top Deals of the Week up to 30% off + Back To School Deals",
-      "link": "https://smartcanucks.ca/well-ca-top-deals-of-the-week-up-to-30-off-back-to-school-deals/",
-      "published": "2025-08-05T13:46:35Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754571807.2952287
+        "scraped_at": 1754574536.2227395
       }
     }
   ],
