@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-07T22:30:29.102321Z",
+  "scraped_at": "2025-08-07T23:29:35.273335Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Loblaws Ontario: Get 10,000 PC Optimum Points For Every $40 Spent on Baby Items August 12th & 13th + Flyer Deals",
+      "link": "https://smartcanucks.ca/loblaws-ontario-get-10000-pc-optimum-points-for-every-40-spent-on-baby-items-august-12th-13th-flyer-deals/",
+      "published": "2025-08-07T22:39:18Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754609326.3243184
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 84% on Steamer Iron for Clothes + 34% on Women’s Summer Casual Dresses + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-84-on-steamer-iron-for-clothes-34-on-womens-summer-casual-dresses-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605779.8983421
+        "scraped_at": 1754609329.2950287
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605782.4203346
+        "scraped_at": 1754609332.131376
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605784.6800566
+        "scraped_at": 1754609334.3094656
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605787.4973986
+        "scraped_at": 1754609336.4652233
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605790.2624054
+        "scraped_at": 1754609339.0951338
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605792.338727
+        "scraped_at": 1754609341.933722
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605794.8839908
+        "scraped_at": 1754609344.5883875
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605797.563019
+        "scraped_at": 1754609347.1912355
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605799.875559
+        "scraped_at": 1754609349.716171
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605802.5729976
+        "scraped_at": 1754609352.3721476
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605805.0561552
+        "scraped_at": 1754609354.6924765
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605807.8991706
+        "scraped_at": 1754609357.2393332
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605810.3170433
+        "scraped_at": 1754609359.37361
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605813.0148873
+        "scraped_at": 1754609361.76442
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605815.2241213
+        "scraped_at": 1754609364.3893445
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605818.2538445
+        "scraped_at": 1754609366.6714797
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605820.3869
+        "scraped_at": 1754609369.7089367
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605823.429069
+        "scraped_at": 1754609372.3911397
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754605826.2124796
-      }
-    },
-    {
-      "title": "Freshco Ontario: Alpha Medium Phyllo Pastry 99 Cents After Scene+ Points",
-      "link": "https://smartcanucks.ca/freshco-ontario-alpha-medium-phyllo-pastry-99-cents-after-scene-points/",
-      "published": "2025-08-06T01:02:06Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754605829.102202
+        "scraped_at": 1754609375.2732542
       }
     }
   ],
