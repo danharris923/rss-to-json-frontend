@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-06T23:29:23.345804Z",
+  "scraped_at": "2025-08-07T02:29:35.609281Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 42% on Air Purifier + 33% on Wide Flat Iron Hair Straightener + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-air-purifier-33-on-wide-flat-iron-hair-straightener-more/",
+      "published": "2025-08-07T02:13:02Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754533725.3553529
+      }
+    },
+    {
+      "title": "No Frills Ontario Flyer Deals August 7th – 13th",
+      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-august-7th-13th/",
+      "published": "2025-08-07T01:18:38Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754533728.08961
+      }
+    },
+    {
+      "title": "Fortinos Ontario: Planters Peanut Butter 1kg $4.49 + Flyer Deals August 7th – 13th",
+      "link": "https://smartcanucks.ca/fortinos-ontario-planters-peanut-butter-1kg-4-49-flyer-deals-august-7th-13th/",
+      "published": "2025-08-07T00:07:02Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754533731.0354111
+      }
+    },
     {
       "title": "Food Basics Ontario: 3L Peaches $3.48 + Flyer Deals August 7th – 13th",
       "link": "https://smartcanucks.ca/food-basics-ontario-3l-peaches-3-48-flyer-deals-august-7th-13th/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522914.9372623
+        "scraped_at": 1754533733.909096
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522917.1869788
+        "scraped_at": 1754533736.3160036
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522919.602647
+        "scraped_at": 1754533738.5514255
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522922.4787307
+        "scraped_at": 1754533741.1864932
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522925.1452358
+        "scraped_at": 1754533743.8740826
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522927.730372
+        "scraped_at": 1754533746.4569364
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522930.2803347
+        "scraped_at": 1754533749.1848888
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522933.054167
+        "scraped_at": 1754533751.3464215
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522936.0864513
+        "scraped_at": 1754533754.3640285
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522938.79869
+        "scraped_at": 1754533757.082529
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522941.2083368
+        "scraped_at": 1754533759.1710525
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522943.2652247
+        "scraped_at": 1754533762.197054
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522945.4546556
+        "scraped_at": 1754533764.5886712
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522947.8395808
+        "scraped_at": 1754533767.364109
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522950.5109878
+        "scraped_at": 1754533770.340298
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522953.466469
+        "scraped_at": 1754533773.0151892
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754522956.0633218
-      }
-    },
-    {
-      "title": "Loblaws Ontario Flash Sale: Get 10,000 Points for Every $40 Spent on Baby Items August 5th & 6th",
-      "link": "https://smartcanucks.ca/loblaws-ontario-flash-sale-get-10000-points-for-every-40-spent-on-baby-items-august-5th-6th/",
-      "published": "2025-08-05T00:29:12Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754522958.6499612
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada Tuesday Text Offer: Get 10,000 PC Optimum Points When You Spend $40",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-tuesday-text-offer-get-10000-pc-optimum-points-when-you-spend-40-8/",
-      "published": "2025-08-04T23:54:30Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754522961.1908665
-      }
-    },
-    {
-      "title": "Costco Canada: Get a Digital Shop Card up to $50 When You Purchase Kenvue Products",
-      "link": "https://smartcanucks.ca/costco-canada-get-a-digital-shop-card-up-to-50-when-you-purchase-kenvue-products/",
-      "published": "2025-08-04T23:36:42Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754522963.3457026
+        "scraped_at": 1754533775.6091437
       }
     }
   ],
