@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-08T16:35:15.316693Z",
+  "scraped_at": "2025-08-08T17:24:03.867397Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Moose Knuckles Canada: Sale up to 50% off",
+      "link": "https://smartcanucks.ca/moose-knuckles-canada-sale-up-to-50-off/",
+      "published": "2025-08-08T16:40:02Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754673793.0005548
+      }
+    },
     {
       "title": "Naturalizer Canada: Sale up to 65% off",
       "link": "https://smartcanucks.ca/naturalizer-canada-sale-up-to-65-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670867.162434
+        "scraped_at": 1754673795.8575068
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670869.561721
+        "scraped_at": 1754673798.4617953
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670872.142068
+        "scraped_at": 1754673800.7032871
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670874.253437
+        "scraped_at": 1754673803.0678947
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670876.631823
+        "scraped_at": 1754673805.5290368
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670879.036561
+        "scraped_at": 1754673808.1056325
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670881.6285584
+        "scraped_at": 1754673811.110607
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670884.3992887
+        "scraped_at": 1754673813.708469
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670886.4504218
+        "scraped_at": 1754673816.1563425
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670888.6682024
+        "scraped_at": 1754673819.0889857
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670891.6824105
+        "scraped_at": 1754673822.037207
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670894.5605903
+        "scraped_at": 1754673824.8533914
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670897.0063655
+        "scraped_at": 1754673827.8801222
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670899.4665484
+        "scraped_at": 1754673830.7249272
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670902.3099048
+        "scraped_at": 1754673833.2673297
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670904.667839
+        "scraped_at": 1754673835.7005098
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670907.0821707
+        "scraped_at": 1754673838.6519725
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670910.0013602
+        "scraped_at": 1754673841.2548478
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754670912.990124
-      }
-    },
-    {
-      "title": "Lulus Canada: 20% off Cocktail Dresses with Promo Code + Sale",
-      "link": "https://smartcanucks.ca/lulus-canada-20-off-cocktail-dresses-with-promo-code-sale/",
-      "published": "2025-08-06T13:23:25Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754670915.3165665
+        "scraped_at": 1754673843.867279
       }
     }
   ],
