@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-08T15:32:40.378900Z",
+  "scraped_at": "2025-08-08T16:35:15.316693Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Naturalizer Canada: Sale up to 65% off",
+      "link": "https://smartcanucks.ca/naturalizer-canada-sale-up-to-65-off/",
+      "published": "2025-08-08T16:15:29Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754670867.162434
+      }
+    },
     {
       "title": "MUJI Canada: Denim Pants up to $20 off, 20% off Knitwear + More",
       "link": "https://smartcanucks.ca/muji-canada-denim-pants-up-to-20-off-20-off-knitwear-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667108.6226082
+        "scraped_at": 1754670869.561721
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667111.7063375
+        "scraped_at": 1754670872.142068
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667114.4665208
+        "scraped_at": 1754670874.253437
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667117.4965832
+        "scraped_at": 1754670876.631823
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667120.576949
+        "scraped_at": 1754670879.036561
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667123.6685314
+        "scraped_at": 1754670881.6285584
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667126.0334127
+        "scraped_at": 1754670884.3992887
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667128.3155913
+        "scraped_at": 1754670886.4504218
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667131.1273236
+        "scraped_at": 1754670888.6682024
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667133.6936579
+        "scraped_at": 1754670891.6824105
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667136.4047618
+        "scraped_at": 1754670894.5605903
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667139.2196302
+        "scraped_at": 1754670897.0063655
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667142.3433592
+        "scraped_at": 1754670899.4665484
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667145.1902251
+        "scraped_at": 1754670902.3099048
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667148.0406923
+        "scraped_at": 1754670904.667839
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667150.6003551
+        "scraped_at": 1754670907.0821707
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667152.7845166
+        "scraped_at": 1754670910.0013602
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667154.921335
+        "scraped_at": 1754670912.990124
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754667157.8638563
-      }
-    },
-    {
-      "title": "Pajar Canada: End of Season Sale up to 50% Off",
-      "link": "https://smartcanucks.ca/pajar-canada-end-of-season-sale-up-to-50-off/",
-      "published": "2025-08-06T13:04:57Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754667160.3787804
+        "scraped_at": 1754670915.3165665
       }
     }
   ],
