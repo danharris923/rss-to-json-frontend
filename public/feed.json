@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-08T13:45:16.311999Z",
+  "scraped_at": "2025-08-08T14:31:35.350170Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "MEC Mountain Equipment Company Canada: Sale up to 50% off + Extra 20% off Clearance Sandals",
+      "link": "https://smartcanucks.ca/mec-mountain-equipment-company-canada-sale-up-to-50-off-extra-20-off-clearance-sandals/",
+      "published": "2025-08-08T14:26:23Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754663447.3576024
+      }
+    },
     {
       "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings August 7th – 13th",
       "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-august-7th-13th/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660667.9987993
+        "scraped_at": 1754663450.105387
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660670.815583
+        "scraped_at": 1754663452.9868088
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660672.947067
+        "scraped_at": 1754663455.2958696
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660675.9190047
+        "scraped_at": 1754663457.892694
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660678.2235658
+        "scraped_at": 1754663460.7593217
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660680.2955928
+        "scraped_at": 1754663463.3023646
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660682.5194929
+        "scraped_at": 1754663465.7617362
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660684.979681
+        "scraped_at": 1754663468.4022436
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660687.15075
+        "scraped_at": 1754663470.7737482
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660689.8305652
+        "scraped_at": 1754663472.8659663
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660692.636029
+        "scraped_at": 1754663475.4339266
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660695.1414433
+        "scraped_at": 1754663477.8158753
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660697.8220153
+        "scraped_at": 1754663480.6966982
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660700.6321478
+        "scraped_at": 1754663483.0431218
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660703.1465378
+        "scraped_at": 1754663485.1700974
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660705.4064639
+        "scraped_at": 1754663487.8116803
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660708.229768
+        "scraped_at": 1754663490.203612
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660710.8341467
+        "scraped_at": 1754663492.6539528
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754660713.576013
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 33% on Mini Chainsaw + 50% on Women’s Shirts + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-33-on-mini-chainsaw-50-on-womens-shirts-more/",
-      "published": "2025-08-06T02:04:45Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754660716.3119044
+        "scraped_at": 1754663495.3500798
       }
     }
   ],
