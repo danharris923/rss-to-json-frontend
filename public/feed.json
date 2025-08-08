@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-07T23:29:35.273335Z",
+  "scraped_at": "2025-08-08T02:29:12.834780Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings August 7th – 13th",
+      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-august-7th-13th/",
+      "published": "2025-08-08T01:24:48Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754620105.9957364
+      }
+    },
     {
       "title": "Loblaws Ontario: Get 10,000 PC Optimum Points For Every $40 Spent on Baby Items August 12th & 13th + Flyer Deals",
       "link": "https://smartcanucks.ca/loblaws-ontario-get-10000-pc-optimum-points-for-every-40-spent-on-baby-items-august-12th-13th-flyer-deals/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609326.3243184
+        "scraped_at": 1754620108.680533
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609329.2950287
+        "scraped_at": 1754620110.913301
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609332.131376
+        "scraped_at": 1754620113.7939053
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609334.3094656
+        "scraped_at": 1754620116.3244154
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609336.4652233
+        "scraped_at": 1754620118.3982959
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609339.0951338
+        "scraped_at": 1754620120.535883
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609341.933722
+        "scraped_at": 1754620123.29413
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609344.5883875
+        "scraped_at": 1754620126.0125284
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609347.1912355
+        "scraped_at": 1754620128.16942
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609349.716171
+        "scraped_at": 1754620130.7634459
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609352.3721476
+        "scraped_at": 1754620132.815017
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609354.6924765
+        "scraped_at": 1754620135.273878
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609357.2393332
+        "scraped_at": 1754620138.2541795
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609359.37361
+        "scraped_at": 1754620140.685648
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609361.76442
+        "scraped_at": 1754620142.9075544
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609364.3893445
+        "scraped_at": 1754620144.9940848
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609366.6714797
+        "scraped_at": 1754620147.4292285
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609369.7089367
+        "scraped_at": 1754620150.0840678
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754609372.3911397
-      }
-    },
-    {
-      "title": "Air Miles Canada Shell Offers: Earn up to 80 Bonus Air Miles",
-      "link": "https://smartcanucks.ca/air-miles-canada-shell-offers-earn-up-to-80-bonus-air-miles/",
-      "published": "2025-08-06T01:20:39Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754609375.2732542
+        "scraped_at": 1754620152.834679
       }
     }
   ],
