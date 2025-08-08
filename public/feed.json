@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-08T14:31:35.350170Z",
+  "scraped_at": "2025-08-08T15:32:40.378900Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "MUJI Canada: Denim Pants up to $20 off, 20% off Knitwear + More",
+      "link": "https://smartcanucks.ca/muji-canada-denim-pants-up-to-20-off-20-off-knitwear-more/",
+      "published": "2025-08-08T15:30:44Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754667108.6226082
+      }
+    },
+    {
+      "title": "Natura Market Canada: 25% off Healthy Crunch Barbie Crispy Squares + Deals of the Week",
+      "link": "https://smartcanucks.ca/natura-market-canada-25-off-healthy-crunch-barbie-crispy-squares-deals-of-the-week/",
+      "published": "2025-08-08T14:51:14Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754667111.7063375
+      }
+    },
     {
       "title": "MEC Mountain Equipment Company Canada: Sale up to 50% off + Extra 20% off Clearance Sandals",
       "link": "https://smartcanucks.ca/mec-mountain-equipment-company-canada-sale-up-to-50-off-extra-20-off-clearance-sandals/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663447.3576024
+        "scraped_at": 1754667114.4665208
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663450.105387
+        "scraped_at": 1754667117.4965832
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663452.9868088
+        "scraped_at": 1754667120.576949
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663455.2958696
+        "scraped_at": 1754667123.6685314
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663457.892694
+        "scraped_at": 1754667126.0334127
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663460.7593217
+        "scraped_at": 1754667128.3155913
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663463.3023646
+        "scraped_at": 1754667131.1273236
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663465.7617362
+        "scraped_at": 1754667133.6936579
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663468.4022436
+        "scraped_at": 1754667136.4047618
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663470.7737482
+        "scraped_at": 1754667139.2196302
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663472.8659663
+        "scraped_at": 1754667142.3433592
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663475.4339266
+        "scraped_at": 1754667145.1902251
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663477.8158753
+        "scraped_at": 1754667148.0406923
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663480.6966982
+        "scraped_at": 1754667150.6003551
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663483.0431218
+        "scraped_at": 1754667152.7845166
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663485.1700974
+        "scraped_at": 1754667154.921335
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663487.8116803
+        "scraped_at": 1754667157.8638563
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754663490.203612
-      }
-    },
-    {
-      "title": "Sperry Canada: End of Summer Sale up to 50% off",
-      "link": "https://smartcanucks.ca/sperry-canada-end-of-summer-sale-up-to-50-off/",
-      "published": "2025-08-06T12:42:45Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754663492.6539528
-      }
-    },
-    {
-      "title": "Mavi Jeans Canada: Further Markdowns up to 50% off",
-      "link": "https://smartcanucks.ca/mavi-jeans-canada-further-markdowns-up-to-50-off-2/",
-      "published": "2025-08-06T12:10:05Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754663495.3500798
+        "scraped_at": 1754667160.3787804
       }
     }
   ],
