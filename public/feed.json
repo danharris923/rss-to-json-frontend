@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-09T15:27:51.439485Z",
+  "scraped_at": "2025-08-09T16:33:41.121247Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 83% on Wireless Earbuds Using Promo Code & Coupon + 50% on Vegetable Chopper Cutter + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-83-on-wireless-earbuds-using-promo-code-coupon-50-on-vegetable-chopper-cutter-more/",
+      "published": "2025-08-09T15:50:29Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754757172.2041156
+      }
+    },
     {
       "title": "Michaels Canada: 40% Off One Regular Priced Item + Weekly Deals",
       "link": "https://smartcanucks.ca/michaels-canada-40-off-one-regular-priced-item-weekly-deals-2/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753225.3100889
+        "scraped_at": 1754757174.8208494
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753227.4445105
+        "scraped_at": 1754757177.217613
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753229.561905
+        "scraped_at": 1754757179.9565089
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753232.4540203
+        "scraped_at": 1754757182.352687
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753234.9130733
+        "scraped_at": 1754757184.7282631
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753237.332523
+        "scraped_at": 1754757187.615886
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753239.575865
+        "scraped_at": 1754757190.3928545
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753241.952976
+        "scraped_at": 1754757193.2650588
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753244.3437457
+        "scraped_at": 1754757195.4611914
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753246.9477878
+        "scraped_at": 1754757197.8325212
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753249.594348
+        "scraped_at": 1754757200.3598106
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753251.8300464
+        "scraped_at": 1754757203.0293512
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753254.3966393
+        "scraped_at": 1754757206.0009017
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753256.4953678
+        "scraped_at": 1754757208.3876424
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753258.944091
+        "scraped_at": 1754757211.1252902
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753261.4541163
+        "scraped_at": 1754757213.3533597
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753264.0010338
+        "scraped_at": 1754757216.3041615
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753266.8911538
+        "scraped_at": 1754757218.7032564
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754753269.0844126
-      }
-    },
-    {
-      "title": "Walmart Canada: Summer Clearance + Flash Deals up to 40% off",
-      "link": "https://smartcanucks.ca/walmart-canada-summer-clearance-flash-deals-up-to-40-off/",
-      "published": "2025-08-07T12:45:54Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754753271.4393477
+        "scraped_at": 1754757221.1211073
       }
     }
   ],
