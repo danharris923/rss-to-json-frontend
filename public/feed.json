@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-09T02:11:27.823942Z",
+  "scraped_at": "2025-08-09T03:55:06.487682Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Walmart Canada: Free Listerine with Printable Coupon + Flyer Deals",
+      "link": "https://smartcanucks.ca/walmart-canada-free-listerine-with-printable-coupon-flyer-deals/",
+      "published": "2025-08-09T02:57:47Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754711659.2392287
+      }
+    },
     {
       "title": "Moose Knuckles Canada: Sale up to 50% off",
       "link": "https://smartcanucks.ca/moose-knuckles-canada-sale-up-to-50-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705437.8268657
+        "scraped_at": 1754711661.6456563
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705440.3079698
+        "scraped_at": 1754711664.3877463
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705442.9824274
+        "scraped_at": 1754711667.1938782
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705445.772355
+        "scraped_at": 1754711669.4345403
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705448.7093973
+        "scraped_at": 1754711671.4978588
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705451.7288435
+        "scraped_at": 1754711674.202697
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705454.6255848
+        "scraped_at": 1754711676.90031
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705456.788234
+        "scraped_at": 1754711679.742049
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705459.1132817
+        "scraped_at": 1754711682.0607772
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705461.4088438
+        "scraped_at": 1754711684.0909283
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705464.4467914
+        "scraped_at": 1754711687.0927522
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705466.929781
+        "scraped_at": 1754711689.372033
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705469.6123717
+        "scraped_at": 1754711691.9427187
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705472.6135917
+        "scraped_at": 1754711694.8803053
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705475.2394853
+        "scraped_at": 1754711697.365412
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705478.159244
+        "scraped_at": 1754711699.543949
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705480.8447063
+        "scraped_at": 1754711701.8325825
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705483.12005
+        "scraped_at": 1754711704.3178108
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754705485.3545432
-      }
-    },
-    {
-      "title": "Suzy Shier & Le Chateau Canada: Extra 20% off Sale Styles",
-      "link": "https://smartcanucks.ca/suzy-shier-le-chateau-canada-extra-20-off-sale-styles/",
-      "published": "2025-08-06T13:54:19Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754705487.8238358
+        "scraped_at": 1754711706.4875531
       }
     }
   ],
