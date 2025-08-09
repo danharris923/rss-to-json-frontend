@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-09T04:36:51.215818Z",
+  "scraped_at": "2025-08-09T05:28:17.105814Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 42% on Air Purifier + 50% on Vegetable Chopper Cutter + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-air-purifier-33-on-wide-flat-iron-hair-straightener-more/",
+      "published": "2025-08-09T04:13:02Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754717248.8337152
+      }
+    },
     {
       "title": "Walmart Canada: Free Listerine with Printable Coupon + Flyer Deals",
       "link": "https://smartcanucks.ca/walmart-canada-free-listerine-with-printable-coupon-flyer-deals/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714164.3626857
+        "scraped_at": 1754717251.2732751
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714167.0761087
+        "scraped_at": 1754717253.779474
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714169.7548347
+        "scraped_at": 1754717256.7712235
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714171.7956204
+        "scraped_at": 1754717258.9689388
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714174.7006128
+        "scraped_at": 1754717261.4266276
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714176.7671645
+        "scraped_at": 1754717264.3656914
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714179.1683068
+        "scraped_at": 1754717266.4643915
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714182.0735307
+        "scraped_at": 1754717269.115069
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714184.4285712
+        "scraped_at": 1754717272.0766244
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714186.9570239
+        "scraped_at": 1754717274.890403
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714189.030433
+        "scraped_at": 1754717277.268903
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714191.2442071
+        "scraped_at": 1754717279.381439
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714193.774274
+        "scraped_at": 1754717281.739597
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714196.5541003
+        "scraped_at": 1754717284.1714008
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714199.5617692
+        "scraped_at": 1754717287.1866596
       }
     },
     {
@@ -246,22 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714201.7116902
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 42% on Air Purifier + 33% on Wide Flat Iron Hair Straightener + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-air-purifier-33-on-wide-flat-iron-hair-straightener-more/",
-      "published": "2025-08-07T02:13:02Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754714204.3577712
+        "scraped_at": 1754717289.3526828
       }
     },
     {
@@ -276,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714206.5689209
+        "scraped_at": 1754717292.0993555
       }
     },
     {
@@ -291,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714208.9396007
+        "scraped_at": 1754717294.441424
       }
     },
     {
@@ -306,7 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754714211.215668
+        "scraped_at": 1754717297.1056855
       }
     }
   ],
