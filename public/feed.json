@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-09T14:26:14.358197Z",
+  "scraped_at": "2025-08-09T15:27:51.439485Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Michaels Canada: 40% Off One Regular Priced Item + Weekly Deals",
+      "link": "https://smartcanucks.ca/michaels-canada-40-off-one-regular-priced-item-weekly-deals-2/",
+      "published": "2025-08-09T15:24:46Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754753225.3100889
+      }
+    },
+    {
+      "title": "Best Buy Canada: Save up to $300 on Select Laptops + Top Deals",
+      "link": "https://smartcanucks.ca/best-buy-canada-save-up-to-300-on-select-laptops-top-deals/",
+      "published": "2025-08-09T15:22:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754753227.4445105
+      }
+    },
+    {
+      "title": "Overstock Canada: Semi-Annual Sale up to 60% off + Designer Shop Showcase up to 50% off",
+      "link": "https://smartcanucks.ca/overstock-canada-semi-annual-sale-up-to-60-off-designer-shop-showcase-up-to-50-off/",
+      "published": "2025-08-09T15:11:22Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754753229.561905
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 42% on Air Purifier + 50% on Vegetable Chopper Cutter + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-air-purifier-33-on-wide-flat-iron-hair-straightener-more/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749526.0002694
+        "scraped_at": 1754753232.4540203
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749528.9261317
+        "scraped_at": 1754753234.9130733
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749531.5228682
+        "scraped_at": 1754753237.332523
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749534.4934826
+        "scraped_at": 1754753239.575865
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749537.2750678
+        "scraped_at": 1754753241.952976
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749539.6721272
+        "scraped_at": 1754753244.3437457
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749541.863402
+        "scraped_at": 1754753246.9477878
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749544.8539913
+        "scraped_at": 1754753249.594348
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749547.1209345
+        "scraped_at": 1754753251.8300464
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749549.173238
+        "scraped_at": 1754753254.3966393
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749551.3641098
+        "scraped_at": 1754753256.4953678
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749553.8955615
+        "scraped_at": 1754753258.944091
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749556.378993
+        "scraped_at": 1754753261.4541163
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749559.3642914
+        "scraped_at": 1754753264.0010338
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749562.0235517
+        "scraped_at": 1754753266.8911538
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749564.3899474
+        "scraped_at": 1754753269.0844126
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754749566.5922348
-      }
-    },
-    {
-      "title": "No Frills Ontario Flyer Deals August 7th – 13th",
-      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-deals-august-7th-13th/",
-      "published": "2025-08-07T01:18:38Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754749568.7335663
-      }
-    },
-    {
-      "title": "Fortinos Ontario: Planters Peanut Butter 1kg $4.49 + Flyer Deals August 7th – 13th",
-      "link": "https://smartcanucks.ca/fortinos-ontario-planters-peanut-butter-1kg-4-49-flyer-deals-august-7th-13th/",
-      "published": "2025-08-07T00:07:02Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754749571.4732032
-      }
-    },
-    {
-      "title": "Food Basics Ontario: 3L Peaches $3.48 + Flyer Deals August 7th – 13th",
-      "link": "https://smartcanucks.ca/food-basics-ontario-3l-peaches-3-48-flyer-deals-august-7th-13th/",
-      "published": "2025-08-06T23:11:44Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754749574.3580585
+        "scraped_at": 1754753271.4393477
       }
     }
   ],
