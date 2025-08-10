@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-10T12:55:32.658242Z",
+  "scraped_at": "2025-08-10T13:36:05.092195Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Old Navy Canada: 40-50% off Hot Deals + Clearance",
+      "link": "https://smartcanucks.ca/old-navy-canada-40-50-off-hot-deals-clearance/",
+      "published": "2025-08-10T13:30:06Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754832917.115924
+      }
+    },
     {
       "title": "WebSaver Canada Coupons: Save $1 on the Purchase of any Hellmann’s Mayo",
       "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-on-the-purchase-of-any-hellmanns-mayo/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830482.3005269
+        "scraped_at": 1754832919.746455
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830484.7347014
+        "scraped_at": 1754832922.3856997
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830487.737695
+        "scraped_at": 1754832925.008366
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830490.6149776
+        "scraped_at": 1754832927.553026
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830493.4506898
+        "scraped_at": 1754832929.9451218
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830496.3059127
+        "scraped_at": 1754832932.722498
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830498.9441562
+        "scraped_at": 1754832935.2427626
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830501.7055993
+        "scraped_at": 1754832938.2330036
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830504.4620912
+        "scraped_at": 1754832941.246088
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830507.0724242
+        "scraped_at": 1754832943.3912666
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830509.9746053
+        "scraped_at": 1754832945.4278712
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830512.4396136
+        "scraped_at": 1754832948.1447496
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830515.1881528
+        "scraped_at": 1754832950.2690024
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830517.686028
+        "scraped_at": 1754832952.5171657
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830520.4504163
+        "scraped_at": 1754832954.8814535
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830522.6923923
+        "scraped_at": 1754832957.658369
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830524.9542823
+        "scraped_at": 1754832959.77442
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830527.3247519
+        "scraped_at": 1754832962.355113
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754830529.878936
-      }
-    },
-    {
-      "title": "Clarks Shoes Canada: Extra 20% off Sale Styles with Promo Code",
-      "link": "https://smartcanucks.ca/clarks-shoes-canada-extra-20-off-sale-styles-with-promo-code/",
-      "published": "2025-08-07T15:13:58Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754830532.658167
+        "scraped_at": 1754832965.0920708
       }
     }
   ],
