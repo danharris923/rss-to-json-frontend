@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-09T23:26:56.404032Z",
+  "scraped_at": "2025-08-10T02:33:23.227969Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "WebSaver Canada Coupons: Save $1 on the Purchase of any Hellmann’s Mayo",
+      "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-on-the-purchase-of-any-hellmanns-mayo/",
+      "published": "2025-08-10T02:27:49Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754793154.7466338
+      }
+    },
+    {
+      "title": "Janes Canada: Sign Up For Emails And Get a $4 Printable Coupon",
+      "link": "https://smartcanucks.ca/janes-canada-sign-up-for-emails-and-get-a-4-printable-coupon/",
+      "published": "2025-08-10T01:46:55Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754793157.6643348
+      }
+    },
+    {
+      "title": "Rexall Canada: Get 15,000 Be Well Points When You Spend $40 or More + Get 12,500 Points With Text Offer",
+      "link": "https://smartcanucks.ca/rexall-canada-get-15000-be-well-points-when-you-spend-40-or-more-get-12500-points-with-text-offer/",
+      "published": "2025-08-10T00:47:33Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754793160.1186435
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 83% on Wireless Earbuds Using Promo Code & Coupon + 50% on Vegetable Chopper Cutter + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-83-on-wireless-earbuds-using-promo-code-coupon-50-on-vegetable-chopper-cutter-more/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781968.048353
+        "scraped_at": 1754793162.2539558
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781970.3720427
+        "scraped_at": 1754793164.3042126
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781973.2506437
+        "scraped_at": 1754793166.5134592
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781975.8820095
+        "scraped_at": 1754793168.7610834
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781978.8525727
+        "scraped_at": 1754793171.6575263
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781981.1686578
+        "scraped_at": 1754793174.6269257
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781983.6789384
+        "scraped_at": 1754793176.9253714
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781986.0260506
+        "scraped_at": 1754793179.6034358
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781988.8252978
+        "scraped_at": 1754793181.6949244
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781991.6495817
+        "scraped_at": 1754793184.4318736
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781994.2735395
+        "scraped_at": 1754793187.150749
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781996.5414355
+        "scraped_at": 1754793190.0160072
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754781998.852124
+        "scraped_at": 1754793192.180009
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754782001.0513666
+        "scraped_at": 1754793194.8813624
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754782003.6612966
+        "scraped_at": 1754793197.544022
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754782006.2455497
+        "scraped_at": 1754793200.2318382
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754782009.0171666
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 60% on MAXGROOM PRO 7D Electric Head Shaver for Bald Men + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-60-on-maxgroom-pro-7d-electric-head-shaver-for-bald-men-more/",
-      "published": "2025-08-07T14:15:32Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754782011.8925831
-      }
-    },
-    {
-      "title": "Tommy Hilfiger Canada: Sale up to 60% off + Up to an Extra 30% off with Promo Code",
-      "link": "https://smartcanucks.ca/tommy-hilfiger-canada-sale-up-to-60-off-up-to-an-extra-30-off-with-promo-code/",
-      "published": "2025-08-07T13:20:43Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754782014.1749406
-      }
-    },
-    {
-      "title": "Souris Mini Canada: Summer Sale up to 60% off",
-      "link": "https://smartcanucks.ca/souris-mini-canada-summer-sale-up-to-60-off/",
-      "published": "2025-08-07T13:09:56Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754782016.4038959
+        "scraped_at": 1754793203.2278466
       }
     }
   ],
