@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-10T14:26:12.657150Z",
+  "scraped_at": "2025-08-10T15:27:44.108675Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 12% on XREXS 14.5″ Digital Wall Clock Battery Operated + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-12-on-xrexs-14-5-digital-wall-clock-battery-operated-more/",
+      "published": "2025-08-10T15:05:23Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754839617.836045
+      }
+    },
     {
       "title": "Old Navy Canada: 40-50% off Hot Deals + Clearance",
       "link": "https://smartcanucks.ca/old-navy-canada-40-50-off-hot-deals-clearance/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835922.7658565
+        "scraped_at": 1754839620.1001859
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835925.38717
+        "scraped_at": 1754839622.5026836
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835927.8528874
+        "scraped_at": 1754839625.1232135
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835930.8210037
+        "scraped_at": 1754839627.5757625
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835933.4201167
+        "scraped_at": 1754839629.946766
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835936.3205702
+        "scraped_at": 1754839632.3048494
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835938.8934836
+        "scraped_at": 1754839634.475457
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835941.7138665
+        "scraped_at": 1754839636.7799246
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835943.8783655
+        "scraped_at": 1754839639.019682
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835946.7555063
+        "scraped_at": 1754839641.829839
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835949.539472
+        "scraped_at": 1754839644.372596
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835952.3079875
+        "scraped_at": 1754839646.569737
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835954.78095
+        "scraped_at": 1754839648.9754035
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835956.9651334
+        "scraped_at": 1754839651.4900446
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835959.8857923
+        "scraped_at": 1754839653.9586942
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835961.923587
+        "scraped_at": 1754839656.1583798
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835964.8527777
+        "scraped_at": 1754839658.7177172
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835967.5962048
+        "scraped_at": 1754839661.4906812
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754835970.284639
-      }
-    },
-    {
-      "title": "Lulus Canada: Sale up to 70% off",
-      "link": "https://smartcanucks.ca/lulus-canada-sale-up-to-70-off/",
-      "published": "2025-08-07T15:29:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754835972.6570103
+        "scraped_at": 1754839664.108597
       }
     }
   ],
