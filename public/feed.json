@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-11T22:28:07.290308Z",
+  "scraped_at": "2025-08-11T23:26:45.838674Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Walmart Canada: Seedless Cucumbers 69 Cents Each After 25 Cent Eclipsa Rebate",
+      "link": "https://smartcanucks.ca/walmart-canada-seedless-cucumbers-69-cents-each-after-25-cent-eclipsa-rebate/",
+      "published": "2025-08-11T23:04:42Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754954756.2625592
+      }
+    },
+    {
+      "title": "Freshco Ontario: Gallo Olive Oil 1L $7.77 Member Price + Gay Lea Butter $4.77 Member Price",
+      "link": "https://smartcanucks.ca/freshco-ontario-gallo-olive-oil-1l-7-77-member-price-gay-lea-butter-4-77-member-price/",
+      "published": "2025-08-11T22:36:38Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754954759.131879
+      }
+    },
     {
       "title": "West49 Canada: Extra 10% off Your Order with Promo Code + Clearance",
       "link": "https://smartcanucks.ca/west49-canada-extra-10-off-your-order-with-promo-code-clearance/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951239.9472358
+        "scraped_at": 1754954762.0593915
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951242.3944287
+        "scraped_at": 1754954765.141425
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951244.6142502
+        "scraped_at": 1754954767.3343995
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951247.001427
+        "scraped_at": 1754954769.6212306
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951249.3847466
+        "scraped_at": 1754954771.7887402
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951252.4701097
+        "scraped_at": 1754954774.6303139
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951254.5727816
+        "scraped_at": 1754954777.1225164
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951256.829839
+        "scraped_at": 1754954779.9869857
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951259.2863605
+        "scraped_at": 1754954782.9205995
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951261.750826
+        "scraped_at": 1754954785.4377527
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951264.3808715
+        "scraped_at": 1754954787.684126
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951267.126435
+        "scraped_at": 1754954789.892417
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951269.7964709
+        "scraped_at": 1754954792.3481164
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951272.4499357
+        "scraped_at": 1754954794.7757704
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951274.5566523
+        "scraped_at": 1754954797.1047542
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951277.3558197
+        "scraped_at": 1754954800.218317
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951279.7979977
+        "scraped_at": 1754954802.7490933
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754951282.2021413
-      }
-    },
-    {
-      "title": "Moose Knuckles Canada: Sale up to 50% off",
-      "link": "https://smartcanucks.ca/moose-knuckles-canada-sale-up-to-50-off/",
-      "published": "2025-08-08T16:40:02Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754951284.374586
-      }
-    },
-    {
-      "title": "Naturalizer Canada: Sale up to 65% off",
-      "link": "https://smartcanucks.ca/naturalizer-canada-sale-up-to-65-off/",
-      "published": "2025-08-08T16:15:29Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754951287.2901766
+        "scraped_at": 1754954805.838574
       }
     }
   ],
