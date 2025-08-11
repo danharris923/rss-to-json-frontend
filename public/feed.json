@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-11T13:43:53.513528Z",
+  "scraped_at": "2025-08-11T14:31:22.909972Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Staples Canada: Hilroy Notebooks 49 Cents + up to 30% off Desk and Chairs + More Top Deals",
+      "link": "https://smartcanucks.ca/staples-canada-hilroy-notebooks-49-cents-up-to-30-off-desk-and-chairs-more-top-deals/",
+      "published": "2025-08-11T13:46:19Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754922632.9190776
+      }
+    },
     {
       "title": "Victoria’s Secret Canada: Get up to $50 Off Your Purchase When You Spend $200 + Clearance up to 75% off",
       "link": "https://smartcanucks.ca/victorias-secret-canada-get-up-to-50-off-your-purchase-when-you-spend-200-clearance-up-to-75-off/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919783.399266
+        "scraped_at": 1754922635.8477614
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919786.2653952
+        "scraped_at": 1754922638.3306718
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919789.283423
+        "scraped_at": 1754922641.0743647
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919792.2123199
+        "scraped_at": 1754922643.682914
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919794.4799154
+        "scraped_at": 1754922646.5982761
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919797.3208723
+        "scraped_at": 1754922649.614941
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919800.2352238
+        "scraped_at": 1754922651.7477188
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919802.302329
+        "scraped_at": 1754922654.3365006
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919804.634666
+        "scraped_at": 1754922656.692244
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919807.5771878
+        "scraped_at": 1754922659.2168922
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919810.2070403
+        "scraped_at": 1754922662.140151
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919812.6822715
+        "scraped_at": 1754922664.7850747
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919814.9390986
+        "scraped_at": 1754922667.5109122
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919817.428823
+        "scraped_at": 1754922669.7681718
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919819.7634144
+        "scraped_at": 1754922671.8947544
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919822.2338285
+        "scraped_at": 1754922674.7543328
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919825.10626
+        "scraped_at": 1754922677.8014436
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919827.955144
+        "scraped_at": 1754922680.6088924
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754919830.8922484
-      }
-    },
-    {
-      "title": "MEC Mountain Equipment Company Canada: Sale up to 50% off + Extra 20% off Clearance Sandals",
-      "link": "https://smartcanucks.ca/mec-mountain-equipment-company-canada-sale-up-to-50-off-extra-20-off-clearance-sandals/",
-      "published": "2025-08-08T14:26:23Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754919833.5133815
+        "scraped_at": 1754922682.9098196
       }
     }
   ],
