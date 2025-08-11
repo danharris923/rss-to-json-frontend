@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-11T11:26:14.743885Z",
+  "scraped_at": "2025-08-11T13:01:15.613952Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Buffalo Jeans Canada: up to 50% off Jeans",
+      "link": "https://smartcanucks.ca/buffalo-jeans-canada-up-to-50-off-jeans/",
+      "published": "2025-08-11T12:10:03Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754917226.5730152
+      }
+    },
+    {
+      "title": "Shoppers Drug Mart Canada Family & Friends Event: 20% off Regular Priced Merchandise August 11th & 12th",
+      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-family-friends-event-20-off-regular-priced-merchandise-august-11th-12th/",
+      "published": "2025-08-11T11:49:55Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754917228.6736898
+      }
+    },
     {
       "title": "Baby Deals & Offers in Flyers Until August 14th",
       "link": "https://smartcanucks.ca/baby-deals-offers-in-flyers-until-august-14th-2/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911527.2944694
+        "scraped_at": 1754917231.1538363
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911529.9307554
+        "scraped_at": 1754917234.1920485
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911532.658468
+        "scraped_at": 1754917237.1132917
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911535.2731204
+        "scraped_at": 1754917239.6672444
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911537.3207166
+        "scraped_at": 1754917241.9684656
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911539.517283
+        "scraped_at": 1754917244.869461
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911542.5109286
+        "scraped_at": 1754917247.1568222
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911544.701381
+        "scraped_at": 1754917250.030843
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911547.0626738
+        "scraped_at": 1754917252.573506
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911549.5622933
+        "scraped_at": 1754917255.2118247
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911552.3166337
+        "scraped_at": 1754917257.3039188
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911554.9780085
+        "scraped_at": 1754917259.6715763
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911557.886615
+        "scraped_at": 1754917262.4043355
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911560.1362658
+        "scraped_at": 1754917265.1511915
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911562.1866956
+        "scraped_at": 1754917267.8591242
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911564.3920617
+        "scraped_at": 1754917270.919478
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911567.1455853
+        "scraped_at": 1754917273.3855543
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754911570.1080465
-      }
-    },
-    {
-      "title": "Loblaws Ontario: Get 10,000 PC Optimum Points For Every $40 Spent on Baby Items August 12th & 13th + Flyer Deals",
-      "link": "https://smartcanucks.ca/loblaws-ontario-get-10000-pc-optimum-points-for-every-40-spent-on-baby-items-august-12th-13th-flyer-deals/",
-      "published": "2025-08-07T22:39:18Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754911572.26382
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 84% on Steamer Iron for Clothes + 34% on Women’s Summer Casual Dresses + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-84-on-steamer-iron-for-clothes-34-on-womens-summer-casual-dresses-more/",
-      "published": "2025-08-07T21:53:42Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754911574.743789
+        "scraped_at": 1754917275.6138098
       }
     }
   ],
