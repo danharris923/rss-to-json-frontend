@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-10T23:26:51.536791Z",
+  "scraped_at": "2025-08-11T02:29:03.179924Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Baby Deals & Offers in Flyers Until August 14th",
+      "link": "https://smartcanucks.ca/baby-deals-offers-in-flyers-until-august-14th-2/",
+      "published": "2025-08-11T00:49:58Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754879295.0209424
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 12% on XREXS 14.5″ Digital Wall Clock Battery Operated + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-12-on-xrexs-14-5-digital-wall-clock-battery-operated-more/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868363.8764038
+        "scraped_at": 1754879297.2240763
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868366.4518738
+        "scraped_at": 1754879300.2389908
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868369.446355
+        "scraped_at": 1754879302.7377982
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868371.7570815
+        "scraped_at": 1754879305.5027804
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868374.5498307
+        "scraped_at": 1754879307.915077
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868377.1224227
+        "scraped_at": 1754879310.7817304
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868379.7552056
+        "scraped_at": 1754879313.4566913
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868382.2506926
+        "scraped_at": 1754879315.7446618
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868384.482655
+        "scraped_at": 1754879318.3030474
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868386.5560582
+        "scraped_at": 1754879320.9331992
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868389.0345554
+        "scraped_at": 1754879323.6649928
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868391.1941833
+        "scraped_at": 1754879326.1832051
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868393.5020201
+        "scraped_at": 1754879328.5659158
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868396.2026649
+        "scraped_at": 1754879331.1774342
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868398.3225815
+        "scraped_at": 1754879333.8061013
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868400.8240848
+        "scraped_at": 1754879336.0455885
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868403.412391
+        "scraped_at": 1754879338.2095962
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868405.7581136
+        "scraped_at": 1754879340.227135
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754868408.544653
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada: 20x The PC Optimum Points August 8th – 10th + More",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-20x-the-pc-optimum-points-august-8th-10th-more/",
-      "published": "2025-08-07T21:05:47Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754868411.5366566
+        "scraped_at": 1754879343.1798284
       }
     }
   ],
