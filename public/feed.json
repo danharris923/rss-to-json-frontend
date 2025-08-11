@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-11T13:01:15.613952Z",
+  "scraped_at": "2025-08-11T13:43:53.513528Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Victoria’s Secret Canada: Get up to $50 Off Your Purchase When You Spend $200 + Clearance up to 75% off",
+      "link": "https://smartcanucks.ca/victorias-secret-canada-get-up-to-50-off-your-purchase-when-you-spend-200-clearance-up-to-75-off/",
+      "published": "2025-08-11T13:23:28Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754919783.399266
+      }
+    },
     {
       "title": "Buffalo Jeans Canada: up to 50% off Jeans",
       "link": "https://smartcanucks.ca/buffalo-jeans-canada-up-to-50-off-jeans/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917226.5730152
+        "scraped_at": 1754919786.2653952
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917228.6736898
+        "scraped_at": 1754919789.283423
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917231.1538363
+        "scraped_at": 1754919792.2123199
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917234.1920485
+        "scraped_at": 1754919794.4799154
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917237.1132917
+        "scraped_at": 1754919797.3208723
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917239.6672444
+        "scraped_at": 1754919800.2352238
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917241.9684656
+        "scraped_at": 1754919802.302329
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917244.869461
+        "scraped_at": 1754919804.634666
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917247.1568222
+        "scraped_at": 1754919807.5771878
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917250.030843
+        "scraped_at": 1754919810.2070403
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917252.573506
+        "scraped_at": 1754919812.6822715
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917255.2118247
+        "scraped_at": 1754919814.9390986
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917257.3039188
+        "scraped_at": 1754919817.428823
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917259.6715763
+        "scraped_at": 1754919819.7634144
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917262.4043355
+        "scraped_at": 1754919822.2338285
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917265.1511915
+        "scraped_at": 1754919825.10626
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917267.8591242
+        "scraped_at": 1754919827.955144
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917270.919478
+        "scraped_at": 1754919830.8922484
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754917273.3855543
-      }
-    },
-    {
-      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings August 7th – 13th",
-      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-august-7th-13th/",
-      "published": "2025-08-08T01:24:48Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754917275.6138098
+        "scraped_at": 1754919833.5133815
       }
     }
   ],
