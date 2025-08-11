@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-11T14:31:22.909972Z",
+  "scraped_at": "2025-08-11T15:32:07.799488Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "West49 Canada: Extra 10% off Your Order with Promo Code + Clearance",
+      "link": "https://smartcanucks.ca/west49-canada-extra-10-off-your-order-with-promo-code-clearance/",
+      "published": "2025-08-11T15:15:18Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754926279.964944
+      }
+    },
+    {
+      "title": "Villeroy & Boch Canada: Summer Send-Off Sale up to 50% off + Clearance up to 70% off + Free Shipping",
+      "link": "https://smartcanucks.ca/villeroy-boch-canada-summer-send-off-sale-up-to-50-off-clearance-up-to-70-off-free-shipping/",
+      "published": "2025-08-11T14:47:04Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754926282.6767495
+      }
+    },
     {
       "title": "Staples Canada: Hilroy Notebooks 49 Cents + up to 30% off Desk and Chairs + More Top Deals",
       "link": "https://smartcanucks.ca/staples-canada-hilroy-notebooks-49-cents-up-to-30-off-desk-and-chairs-more-top-deals/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922632.9190776
+        "scraped_at": 1754926285.1140451
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922635.8477614
+        "scraped_at": 1754926287.3661838
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922638.3306718
+        "scraped_at": 1754926290.3694437
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922641.0743647
+        "scraped_at": 1754926292.7946994
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922643.682914
+        "scraped_at": 1754926294.908408
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922646.5982761
+        "scraped_at": 1754926297.2620168
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922649.614941
+        "scraped_at": 1754926299.606259
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922651.7477188
+        "scraped_at": 1754926302.7435129
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922654.3365006
+        "scraped_at": 1754926305.5129051
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922656.692244
+        "scraped_at": 1754926308.2890604
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922659.2168922
+        "scraped_at": 1754926310.6427732
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922662.140151
+        "scraped_at": 1754926313.0462966
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922664.7850747
+        "scraped_at": 1754926315.4858458
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922667.5109122
+        "scraped_at": 1754926317.8350747
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922669.7681718
+        "scraped_at": 1754926320.2176545
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922671.8947544
+        "scraped_at": 1754926322.4745255
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922674.7543328
+        "scraped_at": 1754926325.50084
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754922677.8014436
-      }
-    },
-    {
-      "title": "MUJI Canada: Denim Pants up to $20 off, 20% off Knitwear + More",
-      "link": "https://smartcanucks.ca/muji-canada-denim-pants-up-to-20-off-20-off-knitwear-more/",
-      "published": "2025-08-08T15:30:44Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754922680.6088924
-      }
-    },
-    {
-      "title": "Natura Market Canada: 25% off Healthy Crunch Barbie Crispy Squares + Deals of the Week",
-      "link": "https://smartcanucks.ca/natura-market-canada-25-off-healthy-crunch-barbie-crispy-squares-deals-of-the-week/",
-      "published": "2025-08-08T14:51:14Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754922682.9098196
+        "scraped_at": 1754926327.7993593
       }
     }
   ],
