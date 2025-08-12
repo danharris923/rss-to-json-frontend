@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-12T14:29:16.050933Z",
+  "scraped_at": "2025-08-12T15:31:47.392375Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Well.ca Canada: Save up to 20% on Back To School + Top Deals This Week",
+      "link": "https://smartcanucks.ca/well-ca-canada-save-up-to-20-on-back-to-school-top-deals-this-week/",
+      "published": "2025-08-12T15:13:44Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755012653.109427
+      }
+    },
+    {
+      "title": "Patagonia Canada Past-Season Styles Summer Sale: Save up to 40% off",
+      "link": "https://smartcanucks.ca/patagonia-canada-past-season-styles-summer-sale-save-up-to-40-off/",
+      "published": "2025-08-12T14:44:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755012655.4718144
+      }
+    },
     {
       "title": "UNIQLO Canada Summer Sale + Limited Time Offers: Mini T-Shirts $14.90 + More",
       "link": "https://smartcanucks.ca/uniqlo-canada-summer-sale-limited-time-offers-mini-t-shirts-14-90-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008909.8553178
+        "scraped_at": 1755012657.8734891
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008911.918346
+        "scraped_at": 1755012661.000677
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008914.1702054
+        "scraped_at": 1755012663.958299
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008916.245336
+        "scraped_at": 1755012666.8708858
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008918.8400583
+        "scraped_at": 1755012670.0711107
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008920.8924422
+        "scraped_at": 1755012672.5263677
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008923.2077951
+        "scraped_at": 1755012675.6566336
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008925.2391543
+        "scraped_at": 1755012678.4228685
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008927.6476395
+        "scraped_at": 1755012681.3877025
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008930.5362854
+        "scraped_at": 1755012683.8856363
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008932.7311282
+        "scraped_at": 1755012686.6416934
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008935.552091
+        "scraped_at": 1755012689.9623175
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008937.854754
+        "scraped_at": 1755012692.41669
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008940.0449657
+        "scraped_at": 1755012695.5287483
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008942.4004095
+        "scraped_at": 1755012698.4388554
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008945.1097078
+        "scraped_at": 1755012701.7794855
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008947.7854404
+        "scraped_at": 1755012704.9769742
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755008950.290138
-      }
-    },
-    {
-      "title": "Michaels Canada: 40% Off One Regular Priced Item + Weekly Deals",
-      "link": "https://smartcanucks.ca/michaels-canada-40-off-one-regular-priced-item-weekly-deals-2/",
-      "published": "2025-08-09T15:24:46Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755008953.223971
-      }
-    },
-    {
-      "title": "Best Buy Canada: Save up to $300 on Select Laptops + Top Deals",
-      "link": "https://smartcanucks.ca/best-buy-canada-save-up-to-300-on-select-laptops-top-deals/",
-      "published": "2025-08-09T15:22:17Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755008956.050861
+        "scraped_at": 1755012707.3922853
       }
     }
   ],
