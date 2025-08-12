@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-12T13:40:19.262613Z",
+  "scraped_at": "2025-08-12T14:29:16.050933Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "UNIQLO Canada Summer Sale + Limited Time Offers: Mini T-Shirts $14.90 + More",
+      "link": "https://smartcanucks.ca/uniqlo-canada-summer-sale-limited-time-offers-mini-t-shirts-14-90-more/",
+      "published": "2025-08-12T14:16:49Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755008909.8553178
+      }
+    },
     {
       "title": "Chapters Indigo Canada Deals Sale & Clearance: Save up to 50% off Select Items",
       "link": "https://smartcanucks.ca/chapters-indigo-canada-deals-sale-clearance-save-up-to-50-off-select-items/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005971.1762311
+        "scraped_at": 1755008911.918346
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005973.5374553
+        "scraped_at": 1755008914.1702054
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005975.7931376
+        "scraped_at": 1755008916.245336
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005978.270625
+        "scraped_at": 1755008918.8400583
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005980.3346136
+        "scraped_at": 1755008920.8924422
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005983.0557055
+        "scraped_at": 1755008923.2077951
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005985.7611122
+        "scraped_at": 1755008925.2391543
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005988.6237533
+        "scraped_at": 1755008927.6476395
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005991.2417188
+        "scraped_at": 1755008930.5362854
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005994.054979
+        "scraped_at": 1755008932.7311282
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005996.8086011
+        "scraped_at": 1755008935.552091
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755005999.3360353
+        "scraped_at": 1755008937.854754
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755006001.967437
+        "scraped_at": 1755008940.0449657
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755006004.0570226
+        "scraped_at": 1755008942.4004095
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755006007.0858736
+        "scraped_at": 1755008945.1097078
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755006009.605703
+        "scraped_at": 1755008947.7854404
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755006012.3191633
+        "scraped_at": 1755008950.290138
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755006014.4512894
+        "scraped_at": 1755008953.223971
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755006017.0408428
-      }
-    },
-    {
-      "title": "Overstock Canada: Semi-Annual Sale up to 60% off + Designer Shop Showcase up to 50% off",
-      "link": "https://smartcanucks.ca/overstock-canada-semi-annual-sale-up-to-60-off-designer-shop-showcase-up-to-50-off/",
-      "published": "2025-08-09T15:11:22Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755006019.262534
+        "scraped_at": 1755008956.050861
       }
     }
   ],
