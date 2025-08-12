@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-12T12:58:21.702193Z",
+  "scraped_at": "2025-08-12T13:40:19.262613Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Chapters Indigo Canada Deals Sale & Clearance: Save up to 50% off Select Items",
+      "link": "https://smartcanucks.ca/chapters-indigo-canada-deals-sale-clearance-save-up-to-50-off-select-items/",
+      "published": "2025-08-12T13:03:37Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755005971.1762311
+      }
+    },
     {
       "title": "Loblaws and Real Canadian Superstore: Get 25,000 PC Optimum Points for Every $100 Spent on General Merchandise August 14th – 20th",
       "link": "https://smartcanucks.ca/loblaws-and-real-canadian-superstore-get-25000-pc-optimum-points-for-every-100-spent-on-general-merchandise-august-14th-20th/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003453.6745596
+        "scraped_at": 1755005973.5374553
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003455.810649
+        "scraped_at": 1755005975.7931376
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003458.1889658
+        "scraped_at": 1755005978.270625
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003460.9872618
+        "scraped_at": 1755005980.3346136
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003463.9314947
+        "scraped_at": 1755005983.0557055
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003466.8175538
+        "scraped_at": 1755005985.7611122
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003469.239756
+        "scraped_at": 1755005988.6237533
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003472.0301294
+        "scraped_at": 1755005991.2417188
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003474.8921006
+        "scraped_at": 1755005994.054979
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003476.9999902
+        "scraped_at": 1755005996.8086011
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003479.2159429
+        "scraped_at": 1755005999.3360353
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003481.898012
+        "scraped_at": 1755006001.967437
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003484.5441194
+        "scraped_at": 1755006004.0570226
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003486.685633
+        "scraped_at": 1755006007.0858736
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003489.629271
+        "scraped_at": 1755006009.605703
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003491.9538412
+        "scraped_at": 1755006012.3191633
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003494.2452462
+        "scraped_at": 1755006014.4512894
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003497.0002499
+        "scraped_at": 1755006017.0408428
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755003499.5349874
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 42% on Air Purifier + 50% on Vegetable Chopper Cutter + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-42-on-air-purifier-33-on-wide-flat-iron-hair-straightener-more/",
-      "published": "2025-08-09T04:13:02Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755003501.7021117
+        "scraped_at": 1755006019.262534
       }
     }
   ],
