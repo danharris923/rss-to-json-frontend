@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-11T23:26:45.838674Z",
+  "scraped_at": "2025-08-12T02:10:43.417526Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Loblaws and Real Canadian Superstore: Get 25,000 PC Optimum Points for Every $100 Spent on General Merchandise August 14th – 20th",
+      "link": "https://smartcanucks.ca/loblaws-and-real-canadian-superstore-get-25000-pc-optimum-points-for-every-100-spent-on-general-merchandise-august-14th-20th/",
+      "published": "2025-08-12T00:48:57Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1754964594.102647
+      }
+    },
     {
       "title": "Walmart Canada: Seedless Cucumbers 69 Cents Each After 25 Cent Eclipsa Rebate",
       "link": "https://smartcanucks.ca/walmart-canada-seedless-cucumbers-69-cents-each-after-25-cent-eclipsa-rebate/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954756.2625592
+        "scraped_at": 1754964596.791604
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954759.131879
+        "scraped_at": 1754964599.597472
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954762.0593915
+        "scraped_at": 1754964601.6527066
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954765.141425
+        "scraped_at": 1754964603.808442
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954767.3343995
+        "scraped_at": 1754964606.7756007
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954769.6212306
+        "scraped_at": 1754964609.297811
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954771.7887402
+        "scraped_at": 1754964611.5804982
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954774.6303139
+        "scraped_at": 1754964613.736727
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954777.1225164
+        "scraped_at": 1754964616.644995
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954779.9869857
+        "scraped_at": 1754964619.0815158
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954782.9205995
+        "scraped_at": 1754964621.6573246
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954785.4377527
+        "scraped_at": 1754964624.1892705
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954787.684126
+        "scraped_at": 1754964626.9112537
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954789.892417
+        "scraped_at": 1754964629.884934
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954792.3481164
+        "scraped_at": 1754964632.8400323
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954794.7757704
+        "scraped_at": 1754964635.8088994
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954797.1047542
+        "scraped_at": 1754964638.4994018
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954800.218317
+        "scraped_at": 1754964640.6362014
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1754954802.7490933
-      }
-    },
-    {
-      "title": "Walmart Canada: Free Listerine with Printable Coupon + Flyer Deals",
-      "link": "https://smartcanucks.ca/walmart-canada-free-listerine-with-printable-coupon-flyer-deals/",
-      "published": "2025-08-09T02:57:47Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1754954805.838574
+        "scraped_at": 1754964643.4174423
       }
     }
   ],
