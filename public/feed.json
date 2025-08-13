@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-12T23:26:36.420130Z",
+  "scraped_at": "2025-08-13T02:12:53.392774Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Metro Ontario Flyer Sneak Peek August 14th – 20th",
+      "link": "https://smartcanucks.ca/metro-ontario-flyer-sneak-peek-august-14th-20th/",
+      "published": "2025-08-13T00:34:59Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755051125.8862123
+      }
+    },
+    {
+      "title": "No Frills Ontario Flyer Sneak Peek August 14th – 20th",
+      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-sneak-peek-august-14th-20th/",
+      "published": "2025-08-12T23:49:09Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755051128.7517576
+      }
+    },
+    {
+      "title": "Giant Tiger Canada Flyer Deals August 13th – 19th",
+      "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-august-13th-19th/",
+      "published": "2025-08-12T23:32:35Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755051131.5767336
+      }
+    },
     {
       "title": "Dyson Canada: Sale + Outlet Deals",
       "link": "https://smartcanucks.ca/dyson-canada-sale-outlet-deals/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041147.8368566
+        "scraped_at": 1755051134.3811994
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041150.0843735
+        "scraped_at": 1755051137.0478683
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041152.951809
+        "scraped_at": 1755051139.1056159
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041155.3704278
+        "scraped_at": 1755051141.9137325
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041157.9215057
+        "scraped_at": 1755051144.7600667
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041160.5485868
+        "scraped_at": 1755051146.8758662
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041162.5870187
+        "scraped_at": 1755051149.8990903
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041165.2192886
+        "scraped_at": 1755051152.4677358
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041168.1016264
+        "scraped_at": 1755051154.6366649
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041170.9275045
+        "scraped_at": 1755051156.7058976
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041173.6283233
+        "scraped_at": 1755051159.3943331
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041175.9819586
+        "scraped_at": 1755051161.509172
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041178.607804
+        "scraped_at": 1755051164.3466344
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041181.1597416
+        "scraped_at": 1755051166.458375
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041183.7352514
+        "scraped_at": 1755051168.7026558
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041186.349333
+        "scraped_at": 1755051170.8032687
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755041189.0321066
-      }
-    },
-    {
-      "title": "WebSaver Canada Coupons: Save $1 on the Purchase of any Hellmann’s Mayo",
-      "link": "https://smartcanucks.ca/websaver-canada-coupons-save-1-on-the-purchase-of-any-hellmanns-mayo/",
-      "published": "2025-08-10T02:27:49Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755041191.7282872
-      }
-    },
-    {
-      "title": "Janes Canada: Sign Up For Emails And Get a $4 Printable Coupon",
-      "link": "https://smartcanucks.ca/janes-canada-sign-up-for-emails-and-get-a-4-printable-coupon/",
-      "published": "2025-08-10T01:46:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755041194.3420837
-      }
-    },
-    {
-      "title": "Rexall Canada: Get 15,000 Be Well Points When You Spend $40 or More + Get 12,500 Points With Text Offer",
-      "link": "https://smartcanucks.ca/rexall-canada-get-15000-be-well-points-when-you-spend-40-or-more-get-12500-points-with-text-offer/",
-      "published": "2025-08-10T00:47:33Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755041196.4200363
+        "scraped_at": 1755051173.392643
       }
     }
   ],
