@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-13T11:25:11.600030Z",
+  "scraped_at": "2025-08-13T12:59:25.286105Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Allbirds Canada: Save up to 50% on Select Shoes & Apparel",
+      "link": "https://smartcanucks.ca/allbirds-canada-save-up-to-50-on-select-shoes-apparel/",
+      "published": "2025-08-13T12:21:32Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755089917.3411968
+      }
+    },
+    {
+      "title": "Bench Canada: 50% off Select Styles + Outlet up to 67% off",
+      "link": "https://smartcanucks.ca/bench-canada-50-off-select-styles-outlet-up-to-67-off/",
+      "published": "2025-08-13T12:01:58Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755089920.127397
+      }
+    },
     {
       "title": "Metro Ontario Flyer Sneak Peek August 14th – 20th",
       "link": "https://smartcanucks.ca/metro-ontario-flyer-sneak-peek-august-14th-20th/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084266.009967
+        "scraped_at": 1755089922.299762
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084268.3825686
+        "scraped_at": 1755089925.1602523
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084270.8631651
+        "scraped_at": 1755089927.8824382
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084273.75636
+        "scraped_at": 1755089930.4007895
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084276.339036
+        "scraped_at": 1755089933.0056856
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084278.6555674
+        "scraped_at": 1755089935.0794172
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084281.092536
+        "scraped_at": 1755089937.5695403
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084283.4110508
+        "scraped_at": 1755089940.2835062
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084285.5086038
+        "scraped_at": 1755089943.1053367
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084287.8356137
+        "scraped_at": 1755089945.5433996
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084290.7839606
+        "scraped_at": 1755089947.935483
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084293.5233338
+        "scraped_at": 1755089950.2699761
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084295.7140093
+        "scraped_at": 1755089952.8353274
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084298.0568483
+        "scraped_at": 1755089955.102587
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084300.297211
+        "scraped_at": 1755089957.9293349
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084302.4952826
+        "scraped_at": 1755089960.3763843
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084305.0747907
+        "scraped_at": 1755089962.6367416
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755084307.2583532
-      }
-    },
-    {
-      "title": "Amazon Canada Deals: Save 12% on XREXS 14.5″ Digital Wall Clock Battery Operated + More",
-      "link": "https://smartcanucks.ca/amazon-canada-deals-save-12-on-xrexs-14-5-digital-wall-clock-battery-operated-more/",
-      "published": "2025-08-10T15:05:23Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755084309.5185807
-      }
-    },
-    {
-      "title": "Old Navy Canada: 40-50% off Hot Deals + Clearance",
-      "link": "https://smartcanucks.ca/old-navy-canada-40-50-off-hot-deals-clearance/",
-      "published": "2025-08-10T13:30:06Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755084311.5999053
+        "scraped_at": 1755089965.285967
       }
     }
   ],
