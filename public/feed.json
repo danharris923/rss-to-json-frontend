@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-13T22:26:38.968267Z",
+  "scraped_at": "2025-08-13T23:27:14.012626Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Walmart Canada Flyer Deals August 14th – 20th",
+      "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-august-14th-20th/",
+      "published": "2025-08-13T23:18:38Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755127586.514667
+      }
+    },
+    {
+      "title": "Food Basics & Metro Ontario: Save 20% on $50 H&M and Indigo Chapters Gift Cards",
+      "link": "https://smartcanucks.ca/food-basics-metro-ontario-save-20-on-50-hm-and-indigo-chapters-gift-cards/",
+      "published": "2025-08-13T22:54:09Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755127589.4079604
+      }
+    },
     {
       "title": "Biovea Canada: Save 15% on Your Order With Promo Code + Deals",
       "link": "https://smartcanucks.ca/biovea-canada-save-15-on-your-order-with-promo-code-deals/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123950.6702602
+        "scraped_at": 1755127592.1288557
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123952.7533364
+        "scraped_at": 1755127595.1047885
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123954.8570206
+        "scraped_at": 1755127597.555185
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123957.8204656
+        "scraped_at": 1755127599.7891102
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123960.150618
+        "scraped_at": 1755127601.9261813
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123963.1013203
+        "scraped_at": 1755127604.453683
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123965.854271
+        "scraped_at": 1755127606.751022
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123968.8562675
+        "scraped_at": 1755127609.3116798
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123971.0347915
+        "scraped_at": 1755127611.4733107
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123973.8991485
+        "scraped_at": 1755127613.7105927
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123976.0135047
+        "scraped_at": 1755127616.2502623
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123978.4359324
+        "scraped_at": 1755127619.1496363
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123980.4726539
+        "scraped_at": 1755127621.8685687
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123983.3798058
+        "scraped_at": 1755127623.9815106
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123986.122877
+        "scraped_at": 1755127626.7527351
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123989.134974
+        "scraped_at": 1755127629.0248818
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123991.5934012
+        "scraped_at": 1755127631.1626673
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755123993.911562
-      }
-    },
-    {
-      "title": "Staples Canada: Hilroy Notebooks 49 Cents + up to 30% off Desk and Chairs + More Top Deals",
-      "link": "https://smartcanucks.ca/staples-canada-hilroy-notebooks-49-cents-up-to-30-off-desk-and-chairs-more-top-deals/",
-      "published": "2025-08-11T13:46:19Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755123996.2842813
-      }
-    },
-    {
-      "title": "Victoria’s Secret Canada: Get up to $50 Off Your Purchase When You Spend $200 + Clearance up to 75% off",
-      "link": "https://smartcanucks.ca/victorias-secret-canada-get-up-to-50-off-your-purchase-when-you-spend-200-clearance-up-to-75-off/",
-      "published": "2025-08-11T13:23:28Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755123998.9681473
+        "scraped_at": 1755127634.0125396
       }
     }
   ],
