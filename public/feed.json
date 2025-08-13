@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-13T12:59:25.286105Z",
+  "scraped_at": "2025-08-13T13:41:03.042152Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Armani Beauty Canada: up to 25% off Sitewide Plus Free 5 Piece Gift When You Spend $175",
+      "link": "https://smartcanucks.ca/armani-beauty-canada-up-to-25-off-sitewide-plus-free-5-piece-gift-when-you-spend-175/",
+      "published": "2025-08-13T13:13:39Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755092416.5576103
+      }
+    },
     {
       "title": "Allbirds Canada: Save up to 50% on Select Shoes & Apparel",
       "link": "https://smartcanucks.ca/allbirds-canada-save-up-to-50-on-select-shoes-apparel/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089917.3411968
+        "scraped_at": 1755092418.8179498
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089920.127397
+        "scraped_at": 1755092421.4324837
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089922.299762
+        "scraped_at": 1755092423.8693547
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089925.1602523
+        "scraped_at": 1755092426.872409
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089927.8824382
+        "scraped_at": 1755092428.9541268
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089930.4007895
+        "scraped_at": 1755092431.6478908
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089933.0056856
+        "scraped_at": 1755092434.01265
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089935.0794172
+        "scraped_at": 1755092436.3023992
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089937.5695403
+        "scraped_at": 1755092439.3069956
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089940.2835062
+        "scraped_at": 1755092442.1825962
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089943.1053367
+        "scraped_at": 1755092444.5312653
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089945.5433996
+        "scraped_at": 1755092446.5767624
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089947.935483
+        "scraped_at": 1755092449.318757
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089950.2699761
+        "scraped_at": 1755092451.8032064
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089952.8353274
+        "scraped_at": 1755092453.969167
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089955.102587
+        "scraped_at": 1755092456.1054118
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089957.9293349
+        "scraped_at": 1755092458.4238427
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089960.3763843
+        "scraped_at": 1755092460.8741255
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755089962.6367416
-      }
-    },
-    {
-      "title": "Baby Deals & Offers in Flyers Until August 14th",
-      "link": "https://smartcanucks.ca/baby-deals-offers-in-flyers-until-august-14th-2/",
-      "published": "2025-08-11T00:49:58Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755089965.285967
+        "scraped_at": 1755092463.042033
       }
     }
   ],
