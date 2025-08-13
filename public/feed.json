@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-13T13:41:03.042152Z",
+  "scraped_at": "2025-08-13T14:29:56.919590Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Biovea Canada: Save 15% on Your Order With Promo Code + Deals",
+      "link": "https://smartcanucks.ca/biovea-canada-save-15-on-your-order-with-promo-code-deals/",
+      "published": "2025-08-13T14:11:58Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755095347.437058
+      }
+    },
+    {
+      "title": "bebe Canada: Sale up to 60% off",
+      "link": "https://smartcanucks.ca/bebe-canada-sale-up-to-60-off/",
+      "published": "2025-08-13T13:49:08Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755095349.9280055
+      }
+    },
     {
       "title": "Armani Beauty Canada: up to 25% off Sitewide Plus Free 5 Piece Gift When You Spend $175",
       "link": "https://smartcanucks.ca/armani-beauty-canada-up-to-25-off-sitewide-plus-free-5-piece-gift-when-you-spend-175/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092416.5576103
+        "scraped_at": 1755095352.1097205
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092418.8179498
+        "scraped_at": 1755095354.7642274
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092421.4324837
+        "scraped_at": 1755095357.6530852
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092423.8693547
+        "scraped_at": 1755095359.843554
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092426.872409
+        "scraped_at": 1755095362.1846066
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092428.9541268
+        "scraped_at": 1755095364.543751
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092431.6478908
+        "scraped_at": 1755095366.8499007
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092434.01265
+        "scraped_at": 1755095369.2125947
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092436.3023992
+        "scraped_at": 1755095371.9618773
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092439.3069956
+        "scraped_at": 1755095375.0793195
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092442.1825962
+        "scraped_at": 1755095377.3821971
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092444.5312653
+        "scraped_at": 1755095380.2983716
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092446.5767624
+        "scraped_at": 1755095382.9616275
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092449.318757
+        "scraped_at": 1755095385.4312067
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092451.8032064
+        "scraped_at": 1755095388.2103224
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092453.969167
+        "scraped_at": 1755095391.2055287
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092456.1054118
+        "scraped_at": 1755095393.9340363
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755092458.4238427
-      }
-    },
-    {
-      "title": "Buffalo Jeans Canada: up to 50% off Jeans",
-      "link": "https://smartcanucks.ca/buffalo-jeans-canada-up-to-50-off-jeans/",
-      "published": "2025-08-11T12:10:03Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755092460.8741255
-      }
-    },
-    {
-      "title": "Shoppers Drug Mart Canada Family & Friends Event: 20% off Regular Priced Merchandise August 11th & 12th",
-      "link": "https://smartcanucks.ca/shoppers-drug-mart-canada-family-friends-event-20-off-regular-priced-merchandise-august-11th-12th/",
-      "published": "2025-08-11T11:49:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755092463.042033
+        "scraped_at": 1755095396.9194539
       }
     }
   ],
