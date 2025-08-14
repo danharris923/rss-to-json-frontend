@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-14T19:22:24.677613Z",
+  "scraped_at": "2025-08-14T20:31:47.416988Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Nescafe Canada Promotions: Spend $15 on Nescafe Rich and get $5",
+      "link": "https://smartcanucks.ca/nescafe-canada-promotions-spend-15-on-nescafe-rich-and-get-5/",
+      "published": "2025-08-14T20:17:26Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755203452.9194746
+      }
+    },
     {
       "title": "La Senza Canada: 30% off Sitewide + Buy 1 Get 1 50% off Everything",
       "link": "https://smartcanucks.ca/la-senza-canada-30-off-sitewide-buy-1-get-1-50-off-everything/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199293.802791
+        "scraped_at": 1755203455.3378875
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199296.7923696
+        "scraped_at": 1755203458.174723
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199298.9437575
+        "scraped_at": 1755203461.5689635
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199301.2383015
+        "scraped_at": 1755203464.5744958
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199304.2422173
+        "scraped_at": 1755203467.1882486
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199306.9022062
+        "scraped_at": 1755203470.4368024
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199309.0803623
+        "scraped_at": 1755203473.2867286
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199311.2865148
+        "scraped_at": 1755203475.7641766
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199314.4355264
+        "scraped_at": 1755203477.8191934
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199317.2801208
+        "scraped_at": 1755203480.7431993
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199320.5077355
+        "scraped_at": 1755203483.9443948
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199322.8000035
+        "scraped_at": 1755203487.0000854
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199325.6509557
+        "scraped_at": 1755203489.9846692
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199328.3571877
+        "scraped_at": 1755203492.7728207
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199331.2430842
+        "scraped_at": 1755203495.8794646
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199333.9737816
+        "scraped_at": 1755203499.2016954
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199337.1433988
+        "scraped_at": 1755203501.9850852
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199339.9811115
+        "scraped_at": 1755203504.5558867
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755199342.259805
-      }
-    },
-    {
-      "title": "UNIQLO Canada Summer Sale + Limited Time Offers: Mini T-Shirts $14.90 + More",
-      "link": "https://smartcanucks.ca/uniqlo-canada-summer-sale-limited-time-offers-mini-t-shirts-14-90-more/",
-      "published": "2025-08-12T14:16:49Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755199344.677489
+        "scraped_at": 1755203507.4169054
       }
     }
   ],
