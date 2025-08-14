@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-14T11:25:06.765266Z",
+  "scraped_at": "2025-08-14T12:59:53.921146Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,51 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Gap Canada Friends & Family Sale: 40% off Everything + Extra 10% off For Rewards Members with Promo Code",
+      "link": "https://smartcanucks.ca/gap-canada-friends-family-sale-40-off-everything-extra-10-off-for-rewards-members-with-promo-code/",
+      "published": "2025-08-14T12:57:20Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755176344.7993217
+      }
+    },
+    {
+      "title": "SoftMoc Canada: Flash Sale up to 70% off + Free Shipping",
+      "link": "https://smartcanucks.ca/softmoc-canada-flash-sale-up-to-70-off-free-shipping/",
+      "published": "2025-08-14T12:09:00Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755176347.2080543
+      }
+    },
+    {
+      "title": "Reitmans Canada: Flash Sale 40% off Everything + Sale up to 70% off + Extra 30% off",
+      "link": "https://smartcanucks.ca/reitmans-canada-flash-sale-40-off-everything-sale-up-to-70-off-extra-30-off/",
+      "published": "2025-08-14T11:42:55Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755176349.9810715
+      }
+    },
     {
       "title": "Freshco Ontario: 11lb Average Watermelon $2.99 Member Price + Flyer Deals August 14th – 20th",
       "link": "https://smartcanucks.ca/freshco-ontario-11lb-average-watermelon-2-99-member-price-flyer-deals-august-14th-20th/",
@@ -21,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170659.2470407
+        "scraped_at": 1755176352.91336
       }
     },
     {
@@ -36,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170661.596679
+        "scraped_at": 1755176355.0333734
       }
     },
     {
@@ -51,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170664.3626919
+        "scraped_at": 1755176357.6855361
       }
     },
     {
@@ -66,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170666.8978524
+        "scraped_at": 1755176359.9407103
       }
     },
     {
@@ -81,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170669.239492
+        "scraped_at": 1755176362.0846105
       }
     },
     {
@@ -96,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170671.6879368
+        "scraped_at": 1755176364.627473
       }
     },
     {
@@ -111,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170674.6996086
+        "scraped_at": 1755176367.390055
       }
     },
     {
@@ -126,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170676.7720072
+        "scraped_at": 1755176370.1462092
       }
     },
     {
@@ -141,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170679.4275663
+        "scraped_at": 1755176373.130901
       }
     },
     {
@@ -156,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170681.9735937
+        "scraped_at": 1755176375.5444875
       }
     },
     {
@@ -171,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170684.555781
+        "scraped_at": 1755176377.7158518
       }
     },
     {
@@ -186,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170686.6937487
+        "scraped_at": 1755176380.590989
       }
     },
     {
@@ -201,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170688.963416
+        "scraped_at": 1755176383.3433008
       }
     },
     {
@@ -216,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170691.125154
+        "scraped_at": 1755176385.5053315
       }
     },
     {
@@ -231,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170693.953803
+        "scraped_at": 1755176388.4790907
       }
     },
     {
@@ -246,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170696.4402933
+        "scraped_at": 1755176391.4895008
       }
     },
     {
@@ -261,52 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755170698.6988883
-      }
-    },
-    {
-      "title": "Walmart Canada: Seedless Cucumbers 69 Cents Each After 25 Cent Eclipsa Rebate",
-      "link": "https://smartcanucks.ca/walmart-canada-seedless-cucumbers-69-cents-each-after-25-cent-eclipsa-rebate/",
-      "published": "2025-08-11T23:04:42Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755170701.4701684
-      }
-    },
-    {
-      "title": "Freshco Ontario: Gallo Olive Oil 1L $7.77 Member Price + Gay Lea Butter $4.77 Member Price",
-      "link": "https://smartcanucks.ca/freshco-ontario-gallo-olive-oil-1l-7-77-member-price-gay-lea-butter-4-77-member-price/",
-      "published": "2025-08-11T22:36:38Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755170703.86366
-      }
-    },
-    {
-      "title": "West49 Canada: Extra 10% off Your Order with Promo Code + Clearance",
-      "link": "https://smartcanucks.ca/west49-canada-extra-10-off-your-order-with-promo-code-clearance/",
-      "published": "2025-08-11T15:15:18Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755170706.7651713
+        "scraped_at": 1755176393.9210515
       }
     }
   ],
