@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-14T14:28:37.311334Z",
+  "scraped_at": "2025-08-14T15:31:24.297398Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "La Senza Canada: 30% off Sitewide + Buy 1 Get 1 50% off Everything",
+      "link": "https://smartcanucks.ca/la-senza-canada-30-off-sitewide-buy-1-get-1-50-off-everything/",
+      "published": "2025-08-14T15:22:21Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755185435.1715357
+      }
+    },
+    {
+      "title": "GANT Canada: Summer Clearance up to 70% off",
+      "link": "https://smartcanucks.ca/gant-canada-summer-clearance-up-to-70-off/",
+      "published": "2025-08-14T15:10:28Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755185437.7894862
+      }
+    },
     {
       "title": "Gap Canada Friends & Family Sale: 40% off Everything + Extra 10% off For Rewards Members with Promo Code",
       "link": "https://smartcanucks.ca/gap-canada-friends-family-sale-40-off-everything-extra-10-off-for-rewards-members-with-promo-code/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181668.6653328
+        "scraped_at": 1755185439.9981017
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181671.2604184
+        "scraped_at": 1755185442.250717
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181673.5495906
+        "scraped_at": 1755185444.8429255
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181675.969238
+        "scraped_at": 1755185447.5305011
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181678.6733072
+        "scraped_at": 1755185450.058012
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181681.0151777
+        "scraped_at": 1755185452.4435337
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181683.8166041
+        "scraped_at": 1755185455.0377557
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181685.932495
+        "scraped_at": 1755185457.3650072
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181688.9506788
+        "scraped_at": 1755185460.5317967
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181691.6663609
+        "scraped_at": 1755185462.9824696
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181694.1563106
+        "scraped_at": 1755185465.987555
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181696.2168348
+        "scraped_at": 1755185468.22316
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181698.8627398
+        "scraped_at": 1755185471.2424104
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181701.615222
+        "scraped_at": 1755185473.7279775
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181704.485962
+        "scraped_at": 1755185475.934912
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181707.420624
+        "scraped_at": 1755185478.2605534
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181710.1364617
+        "scraped_at": 1755185481.576818
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755181712.2574377
-      }
-    },
-    {
-      "title": "Chapters Indigo Canada Deals Sale & Clearance: Save up to 50% off Select Items",
-      "link": "https://smartcanucks.ca/chapters-indigo-canada-deals-sale-clearance-save-up-to-50-off-select-items/",
-      "published": "2025-08-12T13:03:37Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755181714.7442427
-      }
-    },
-    {
-      "title": "Loblaws and Real Canadian Superstore: Get 25,000 PC Optimum Points for Every $100 Spent on General Merchandise August 14th – 20th",
-      "link": "https://smartcanucks.ca/loblaws-and-real-canadian-superstore-get-25000-pc-optimum-points-for-every-100-spent-on-general-merchandise-august-14th-20th/",
-      "published": "2025-08-12T00:48:57Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755181717.311239
+        "scraped_at": 1755185484.297304
       }
     }
   ],
