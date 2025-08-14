@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-14T20:31:47.416988Z",
+  "scraped_at": "2025-08-14T21:26:33.669991Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "WebSaver Canada: Spend $30 on You Back-To-School Haul and Get $3 Back",
+      "link": "https://smartcanucks.ca/websaver-canada-spend-30-on-you-back-to-school-haul-and-get-3-back/",
+      "published": "2025-08-14T20:37:01Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755206744.8672335
+      }
+    },
     {
       "title": "Nescafe Canada Promotions: Spend $15 on Nescafe Rich and get $5",
       "link": "https://smartcanucks.ca/nescafe-canada-promotions-spend-15-on-nescafe-rich-and-get-5/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203452.9194746
+        "scraped_at": 1755206747.1772442
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203455.3378875
+        "scraped_at": 1755206749.5908453
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203458.174723
+        "scraped_at": 1755206751.8045452
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203461.5689635
+        "scraped_at": 1755206753.9193683
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203464.5744958
+        "scraped_at": 1755206757.0965014
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203467.1882486
+        "scraped_at": 1755206759.1262786
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203470.4368024
+        "scraped_at": 1755206761.6514683
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203473.2867286
+        "scraped_at": 1755206764.4355578
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203475.7641766
+        "scraped_at": 1755206767.411656
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203477.8191934
+        "scraped_at": 1755206769.9581876
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203480.7431993
+        "scraped_at": 1755206772.8185139
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203483.9443948
+        "scraped_at": 1755206775.6706536
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203487.0000854
+        "scraped_at": 1755206777.748178
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203489.9846692
+        "scraped_at": 1755206780.5998688
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203492.7728207
+        "scraped_at": 1755206783.1634443
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203495.8794646
+        "scraped_at": 1755206785.9846232
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203499.2016954
+        "scraped_at": 1755206788.9028802
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203501.9850852
+        "scraped_at": 1755206791.0222192
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755203504.5558867
-      }
-    },
-    {
-      "title": "Patagonia Canada Past-Season Styles Summer Sale: Save up to 40% off",
-      "link": "https://smartcanucks.ca/patagonia-canada-past-season-styles-summer-sale-save-up-to-40-off/",
-      "published": "2025-08-12T14:44:17Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755203507.4169054
+        "scraped_at": 1755206793.6698995
       }
     }
   ],
