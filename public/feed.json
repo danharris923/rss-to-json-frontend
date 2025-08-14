@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-13T23:27:14.012626Z",
+  "scraped_at": "2025-08-14T02:19:09.839844Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Freshco Ontario: 11lb Average Watermelon $2.99 Member Price + Flyer Deals August 14th – 20th",
+      "link": "https://smartcanucks.ca/freshco-ontario-11lb-average-watermelon-2-99-member-price-flyer-deals-august-14th-20th/",
+      "published": "2025-08-14T00:11:27Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755137899.7795875
+      }
+    },
     {
       "title": "Walmart Canada Flyer Deals August 14th – 20th",
       "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-august-14th-20th/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127586.514667
+        "scraped_at": 1755137902.926165
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127589.4079604
+        "scraped_at": 1755137905.4035463
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127592.1288557
+        "scraped_at": 1755137907.7764223
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127595.1047885
+        "scraped_at": 1755137909.8423533
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127597.555185
+        "scraped_at": 1755137912.9025435
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127599.7891102
+        "scraped_at": 1755137915.8316517
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127601.9261813
+        "scraped_at": 1755137918.8308513
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127604.453683
+        "scraped_at": 1755137921.5536785
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127606.751022
+        "scraped_at": 1755137924.2137055
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127609.3116798
+        "scraped_at": 1755137926.9735966
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127611.4733107
+        "scraped_at": 1755137929.4108226
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127613.7105927
+        "scraped_at": 1755137931.755553
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127616.2502623
+        "scraped_at": 1755137934.18952
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127619.1496363
+        "scraped_at": 1755137936.5873108
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127621.8685687
+        "scraped_at": 1755137939.0124547
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127623.9815106
+        "scraped_at": 1755137942.0417979
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127626.7527351
+        "scraped_at": 1755137944.486278
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127629.0248818
+        "scraped_at": 1755137947.188337
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755127631.1626673
-      }
-    },
-    {
-      "title": "Villeroy & Boch Canada: Summer Send-Off Sale up to 50% off + Clearance up to 70% off + Free Shipping",
-      "link": "https://smartcanucks.ca/villeroy-boch-canada-summer-send-off-sale-up-to-50-off-clearance-up-to-70-off-free-shipping/",
-      "published": "2025-08-11T14:47:04Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755127634.0125396
+        "scraped_at": 1755137949.8397534
       }
     }
   ],
