@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-15T15:29:01.085220Z",
+  "scraped_at": "2025-08-15T16:34:49.854450Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "LEGO Canada: Current Offers and Sale",
+      "link": "https://smartcanucks.ca/lego-canada-current-offers-and-sale/",
+      "published": "2025-08-15T16:11:35Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755275640.470237
+      }
+    },
+    {
+      "title": "The Last Hunt Canada: Extra 25% off Back To School Collection with Promo Code",
+      "link": "https://smartcanucks.ca/the-last-hunt-canada-extra-25-off-back-to-school-collection-with-promo-code/",
+      "published": "2025-08-15T15:54:10Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755275643.0744336
+      }
+    },
     {
       "title": "Eddie Bauer Canada End of Season Clearance Sale: Extra 50% off Last Marked Price + Flash Sale 60% Off",
       "link": "https://smartcanucks.ca/eddie-bauer-canada-end-of-season-clearance-sale-extra-50-off-last-marked-price-flash-sale-60-off/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271693.2853363
+        "scraped_at": 1755275645.0937753
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271695.3502572
+        "scraped_at": 1755275648.1654344
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271697.8553004
+        "scraped_at": 1755275650.8126795
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271700.2018278
+        "scraped_at": 1755275653.8356698
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271703.1224854
+        "scraped_at": 1755275657.0079153
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271705.4132385
+        "scraped_at": 1755275659.10528
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271708.2346818
+        "scraped_at": 1755275661.546339
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271710.4453127
+        "scraped_at": 1755275663.8598
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271712.8399293
+        "scraped_at": 1755275666.6291459
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271715.2112489
+        "scraped_at": 1755275669.1634042
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271717.458561
+        "scraped_at": 1755275671.6954656
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271720.3895457
+        "scraped_at": 1755275674.1405427
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271722.8382878
+        "scraped_at": 1755275676.6463287
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271725.2232885
+        "scraped_at": 1755275679.626142
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271727.5987482
+        "scraped_at": 1755275681.65793
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271730.270727
+        "scraped_at": 1755275684.4833088
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271732.9562013
+        "scraped_at": 1755275687.3932767
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755271735.7072563
-      }
-    },
-    {
-      "title": "Allbirds Canada: Save up to 50% on Select Shoes & Apparel",
-      "link": "https://smartcanucks.ca/allbirds-canada-save-up-to-50-on-select-shoes-apparel/",
-      "published": "2025-08-13T12:21:32Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755271738.4857175
-      }
-    },
-    {
-      "title": "Bench Canada: 50% off Select Styles + Outlet up to 67% off",
-      "link": "https://smartcanucks.ca/bench-canada-50-off-select-styles-outlet-up-to-67-off/",
-      "published": "2025-08-13T12:01:58Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755271741.0850909
+        "scraped_at": 1755275689.8543146
       }
     }
   ],
