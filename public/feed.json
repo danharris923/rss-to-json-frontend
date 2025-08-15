@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-14T23:26:29.642426Z",
+  "scraped_at": "2025-08-15T02:19:51.739835Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings August 14th – 20th",
+      "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-august-14th-20th/",
+      "published": "2025-08-15T00:18:22Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755224342.824811
+      }
+    },
     {
       "title": "WebSaver Canada: Spend $30 on You Back-To-School Haul and Get $3 Back",
       "link": "https://smartcanucks.ca/websaver-canada-spend-30-on-you-back-to-school-haul-and-get-3-back/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213943.0727112
+        "scraped_at": 1755224345.4926987
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213945.3190153
+        "scraped_at": 1755224348.3485248
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213947.7434545
+        "scraped_at": 1755224350.501316
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213950.1281211
+        "scraped_at": 1755224352.7693448
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213952.2253027
+        "scraped_at": 1755224355.2126288
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213955.1663902
+        "scraped_at": 1755224357.8607502
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213957.9135282
+        "scraped_at": 1755224360.7276287
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213960.0006955
+        "scraped_at": 1755224363.2706428
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213962.1750865
+        "scraped_at": 1755224366.3208463
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213965.110161
+        "scraped_at": 1755224368.8059487
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213967.1922486
+        "scraped_at": 1755224371.308268
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213969.7399957
+        "scraped_at": 1755224373.8203125
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213972.3337817
+        "scraped_at": 1755224376.548424
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213975.3344643
+        "scraped_at": 1755224378.8733299
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213977.556839
+        "scraped_at": 1755224381.77401
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213979.9787867
+        "scraped_at": 1755224383.9457867
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213982.6824265
+        "scraped_at": 1755224386.3747978
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213984.8754733
+        "scraped_at": 1755224389.0166328
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755213987.0003512
-      }
-    },
-    {
-      "title": "Well.ca Canada: Save up to 20% on Back To School + Top Deals This Week",
-      "link": "https://smartcanucks.ca/well-ca-canada-save-up-to-20-on-back-to-school-top-deals-this-week/",
-      "published": "2025-08-12T15:13:44Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755213989.6422975
+        "scraped_at": 1755224391.739739
       }
     }
   ],
