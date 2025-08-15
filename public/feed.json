@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-15T14:27:56.116919Z",
+  "scraped_at": "2025-08-15T15:29:01.085220Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Eddie Bauer Canada End of Season Clearance Sale: Extra 50% off Last Marked Price + Flash Sale 60% Off",
+      "link": "https://smartcanucks.ca/eddie-bauer-canada-end-of-season-clearance-sale-extra-50-off-last-marked-price-flash-sale-60-off/",
+      "published": "2025-08-15T15:25:47Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755271693.2853363
+      }
+    },
+    {
+      "title": "Sport Chek Canada Spend & Get Event: Get $30 When You Spend $100 + Kids’ Shoes Buy One Get One 50% off + More",
+      "link": "https://smartcanucks.ca/sport-chek-canada-spend-get-event-get-30-when-you-spend-100-kids-shoes-buy-one-get-one-50-off-more/",
+      "published": "2025-08-15T14:39:47Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755271695.3502572
+      }
+    },
     {
       "title": "Wayfair Canada: 24 Hour Flash Deals + up to 50% off Back To School",
       "link": "https://smartcanucks.ca/wayfair-canada-24-hour-flash-deals-up-to-50-off-back-to-school/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268028.480694
+        "scraped_at": 1755271697.8553004
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268031.3058426
+        "scraped_at": 1755271700.2018278
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268034.1363444
+        "scraped_at": 1755271703.1224854
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268036.4005463
+        "scraped_at": 1755271705.4132385
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268039.411184
+        "scraped_at": 1755271708.2346818
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268042.1633134
+        "scraped_at": 1755271710.4453127
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268044.335056
+        "scraped_at": 1755271712.8399293
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268047.0256681
+        "scraped_at": 1755271715.2112489
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268049.1243062
+        "scraped_at": 1755271717.458561
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268051.610425
+        "scraped_at": 1755271720.3895457
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268054.2554367
+        "scraped_at": 1755271722.8382878
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268056.3924465
+        "scraped_at": 1755271725.2232885
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268058.7652519
+        "scraped_at": 1755271727.5987482
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268061.1253557
+        "scraped_at": 1755271730.270727
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268063.1722798
+        "scraped_at": 1755271732.9562013
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268065.9549544
+        "scraped_at": 1755271735.7072563
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268068.8834856
+        "scraped_at": 1755271738.4857175
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755268070.9872277
-      }
-    },
-    {
-      "title": "Metro Ontario Flyer Sneak Peek August 14th – 20th",
-      "link": "https://smartcanucks.ca/metro-ontario-flyer-sneak-peek-august-14th-20th/",
-      "published": "2025-08-13T00:34:59Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755268073.854304
-      }
-    },
-    {
-      "title": "No Frills Ontario Flyer Sneak Peek August 14th – 20th",
-      "link": "https://smartcanucks.ca/no-frills-ontario-flyer-sneak-peek-august-14th-20th/",
-      "published": "2025-08-12T23:49:09Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755268076.1167848
+        "scraped_at": 1755271741.0850909
       }
     }
   ],
