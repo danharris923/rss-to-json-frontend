@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-15T13:37:19.836245Z",
+  "scraped_at": "2025-08-15T14:27:56.116919Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Wayfair Canada: 24 Hour Flash Deals + up to 50% off Back To School",
+      "link": "https://smartcanucks.ca/wayfair-canada-24-hour-flash-deals-up-to-50-off-back-to-school/",
+      "published": "2025-08-15T13:59:51Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755268028.480694
+      }
+    },
+    {
+      "title": "IKEA Canada Family Offers: FREE Delivery For University and College Students + 20% off Mattresses + More",
+      "link": "https://smartcanucks.ca/ikea-canada-family-offers-free-delivery-for-university-and-college-students-20-off-mattresses-more/",
+      "published": "2025-08-15T13:40:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755268031.3058426
+      }
+    },
     {
       "title": "Official Hot Canadian Deals and Coupons to go With Flyer Savings August 14th – 20th",
       "link": "https://smartcanucks.ca/official-hot-canadian-deals-and-coupons-to-go-with-flyer-savings-august-14th-20th/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755264991.9215083
+        "scraped_at": 1755268034.1363444
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755264994.9300337
+        "scraped_at": 1755268036.4005463
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755264997.1628125
+        "scraped_at": 1755268039.411184
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755264999.4396272
+        "scraped_at": 1755268042.1633134
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265001.5344024
+        "scraped_at": 1755268044.335056
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265004.087337
+        "scraped_at": 1755268047.0256681
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265007.0281887
+        "scraped_at": 1755268049.1243062
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265009.4282563
+        "scraped_at": 1755268051.610425
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265011.656947
+        "scraped_at": 1755268054.2554367
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265014.3738446
+        "scraped_at": 1755268056.3924465
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265016.6297667
+        "scraped_at": 1755268058.7652519
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265019.4599233
+        "scraped_at": 1755268061.1253557
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265021.5567622
+        "scraped_at": 1755268063.1722798
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265024.0725567
+        "scraped_at": 1755268065.9549544
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265026.8998997
+        "scraped_at": 1755268068.8834856
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265029.0624642
+        "scraped_at": 1755268070.9872277
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265032.0461795
+        "scraped_at": 1755268073.854304
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755265034.758146
-      }
-    },
-    {
-      "title": "Giant Tiger Canada Flyer Deals August 13th – 19th",
-      "link": "https://smartcanucks.ca/giant-tiger-canada-flyer-deals-august-13th-19th/",
-      "published": "2025-08-12T23:32:35Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755265036.8331177
-      }
-    },
-    {
-      "title": "Dyson Canada: Sale + Outlet Deals",
-      "link": "https://smartcanucks.ca/dyson-canada-sale-outlet-deals/",
-      "published": "2025-08-12T15:34:49Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755265039.8361654
+        "scraped_at": 1755268076.1167848
       }
     }
   ],
