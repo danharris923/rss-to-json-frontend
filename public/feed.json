@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-15T23:26:33.420625Z",
+  "scraped_at": "2025-08-16T02:07:39.071610Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Ninja Canada: up to 35% off Select Products or 25% off Sitewide with Promo Code",
+      "link": "https://smartcanucks.ca/ninja-canada-up-to-35-off-select-products-or-25-off-sitewide-with-promo-code/",
+      "published": "2025-08-16T01:16:13Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755310011.929716
+      }
+    },
     {
       "title": "LEGO Canada: Current Offers and Sale",
       "link": "https://smartcanucks.ca/lego-canada-current-offers-and-sale/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300342.6886606
+        "scraped_at": 1755310014.7795732
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300345.7692072
+        "scraped_at": 1755310016.9206822
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300348.7757106
+        "scraped_at": 1755310019.2557602
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300351.7497654
+        "scraped_at": 1755310021.8044212
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300354.6623871
+        "scraped_at": 1755310024.182084
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300356.9129446
+        "scraped_at": 1755310026.2987382
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300359.2766294
+        "scraped_at": 1755310028.6351426
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300362.186404
+        "scraped_at": 1755310031.003733
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300364.5705013
+        "scraped_at": 1755310033.7297134
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300366.92426
+        "scraped_at": 1755310036.529359
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300369.4348598
+        "scraped_at": 1755310039.5290294
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300372.4075782
+        "scraped_at": 1755310041.820361
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300375.3889189
+        "scraped_at": 1755310044.2585385
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300377.9116805
+        "scraped_at": 1755310046.4313047
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300380.783868
+        "scraped_at": 1755310049.073023
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300383.0488222
+        "scraped_at": 1755310051.9835966
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300385.2787666
+        "scraped_at": 1755310054.3660305
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300387.700352
+        "scraped_at": 1755310056.4178095
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755300390.4988532
-      }
-    },
-    {
-      "title": "Armani Beauty Canada: up to 25% off Sitewide Plus Free 5 Piece Gift When You Spend $175",
-      "link": "https://smartcanucks.ca/armani-beauty-canada-up-to-25-off-sitewide-plus-free-5-piece-gift-when-you-spend-175/",
-      "published": "2025-08-13T13:13:39Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755300393.4205146
+        "scraped_at": 1755310059.071482
       }
     }
   ],
