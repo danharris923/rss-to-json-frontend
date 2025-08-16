@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-16T19:22:05.798807Z",
+  "scraped_at": "2025-08-16T20:28:12.094831Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 63% on GKLPO Mini Projector with Built-in Apps Using Promo Code + More Offers",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-63-on-gklpo-mini-projector-with-built-in-apps-using-promo-code-more-offers/",
+      "published": "2025-08-16T19:50:23Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755376044.263851
+      }
+    },
+    {
+      "title": "Amazon Canada Deals: Save 10% on Portable Electric Lunch Box Food Heater + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-10-on-portable-electric-lunch-box-food-heater-more/",
+      "published": "2025-08-16T19:29:13Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755376046.412061
+      }
+    },
     {
       "title": "Amazon Canada Deals: Save 75% on Treadmill + 73% on Cordless Stick Vacuum Cleaner + More",
       "link": "https://smartcanucks.ca/amazon-canada-deals-save-75-on-treadmill-73-on-cordless-stick-vacuum-cleaner-more/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372078.4526672
+        "scraped_at": 1755376049.2279322
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372081.1799896
+        "scraped_at": 1755376051.8284051
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372083.9419382
+        "scraped_at": 1755376054.1047082
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372086.7863407
+        "scraped_at": 1755376056.9189837
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372089.3630033
+        "scraped_at": 1755376059.1398773
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372091.6716566
+        "scraped_at": 1755376061.6399298
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372094.3085163
+        "scraped_at": 1755376064.3743906
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372096.946176
+        "scraped_at": 1755376066.4074929
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372099.7325978
+        "scraped_at": 1755376069.1661696
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372102.1398711
+        "scraped_at": 1755376071.8766294
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372104.2873747
+        "scraped_at": 1755376074.2094924
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372106.8450952
+        "scraped_at": 1755376077.1478596
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372109.3180554
+        "scraped_at": 1755376079.3853474
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372111.6087778
+        "scraped_at": 1755376082.1096683
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372114.1825192
+        "scraped_at": 1755376084.8465505
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372116.601945
+        "scraped_at": 1755376087.7304187
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372119.0004885
+        "scraped_at": 1755376089.7976835
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755372121.0271323
-      }
-    },
-    {
-      "title": "Reitmans Canada: Flash Sale 40% off Everything + Sale up to 70% off + Extra 30% off",
-      "link": "https://smartcanucks.ca/reitmans-canada-flash-sale-40-off-everything-sale-up-to-70-off-extra-30-off/",
-      "published": "2025-08-14T11:42:55Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755372123.5837982
-      }
-    },
-    {
-      "title": "Freshco Ontario: 11lb Average Watermelon $2.99 Member Price + Flyer Deals August 14th – 20th",
-      "link": "https://smartcanucks.ca/freshco-ontario-11lb-average-watermelon-2-99-member-price-flyer-deals-august-14th-20th/",
-      "published": "2025-08-14T00:11:27Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755372125.7986834
+        "scraped_at": 1755376092.0946956
       }
     }
   ],
