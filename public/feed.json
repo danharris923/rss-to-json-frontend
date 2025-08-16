@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-16T18:36:09.602142Z",
+  "scraped_at": "2025-08-16T19:22:05.798807Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,21 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Amazon Canada Deals: Save 75% on Treadmill + 73% on Cordless Stick Vacuum Cleaner + More",
+      "link": "https://smartcanucks.ca/amazon-canada-deals-save-75-on-treadmill-73-on-cordless-stick-vacuum-cleaner-more/",
+      "published": "2025-08-16T18:53:06Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755372078.4526672
+      }
+    },
     {
       "title": "Pandora Canada: Free Bracelet Offer",
       "link": "https://smartcanucks.ca/pandora-canada-free-bracelet-offer/",
@@ -21,7 +36,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369322.0452404
+        "scraped_at": 1755372081.1799896
       }
     },
     {
@@ -36,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369324.2437391
+        "scraped_at": 1755372083.9419382
       }
     },
     {
@@ -51,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369327.240748
+        "scraped_at": 1755372086.7863407
       }
     },
     {
@@ -66,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369329.8074276
+        "scraped_at": 1755372089.3630033
       }
     },
     {
@@ -81,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369332.2156668
+        "scraped_at": 1755372091.6716566
       }
     },
     {
@@ -96,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369335.2416203
+        "scraped_at": 1755372094.3085163
       }
     },
     {
@@ -111,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369337.542698
+        "scraped_at": 1755372096.946176
       }
     },
     {
@@ -126,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369339.833288
+        "scraped_at": 1755372099.7325978
       }
     },
     {
@@ -141,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369342.8296125
+        "scraped_at": 1755372102.1398711
       }
     },
     {
@@ -156,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369345.7727032
+        "scraped_at": 1755372104.2873747
       }
     },
     {
@@ -171,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369348.1045916
+        "scraped_at": 1755372106.8450952
       }
     },
     {
@@ -186,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369350.2302496
+        "scraped_at": 1755372109.3180554
       }
     },
     {
@@ -201,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369353.1736414
+        "scraped_at": 1755372111.6087778
       }
     },
     {
@@ -216,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369355.494901
+        "scraped_at": 1755372114.1825192
       }
     },
     {
@@ -231,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369357.5881631
+        "scraped_at": 1755372116.601945
       }
     },
     {
@@ -246,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369359.7068696
+        "scraped_at": 1755372119.0004885
       }
     },
     {
@@ -261,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369362.552373
+        "scraped_at": 1755372121.0271323
       }
     },
     {
@@ -276,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369364.9725466
+        "scraped_at": 1755372123.5837982
       }
     },
     {
@@ -291,22 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755369367.5096252
-      }
-    },
-    {
-      "title": "Walmart Canada Flyer Deals August 14th – 20th",
-      "link": "https://smartcanucks.ca/walmart-canada-flyer-deals-august-14th-20th/",
-      "published": "2025-08-13T23:18:38Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755369369.601983
+        "scraped_at": 1755372125.7986834
       }
     }
   ],
