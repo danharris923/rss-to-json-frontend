@@ -1,6 +1,6 @@
 {
   "feed_url": "https://smartcanucks.ca/feed/",
-  "scraped_at": "2025-08-16T13:33:07.270365Z",
+  "scraped_at": "2025-08-16T14:24:26.674480Z",
   "scraping_stats": {
     "rss_entries": 20,
     "posts_scraped": 20,
@@ -9,6 +9,36 @@
     "affiliate_success_rate": 0
   },
   "blog_posts": [
+    {
+      "title": "Pandora Canada: Free Bracelet Offer",
+      "link": "https://smartcanucks.ca/pandora-canada-free-bracelet-offer/",
+      "published": "2025-08-16T14:00:17Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755354220.3498156
+      }
+    },
+    {
+      "title": "MyProtein Canada: 50% off Protein Snacks, and 30% off Best Sellers with Promo Code",
+      "link": "https://smartcanucks.ca/myprotein-canada-50-off-protein-snacks-and-30-off-best-sellers-with-promo-code/",
+      "published": "2025-08-16T13:45:43Z",
+      "affiliate_processed": false,
+      "scraped_content": {
+        "title": "",
+        "content_preview": "",
+        "content_summary": "",
+        "og_image": null,
+        "merchant_links_count": 0,
+        "deal_info": {},
+        "scraped_at": 1755354222.7260196
+      }
+    },
     {
       "title": "Best Buy Canada: Tech Fest Sale Until August 17th",
       "link": "https://smartcanucks.ca/best-buy-canada-tech-fest-sale-until-august-17th/",
@@ -21,7 +51,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351139.5060923
+        "scraped_at": 1755354224.7730203
       }
     },
     {
@@ -36,7 +66,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351141.6969292
+        "scraped_at": 1755354227.0820553
       }
     },
     {
@@ -51,7 +81,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351143.789434
+        "scraped_at": 1755354229.9169955
       }
     },
     {
@@ -66,7 +96,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351146.1405418
+        "scraped_at": 1755354232.5357697
       }
     },
     {
@@ -81,7 +111,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351148.8863685
+        "scraped_at": 1755354234.590846
       }
     },
     {
@@ -96,7 +126,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351151.3820767
+        "scraped_at": 1755354236.8160703
       }
     },
     {
@@ -111,7 +141,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351153.4197476
+        "scraped_at": 1755354238.8790495
       }
     },
     {
@@ -126,7 +156,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351155.9831142
+        "scraped_at": 1755354241.5292883
       }
     },
     {
@@ -141,7 +171,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351158.576044
+        "scraped_at": 1755354244.0339594
       }
     },
     {
@@ -156,7 +186,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351160.9598053
+        "scraped_at": 1755354246.1912022
       }
     },
     {
@@ -171,7 +201,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351163.4027357
+        "scraped_at": 1755354248.6181226
       }
     },
     {
@@ -186,7 +216,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351165.558254
+        "scraped_at": 1755354251.0555694
       }
     },
     {
@@ -201,7 +231,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351168.4052248
+        "scraped_at": 1755354253.7237442
       }
     },
     {
@@ -216,7 +246,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351171.1172001
+        "scraped_at": 1755354255.9674282
       }
     },
     {
@@ -231,7 +261,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351174.106451
+        "scraped_at": 1755354258.9612896
       }
     },
     {
@@ -246,7 +276,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351176.2026227
+        "scraped_at": 1755354261.5302606
       }
     },
     {
@@ -261,7 +291,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351178.9870794
+        "scraped_at": 1755354264.1280062
       }
     },
     {
@@ -276,37 +306,7 @@
         "og_image": null,
         "merchant_links_count": 0,
         "deal_info": {},
-        "scraped_at": 1755351181.7122798
-      }
-    },
-    {
-      "title": "Food Basics & Metro Ontario: Save 20% on $50 H&M and Indigo Chapters Gift Cards",
-      "link": "https://smartcanucks.ca/food-basics-metro-ontario-save-20-on-50-hm-and-indigo-chapters-gift-cards/",
-      "published": "2025-08-13T22:54:09Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755351184.5317001
-      }
-    },
-    {
-      "title": "Biovea Canada: Save 15% on Your Order With Promo Code + Deals",
-      "link": "https://smartcanucks.ca/biovea-canada-save-15-on-your-order-with-promo-code-deals/",
-      "published": "2025-08-13T14:11:58Z",
-      "affiliate_processed": false,
-      "scraped_content": {
-        "title": "",
-        "content_preview": "",
-        "content_summary": "",
-        "og_image": null,
-        "merchant_links_count": 0,
-        "deal_info": {},
-        "scraped_at": 1755351187.2702491
+        "scraped_at": 1755354266.6742759
       }
     }
   ],
